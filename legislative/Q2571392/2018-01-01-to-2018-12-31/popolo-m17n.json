@@ -1,0 +1,121 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Sadiq Sanjrani",
+        "lang:ur": "صادق سنجرانی"
+      },
+      "id": "Q50320579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50320579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khan Habibullah Khan",
+        "lang:ur": "خان حبیب اللہ خان"
+      },
+      "id": "Q6150960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6150960"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Senate of Pakistan",
+        "lang:ur": "ایوان بالا پاکستان"
+      },
+      "id": "Q2571392",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2571392"
+        }
+      ],
+      "area_id": "Q843",
+      "seat_counts": {
+        "Q3297966": "104"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320579-25739051-4c0e-cebe-a967-19454ce364ab",
+      "person_id": "Q50320579",
+      "organization_id": "Q2571392",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q2269913",
+      "role_superclass": {
+        "lang:en": "president of the Senate"
+      },
+      "role_code": "Q3297966",
+      "role": {
+        "lang:en": "Chairman of the Senate of Pakistan",
+        "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320579-25739051-4c0e-cebe-a967-19454ce364ab",
+      "person_id": "Q50320579",
+      "organization_id": "Q2571392",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q20081441",
+      "role_superclass": {
+        "lang:en": "member of the Senate of Pakistan",
+        "lang:ur": "رکن ایوان بالا پاکستان"
+      },
+      "role_code": "Q3297966",
+      "role": {
+        "lang:en": "Chairman of the Senate of Pakistan",
+        "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6150960-53861A2D-4163-4CE8-B8E8-A53D7669F29F",
+      "person_id": "Q6150960",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q2269913",
+      "role_superclass": {
+        "lang:en": "president of the Senate"
+      },
+      "role_code": "Q3297966",
+      "role": {
+        "lang:en": "Chairman of the Senate of Pakistan",
+        "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6150960-53861A2D-4163-4CE8-B8E8-A53D7669F29F",
+      "person_id": "Q6150960",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q20081441",
+      "role_superclass": {
+        "lang:en": "member of the Senate of Pakistan",
+        "lang:ur": "رکن ایوان بالا پاکستان"
+      },
+      "role_code": "Q3297966",
+      "role": {
+        "lang:en": "Chairman of the Senate of Pakistan",
+        "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+      }
+    }
+  ]
+}
