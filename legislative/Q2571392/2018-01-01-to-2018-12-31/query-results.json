@@ -1,0 +1,288 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_ur", "party", "party_name_en", "party_name_ur", "district", "district_name_en", "district_name_ur", "role", "role_en", "role_ur", "role_superclass", "role_superclass_en", "role_superclass_ur", "start", "end", "facebook", "org", "org_en", "org_ur", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2269913"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Senate"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50320579"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صادق سنجرانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sadiq Sanjrani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50320579-25739051-4c0e-cebe-a967-19454ce364ab"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-12T00:00:00Z"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Pakistan"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50320579"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صادق سنجرانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sadiq Sanjrani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50320579-25739051-4c0e-cebe-a967-19454ce364ab"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-12T00:00:00Z"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن ایوان بالا پاکستان"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2269913"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Senate"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6150960"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خان حبیب اللہ خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khan Habibullah Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6150960-53861A2D-4163-4CE8-B8E8-A53D7669F29F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Pakistan"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6150960"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خان حبیب اللہ خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khan Habibullah Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6150960-53861A2D-4163-4CE8-B8E8-A53D7669F29F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن ایوان بالا پاکستان"
+      }
+    } ]
+  }
+}
