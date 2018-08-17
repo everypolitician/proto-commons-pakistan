@@ -23,17 +23,6 @@
     ]
   },
   {
-    "comment": "Senate of Pakistan",
-    "house_item_id": "Q2571392",
-    "position_item_id": "Q3297966",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Assembly of Balochistan",
     "house_item_id": "Q2867116",
     "position_item_id": null,
