@@ -1359,109 +1359,6 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15983338-303C8408-51C5-4188-8C73-85BEB24A548E"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13211686"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "حلقہ این اے 18"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency NA-18"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن پارلیمان"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20760546"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن قومی اسمبلی پاکستان"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly of Pakistan"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15983338"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Murtaza Javed Abbasi"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518223"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ایوان زیریں پاکستان"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly of Pakistan"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "342"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-06-01T00:00:00Z"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مرتضیٰ جاوید عباسی"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q799577"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان مسلم لیگ (ن)"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Muslim League (N)"
-      },
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q15983347-7B1DA05F-26DF-4C7E-BA2D-EB2FB38240D5"
       },
       "district" : {
@@ -3062,6 +2959,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زاہد حامد"
       }
     }, {
       "party" : {
@@ -3585,7 +3487,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Constituency NA-57"
+        "value" : "Constituency NA-55 (Attock-I)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4458,7 +4360,7 @@
       "district_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "حلقہ این اے۔270"
+        "value" : "این اے 270 (آوران مع لسبیلہ)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4529,6 +4431,16 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "جام کمال خان"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-05-31T00:00:00Z"
       }
     }, {
       "party" : {
@@ -12571,7 +12483,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mustafa Mehmood"
+        "value" : "Syed Mustafa Mahmud"
       },
       "org" : {
         "type" : "uri",
@@ -12600,6 +12512,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سید مصطفی محمود"
       }
     }, {
       "party" : {
@@ -19734,12 +19651,12 @@
       "district_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "حلقہ این اے۔58"
+        "value" : "حلقہ این اے۔56"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Constituency NA-58"
+        "value" : "Constituency NA-56"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -28283,6 +28200,11 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "رمیش کمار وانکوانی"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-05-31T00:00:00Z"
       }
     }, {
       "party" : {
@@ -29258,6 +29180,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نوید قمر"
       }
     }, {
       "party" : {
@@ -29328,104 +29255,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Babar Nawaz Khan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1518223"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ایوان زیریں پاکستان"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly of Pakistan"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "342"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-11-06T00:00:00Z"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q799577"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان مسلم لیگ (ن)"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Muslim League (N)"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21244923-F8935E97-A59B-4C33-B9AD-F261DE282163"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12857575"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "حلقہ این اے۔144"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Constituency NA-144"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن پارلیمان"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20760546"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن قومی اسمبلی پاکستان"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly of Pakistan"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21244923"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chaudhry Riaz-ul-Haq"
       },
       "org" : {
         "type" : "uri",
@@ -31361,7 +31190,12 @@
       "name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "چوہدری پرویز الٰہی"
+        "value" : "چودھری پرویز الٰہی"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-05-31T00:00:00Z"
       }
     }, {
       "party" : {
@@ -33701,6 +33535,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "دانیال عزیز"
       }
     }, {
       "party" : {
@@ -35026,6 +34865,11 @@
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
       },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رائے حسن نواز"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -35221,6 +35065,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2013-06-01T00:00:00Z"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رانا تنویر حسین"
       }
     }, {
       "party" : {

@@ -38,7 +38,7 @@ OPTIONAL {
   FILTER(LANG(?name_ur) = "ur")
 }
 
-  ?statement ps:P39 ?specific_role .
+  ?statement ps:P39/wdt:P279* ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_en
   FILTER(LANG(?role_en) = "en")

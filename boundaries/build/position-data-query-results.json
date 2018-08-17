@@ -1,0 +1,328 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_en", "position_name_ur", "positionType", "adminAreaTypes", "adminArea", "admin_area_en", "admin_area_ur", "positionSuperclass", "position_superclass_en", "position_superclass_ur", "body", "body_en", "body_ur" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Pakistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن ایوان بالا پاکستان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹر"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن قومی اسمبلی پاکستان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly of Pakistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان زیریں پاکستان"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Pakistan"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن ایوان بالا پاکستان"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3297966"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chairman of the Senate of Pakistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "امیر مجلس ایوان بالا پاکستان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2269913"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of the Senate"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Pakistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایوان بالا پاکستان"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33512801"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the 14th National Assembly of Pakistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن چودہویں قومی اسمبلی پاکستان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن قومی اسمبلی پاکستان"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29068722"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "14th National Assembly"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چودہویں قومی اسمبلی"
+      }
+    } ]
+  }
+}

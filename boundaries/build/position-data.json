@@ -1,0 +1,78 @@
+[
+  {
+    "role_id": "Q20081441",
+    "role_name": {
+      "lang:en": "member of the Senate of Pakistan",
+      "lang:ur": "رکن ایوان بالا پاکستان"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator",
+      "lang:ur": "سینیٹر"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2571392",
+    "organization_name": {
+      "lang:en": "Senate of Pakistan",
+      "lang:ur": "ایوان بالا پاکستان"
+    }
+  },
+  {
+    "role_id": "Q20760546",
+    "role_name": {
+      "lang:en": "Member of the National Assembly of Pakistan",
+      "lang:ur": "رکن قومی اسمبلی پاکستان"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament",
+      "lang:ur": "رکن پارلیمان"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1518223",
+    "organization_name": {
+      "lang:en": "National Assembly of Pakistan",
+      "lang:ur": "ایوان زیریں پاکستان"
+    }
+  },
+  {
+    "role_id": "Q3297966",
+    "role_name": {
+      "lang:en": "Chairman of the Senate of Pakistan",
+      "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+    },
+    "generic_role_id": "Q20081441",
+    "generic_role_name": {
+      "lang:en": "member of the Senate of Pakistan",
+      "lang:ur": "رکن ایوان بالا پاکستان"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2571392",
+    "organization_name": {
+      "lang:en": "Senate of Pakistan",
+      "lang:ur": "ایوان بالا پاکستان"
+    }
+  },
+  {
+    "role_id": "Q33512801",
+    "role_name": {
+      "lang:en": "Member of the 14th National Assembly of Pakistan",
+      "lang:ur": "رکن چودہویں قومی اسمبلی پاکستان"
+    },
+    "generic_role_id": "Q20760546",
+    "generic_role_name": {
+      "lang:en": "Member of the National Assembly of Pakistan",
+      "lang:ur": "رکن قومی اسمبلی پاکستان"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q29068722",
+    "organization_name": {
+      "lang:en": "14th National Assembly",
+      "lang:ur": "چودہویں قومی اسمبلی"
+    }
+  }
+]
