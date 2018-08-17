@@ -208,22 +208,6 @@
     },
     {
       "name": {
-        "lang:en": "Murtaza Javed Abbasi",
-        "lang:ur": "مرتضیٰ جاوید عباسی"
-      },
-      "id": "Q15983338",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q15983338"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Sikandar Bosan"
       },
       "id": "Q15983347",
@@ -458,7 +442,8 @@
     },
     {
       "name": {
-        "lang:en": "Zahid Hamid"
+        "lang:en": "Zahid Hamid",
+        "lang:ur": "زاہد حامد"
       },
       "id": "Q17198180",
       "identifiers": [
@@ -672,7 +657,8 @@
     },
     {
       "name": {
-        "lang:en": "Jam Kamal Khan"
+        "lang:en": "Jam Kamal Khan",
+        "lang:ur": "جام کمال خان"
       },
       "id": "Q18750287",
       "identifiers": [
@@ -1909,7 +1895,8 @@
     },
     {
       "name": {
-        "lang:en": "Mustafa Mehmood"
+        "lang:en": "Syed Mustafa Mahmud",
+        "lang:ur": "سید مصطفی محمود"
       },
       "id": "Q18815877",
       "identifiers": [
@@ -4465,7 +4452,8 @@
     },
     {
       "name": {
-        "lang:en": "Naveed Qamar"
+        "lang:en": "Naveed Qamar",
+        "lang:ur": "نوید قمر"
       },
       "id": "Q2112316",
       "identifiers": [
@@ -4487,21 +4475,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q21244865"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Chaudhry Riaz-ul-Haq"
-      },
-      "id": "Q21244923",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q21244923"
         }
       ],
       "links": [
@@ -4788,7 +4761,7 @@
     {
       "name": {
         "lang:en": "Chaudhry Pervaiz Elahi",
-        "lang:ur": "چوہدری پرویز الٰہی"
+        "lang:ur": "چودھری پرویز الٰہی"
       },
       "id": "Q2961554",
       "identifiers": [
@@ -5149,7 +5122,8 @@
     },
     {
       "name": {
-        "lang:en": "Daniyal Aziz"
+        "lang:en": "Daniyal Aziz",
+        "lang:ur": "دانیال عزیز"
       },
       "id": "Q5219888",
       "identifiers": [
@@ -5350,7 +5324,8 @@
     },
     {
       "name": {
-        "lang:en": "Rai Hassan Nawaz"
+        "lang:en": "Rai Hassan Nawaz",
+        "lang:ur": "رائے حسن نواز"
       },
       "id": "Q7283666",
       "identifiers": [
@@ -5380,7 +5355,8 @@
     },
     {
       "name": {
-        "lang:en": "Rana Tanveer Hussain"
+        "lang:en": "Rana Tanveer Hussain",
+        "lang:ur": "رانا تنویر حسین"
       },
       "id": "Q7290664",
       "identifiers": [
@@ -6061,24 +6037,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q15983338-303C8408-51C5-4188-8C73-85BEB24A548E",
-      "person_id": "Q15983338",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q1518223",
-      "area_id": "Q13211686",
-      "start_date": "2013-06-01",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:ur": "رکن پارلیمان"
-      },
-      "role_code": "Q20760546",
-      "role": {
-        "lang:en": "Member of the National Assembly of Pakistan",
-        "lang:ur": "رکن قومی اسمبلی پاکستان"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q15983347-7B1DA05F-26DF-4C7E-BA2D-EB2FB38240D5",
       "person_id": "Q15983347",
       "on_behalf_of_id": "Q799577",
@@ -6626,6 +6584,7 @@
       "organization_id": "Q1518223",
       "area_id": "Q12979281",
       "start_date": "2013-06-01",
+      "end_date": "2018-05-31",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -10972,6 +10931,7 @@
       "organization_id": "Q1518223",
       "area_id": "Q33513308",
       "start_date": "2013-06-01",
+      "end_date": "2018-05-31",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -11169,24 +11129,6 @@
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q1518223",
       "area_id": "Q13211687",
-      "start_date": "2015-11-06",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:ur": "رکن پارلیمان"
-      },
-      "role_code": "Q20760546",
-      "role": {
-        "lang:en": "Member of the National Assembly of Pakistan",
-        "lang:ur": "رکن قومی اسمبلی پاکستان"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q21244923-F8935E97-A59B-4C33-B9AD-F261DE282163",
-      "person_id": "Q21244923",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q1518223",
-      "area_id": "Q12857575",
       "start_date": "2015-11-06",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -11533,6 +11475,7 @@
       "organization_id": "Q1518223",
       "area_id": "Q12809204",
       "start_date": "2013-06-01",
+      "end_date": "2018-05-31",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
