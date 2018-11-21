@@ -2,6 +2,8 @@
   {
     "comment": "National Assembly",
     "house_item_id": "Q1518223",
+    "seat_count": "342",
+    "area_id": "Q843",
     "position_item_id": "Q20760546",
     "terms": [
       {
@@ -14,6 +16,8 @@
   {
     "comment": "Karachi Metropolitan Corporation",
     "house_item_id": "Q15982486",
+    "seat_count": "305",
+    "area_id": "Q8660",
     "position_item_id": "Q58873609",
     "terms": [
       {
@@ -25,6 +29,8 @@
   {
     "comment": "Gilgit-Baltistan Legislative Assembly",
     "house_item_id": "Q17053564",
+    "seat_count": "33",
+    "area_id": "Q200697",
     "position_item_id": "Q58873760",
     "terms": [
       {
@@ -36,6 +42,8 @@
   {
     "comment": "Azad Kashmir Legislative Assembly",
     "house_item_id": "Q18209789",
+    "seat_count": "49",
+    "area_id": "Q200130",
     "position_item_id": "Q58873603",
     "terms": [
       {
@@ -47,6 +55,8 @@
   {
     "comment": "Senate",
     "house_item_id": "Q2571392",
+    "seat_count": "104",
+    "area_id": "Q843",
     "position_item_id": "Q20081441",
     "terms": [
       {
@@ -58,6 +68,8 @@
   {
     "comment": "Khyber Pakhtunkhwa Assembly",
     "house_item_id": "Q2597438",
+    "seat_count": "124",
+    "area_id": "Q183314",
     "position_item_id": "Q58873753",
     "terms": [
       {
@@ -69,6 +81,8 @@
   {
     "comment": "Islamabad Metropolitan Corporation",
     "house_item_id": "Q28172637",
+    "seat_count": "77",
+    "area_id": "Q848613",
     "position_item_id": "Q58873781",
     "terms": [
       {
@@ -80,6 +94,8 @@
   {
     "comment": "Hyderabad Municipal Corporation",
     "house_item_id": "Q28223529",
+    "seat_count": "143",
+    "area_id": "Q1640079",
     "position_item_id": "Q58873780",
     "terms": [
       {
@@ -91,6 +107,8 @@
   {
     "comment": "Provincial Assembly of Balochistan",
     "house_item_id": "Q2867116",
+    "seat_count": "65",
+    "area_id": "Q163239",
     "position_item_id": "Q58873596",
     "terms": [
       {
@@ -102,6 +120,8 @@
   {
     "comment": "Provincial Assembly of Sindh",
     "house_item_id": "Q2867119",
+    "seat_count": "168",
+    "area_id": "Q37211",
     "position_item_id": "Q51876984",
     "terms": [
       {
@@ -113,6 +133,8 @@
   {
     "comment": "Rawalpindi Municipal Corporation",
     "house_item_id": "Q55641548",
+    "seat_count": "59",
+    "area_id": "Q93230",
     "position_item_id": "Q58873770",
     "terms": [
       {
@@ -124,6 +146,8 @@
   {
     "comment": "Metropolitan Corporation Lahore",
     "house_item_id": "Q58873610",
+    "seat_count": "318",
+    "area_id": "Q11739",
     "position_item_id": "Q58873767",
     "terms": [
       {
@@ -135,6 +159,8 @@
   {
     "comment": "Faisalabad Municipal Corporation",
     "house_item_id": "Q58873612",
+    "seat_count": "182",
+    "area_id": "Q173985",
     "position_item_id": "Q58873769",
     "terms": [
       {
@@ -146,6 +172,8 @@
   {
     "comment": "Municipal Corporation Gujranwala",
     "house_item_id": "Q58873615",
+    "seat_count": "97",
+    "area_id": "Q243322",
     "position_item_id": "Q58873772",
     "terms": [
       {
@@ -157,6 +185,8 @@
   {
     "comment": "City District Government Peshawar",
     "house_item_id": "Q58873618",
+    "seat_count": "138",
+    "area_id": "Q1113311",
     "position_item_id": "Q58873777",
     "terms": [
       {
@@ -168,6 +198,8 @@
   {
     "comment": "Municipal Corporation Multan",
     "house_item_id": "Q58873622",
+    "seat_count": "91",
+    "area_id": "Q185453",
     "position_item_id": "Q58873779",
     "terms": [
       {
@@ -179,6 +211,8 @@
   {
     "comment": "Quetta Metropolitan Corporation",
     "house_item_id": "Q58873626",
+    "seat_count": "6",
+    "area_id": "Q185458",
     "position_item_id": "Q58873783",
     "terms": [
       {
@@ -190,6 +224,8 @@
   {
     "comment": "Provincial Assembly of the Punjab",
     "house_item_id": "Q975150",
+    "seat_count": "371",
+    "area_id": "Q4478",
     "position_item_id": "Q55808168",
     "terms": [
       {
