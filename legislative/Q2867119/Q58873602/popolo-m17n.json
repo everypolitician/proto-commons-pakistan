@@ -1,14 +1,125 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Ghulam Shah Jeelani",
+        "lang:ur": "غلام شاہ جیلانی"
+      },
+      "id": "Q47389621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47389621"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Bari Pitafi"
+      },
+      "id": "Q55955803",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55955803"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarwat Fatima",
+        "lang:ur": "ثروت فاطمہ"
+      },
+      "id": "Q56065555",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065555"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Provincial Assembly of Sindh",
+        "lang:ur": "صوبائی اسمبلی سندھ"
+      },
+      "id": "Q2867119",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867119"
+        }
+      ],
+      "area_id": "Q37211",
+      "seat_counts": {
+        "Q51876984": "168"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47389621-d66baf99-43f1-aa87-4069-61e79a298349",
+      "person_id": "Q47389621",
+      "organization_id": "Q2867119",
+      "start_date": "2008-01-01",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55955803-a9371f31-4fc8-c3ed-fc25-b45ba1a4a7b2",
+      "person_id": "Q55955803",
+      "organization_id": "Q2867119",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065555-b8d06484-42a8-b9d2-127f-69e35bdb5102",
+      "person_id": "Q56065555",
+      "organization_id": "Q2867119",
+      "area_id": "Q33513293",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    }
   ]
 }

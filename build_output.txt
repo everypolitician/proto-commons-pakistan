@@ -44,6 +44,7 @@ WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found
 WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-27 Peshawar-I (Q58401782) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
+WARNING: the district NA-142 Okara-II (Q55624365) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-106 Faisalabad-VI (Q58401255) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-97 Bhakkar-I (Q58401220) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seat for Women in Sindh (Q58899207) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
@@ -63,6 +64,7 @@ WARNING: the district NA-105 Faisalabad-V (Q58401253) wasn't found in the bounda
 WARNING: the district NA-168 Bahawalnagar-III (Q58401402) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-107 Faisalabad-VII (Q58401257) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
+WARNING: the district NA-250 (Karachi-XII) (Q12857471) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-85 MBD-I (Q58401184) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-117 Nankana Sahib-I (Q58401286) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA-102 Faisalabad-II (Q58401246) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
@@ -107,6 +109,7 @@ WARNING: the district NA-270 Panjgorh-cum-Washuk-cum-Awaran (Q58401694) wasn't f
 WARNING: the district NA-88 Sargodha-I (Q58401188) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA 42 Mohmand (Q58401819) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district NA 44 Khyber-II (Q58401824) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
+WARNING: the district NA-183 Muzaffargarh-III (Q55624381) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seats for minorities (Q33513308) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
 WARNING: the district reserved seat for Women in Punjab (Q58899189) wasn't found in the boundary data for position Member of the National Assembly of Pakistan (Q20760546)
@@ -230,6 +233,7 @@ WARNING: Position Member of the Islamabad Metropolitan Corporation (Q58873781) n
 WARNING: Position Member of the Hyderabad Municipal Corporation (Q58873780) not in boundary associated_wikidata_positions
 WARNING: Position Member of Provincial Assembly of the Balochistan (Q58873596) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Provincial Assembly of Sindh (Q51876984) not in boundary associated_wikidata_positions
+WARNING: the district reserved seat for Women (Q33513293) wasn't found in the boundary data for position Member of the Provincial Assembly of Sindh (Q51876984)
 WARNING: Position Member of the Rawalpindi Municipal Corporation (Q58873770) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Metropolitan Corporation Lahore (Q58873767) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Faisalabad Municipal Corporation (Q58873769) not in boundary associated_wikidata_positions
@@ -238,3 +242,4 @@ WARNING: Position Member of the District Council Peshawar (Q58873777) not in bou
 WARNING: Position Member of the Municipal Corporation Multan (Q58873779) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Quetta Metropolitan Corporation (Q58873783) not in boundary associated_wikidata_positions
 WARNING: Position Member of the Provincial Assembly of the Punjab (Q55808168) not in boundary associated_wikidata_positions
+WARNING: the district PP-286 (Dera Ghazi Khan-II) (Q56173967) wasn't found in the boundary data for position Member of the Provincial Assembly of the Punjab (Q55808168)

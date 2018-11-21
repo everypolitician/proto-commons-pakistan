@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Azad Kashmir Legislative Assembly",
+        "lang:ur": "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "id": "Q18209789",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18209789"
+        }
+      ],
+      "area_id": "Q200130",
+      "seat_counts": {
+        "Q58873603": "49"
+      }
+    }
   ],
   "areas": [
 

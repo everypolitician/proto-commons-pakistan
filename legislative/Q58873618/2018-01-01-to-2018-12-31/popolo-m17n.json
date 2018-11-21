@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "City District Government Peshawar",
+        "lang:ur": "سٹی ڈسٹرکٹ گورنمنٹ پشاور"
+      },
+      "id": "Q58873618",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873618"
+        }
+      ],
+      "area_id": "Q1113311",
+      "seat_counts": {
+        "Q58873777": "138"
+      }
+    }
   ],
   "areas": [
 

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Municipal Corporation Multan",
+        "lang:ur": "میونسپل کارپوریشن ملتان"
+      },
+      "id": "Q58873622",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873622"
+        }
+      ],
+      "area_id": "Q185453",
+      "seat_counts": {
+        "Q58873779": "91"
+      }
+    }
   ],
   "areas": [
 

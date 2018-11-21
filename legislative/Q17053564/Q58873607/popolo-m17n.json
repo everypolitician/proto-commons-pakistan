@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Gilgit-Baltistan Legislative Assembly",
+        "lang:ur": "گلگت بلتستان قانون ساز اسمبلی"
+      },
+      "id": "Q17053564",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17053564"
+        }
+      ],
+      "area_id": "Q200697",
+      "seat_counts": {
+        "Q58873760": "33"
+      }
+    }
   ],
   "areas": [
 

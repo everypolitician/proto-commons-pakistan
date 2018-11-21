@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Khyber Pakhtunkhwa Assembly",
+        "lang:ur": "خیبرپختونخوا اسمبلی"
+      },
+      "id": "Q2597438",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2597438"
+        }
+      ],
+      "area_id": "Q183314",
+      "seat_counts": {
+        "Q58873753": "124"
+      }
+    }
   ],
   "areas": [
 

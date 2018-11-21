@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Provincial Assembly of Balochistan",
+        "lang:ur": "بلوچستان صوبائی اسمبلی"
+      },
+      "id": "Q2867116",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2867116"
+        }
+      ],
+      "area_id": "Q163239",
+      "seat_counts": {
+        "Q58873596": "65"
+      }
+    }
   ],
   "areas": [
 

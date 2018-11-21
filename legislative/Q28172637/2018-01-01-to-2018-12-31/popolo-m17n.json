@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Islamabad Metropolitan Corporation",
+        "lang:ur": "اسلام آباد میٹروپولیٹن کارپوریشن"
+      },
+      "id": "Q28172637",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28172637"
+        }
+      ],
+      "area_id": "Q848613",
+      "seat_counts": {
+        "Q58873781": "77"
+      }
+    }
   ],
   "areas": [
 

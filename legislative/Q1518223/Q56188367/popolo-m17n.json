@@ -722,6 +722,22 @@
     },
     {
       "name": {
+        "lang:en": "Riaz Ul Haq",
+        "lang:ur": "ریاض الحق"
+      },
+      "id": "Q21244923",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21244923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Rana Sana Ullah Khan",
         "lang:ur": "رانا ثنا اللہ خان"
       },
@@ -770,6 +786,22 @@
     },
     {
       "name": {
+        "lang:en": "Hina Rabbani Khar",
+        "lang:ur": "حنا ربانی کھر"
+      },
+      "id": "Q254122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q254122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Muhammad Aslam Khan",
         "lang:ur": "محمد اسلم خان"
       },
@@ -794,6 +826,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2842534"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Pervaiz Elahi",
+        "lang:ur": "چودھری پرویز الٰہی"
+      },
+      "id": "Q2961554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961554"
         }
       ],
       "links": [
@@ -1018,6 +1066,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47545710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arif Alvi",
+        "lang:ur": "عارف علوی"
+      },
+      "id": "Q4790529",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4790529"
         }
       ],
       "links": [
@@ -1722,6 +1786,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q55955737"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raza Rabbani Khar",
+        "lang:ur": "رضا ربانی کھر"
+      },
+      "id": "Q55956354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55956354"
         }
       ],
       "links": [
@@ -3045,6 +3125,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q21244923-CA881BE2-B251-4C7E-91E8-D1FDD5A9A652",
+      "person_id": "Q21244923",
+      "organization_id": "Q1518223",
+      "area_id": "Q55624365",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2130535-DDBC299A-9009-4047-A43B-9B280E2B2D77",
       "person_id": "Q2130535",
       "on_behalf_of_id": "Q799577",
@@ -3096,6 +3193,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q254122-2560c5b8-44b5-be87-1eaf-f99e9f0dad5a",
+      "person_id": "Q254122",
+      "organization_id": "Q1518223",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q27990057-39DC9253-81BD-43DD-B664-25524EC2C632",
       "person_id": "Q27990057",
       "on_behalf_of_id": "Q284454",
@@ -3118,6 +3231,23 @@
       "on_behalf_of_id": "Q659854",
       "organization_id": "Q1518223",
       "area_id": "Q58401762",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2961554-7e64f5ef-44da-6045-b61b-fe6e101b74b6",
+      "person_id": "Q2961554",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q1518223",
+      "start_date": "2018-07-25",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -3356,6 +3486,24 @@
       "on_behalf_of_id": "Q284454",
       "organization_id": "Q1518223",
       "area_id": "Q58401257",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4790529-04d1c1bc-429c-b428-10bc-3b66d10cb4f0",
+      "person_id": "Q4790529",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q1518223",
+      "area_id": "Q12857471",
+      "start_date": "2018-08-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -3980,6 +4128,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55767505-e8e86066-44e0-e33e-d913-859a79f8af9c",
+      "person_id": "Q55767505",
+      "organization_id": "Q1518223",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55767507-741DE681-85A8-44A4-B776-B9D3C3159606",
       "person_id": "Q55767507",
       "on_behalf_of_id": "Q284454",
@@ -4104,6 +4268,23 @@
       "on_behalf_of_id": "Q284454",
       "organization_id": "Q1518223",
       "area_id": "Q58401824",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:ur": "رکن پارلیمان"
+      },
+      "role_code": "Q20760546",
+      "role": {
+        "lang:en": "Member of the National Assembly of Pakistan",
+        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55956354-b5e407d4-4599-8609-7005-94bb65fdcd6d",
+      "person_id": "Q55956354",
+      "organization_id": "Q1518223",
+      "area_id": "Q55624381",
+      "start_date": "2018-08-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",

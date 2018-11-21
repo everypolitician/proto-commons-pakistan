@@ -1,14 +1,77 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Usman Ahmad Khan Buzdar",
+        "lang:ur": "سردار عثمان خان بزدار"
+      },
+      "id": "Q55825094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825094"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Provincial Assembly of the Punjab",
+        "lang:ur": "صوبائی اسمبلی پنجاب"
+      },
+      "id": "Q975150",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q975150"
+        }
+      ],
+      "area_id": "Q4478",
+      "seat_counts": {
+        "Q55808168": "371"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (Q)",
+        "lang:ur": "پاکستان مسلم لیگ ق"
+      },
+      "id": "Q864345",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q864345"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825094-8ad46da2-4164-b94a-0348-8167f318dd1f",
+      "person_id": "Q55825094",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q56173967",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    }
   ]
 }

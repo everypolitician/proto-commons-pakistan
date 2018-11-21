@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Faisalabad Municipal Corporation",
+        "lang:ur": "فیصل آباد میونسپل کارپوریشن"
+      },
+      "id": "Q58873612",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873612"
+        }
+      ],
+      "area_id": "Q173985",
+      "seat_counts": {
+        "Q58873769": "182"
+      }
+    }
   ],
   "areas": [
 
