@@ -2,8 +2,8 @@
   {
     "role_id": "Q20081441",
     "role_name": {
-      "lang:en": "member of the Senate of Pakistan",
-      "lang:ur": "رکن ایوان بالا پاکستان"
+      "lang:en": "Senator",
+      "lang:ur": "سینٹر"
     },
     "generic_role_id": "Q15686806",
     "generic_role_name": {
@@ -14,15 +14,15 @@
     "role_type": "Q4175034",
     "organization_id": "Q2571392",
     "organization_name": {
-      "lang:en": "Senate of Pakistan",
-      "lang:ur": "ایوان بالا پاکستان"
+      "lang:en": "Senate",
+      "lang:ur": "سینیٹ"
     }
   },
   {
     "role_id": "Q20760546",
     "role_name": {
       "lang:en": "Member of the National Assembly of Pakistan",
-      "lang:ur": "رکن قومی اسمبلی پاکستان"
+      "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
     },
     "generic_role_id": "Q486839",
     "generic_role_name": {
@@ -33,46 +33,157 @@
     "role_type": "Q4175034",
     "organization_id": "Q1518223",
     "organization_name": {
-      "lang:en": "National Assembly of Pakistan",
-      "lang:ur": "ایوان زیریں پاکستان"
+      "lang:en": "National Assembly",
+      "lang:ur": "قومی اسمبلی"
     }
   },
   {
     "role_id": "Q3297966",
     "role_name": {
       "lang:en": "Chairman of the Senate of Pakistan",
-      "lang:ur": "امیر مجلس ایوان بالا پاکستان"
+      "lang:ur": "صدر ایوان بالا پاکستان"
     },
     "generic_role_id": "Q20081441",
     "generic_role_name": {
-      "lang:en": "member of the Senate of Pakistan",
-      "lang:ur": "رکن ایوان بالا پاکستان"
+      "lang:en": "Senator",
+      "lang:ur": "سینٹر"
     },
     "role_level": "Q6256",
     "role_type": "Q4175034",
     "organization_id": "Q2571392",
     "organization_name": {
-      "lang:en": "Senate of Pakistan",
-      "lang:ur": "ایوان بالا پاکستان"
+      "lang:en": "Senate",
+      "lang:ur": "سینیٹ"
     }
   },
   {
-    "role_id": "Q33512801",
+    "role_id": "Q51876984",
     "role_name": {
-      "lang:en": "Member of the 14th National Assembly of Pakistan",
-      "lang:ur": "رکن چودہویں قومی اسمبلی پاکستان"
+      "lang:en": "Member of the Provincial Assembly of Sindh",
+      "lang:ur": "رکن صوبائی اسمبلی سندھ"
     },
-    "generic_role_id": "Q20760546",
+    "generic_role_id": "Q16259300",
     "generic_role_name": {
-      "lang:en": "Member of the National Assembly of Pakistan",
-      "lang:ur": "رکن قومی اسمبلی پاکستان"
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
     },
-    "role_level": "Q6256",
+    "role_level": "Q10864048",
     "role_type": "Q4175034",
-    "organization_id": "Q29068722",
+    "organization_id": "Q2867119",
     "organization_name": {
-      "lang:en": "14th National Assembly",
-      "lang:ur": "چودہویں قومی اسمبلی"
+      "lang:en": "Provincial Assembly of Sindh",
+      "lang:ur": "صوبائی اسمبلی سندھ"
+    }
+  },
+  {
+    "role_id": "Q55808168",
+    "role_name": {
+      "lang:en": "Member of the Provincial Assembly of the Punjab",
+      "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+    },
+    "generic_role_id": "Q16259300",
+    "generic_role_name": {
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q975150",
+    "organization_name": {
+      "lang:en": "Provincial Assembly of the Punjab",
+      "lang:ur": "صوبائی اسمبلی پنجاب"
+    }
+  },
+  {
+    "role_id": "Q58873596",
+    "role_name": {
+      "lang:en": "Member of Provincial Assembly of the Balochistan",
+      "lang:ur": "(صوبائی اسمبلی کے رکن (ایم پی اے"
+    },
+    "generic_role_id": "Q16259300",
+    "generic_role_name": {
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2867116",
+    "organization_name": {
+      "lang:en": "Provincial Assembly of Balochistan",
+      "lang:ur": "بلوچستان صوبائی اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873603",
+    "role_name": {
+      "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+      "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+    },
+    "generic_role_id": "Q16259300",
+    "generic_role_name": {
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q18209789",
+    "organization_name": {
+      "lang:en": "Azad Kashmir Legislative Assembly",
+      "lang:ur": "آزاد کشمیر قانون ساز اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873753",
+    "role_name": {
+      "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+    },
+    "generic_role_id": "Q16259300",
+    "generic_role_name": {
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2597438",
+    "organization_name": {
+      "lang:en": "Khyber Pakhtunkhwa Assembly",
+      "lang:ur": "خیبرپختونخوا اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873760",
+    "role_name": {
+      "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+    },
+    "generic_role_id": "Q16259300",
+    "generic_role_name": {
+      "lang:en": "Member of the Provincial Assembly",
+      "lang:ur": "رکن صوبائی اسمبلی"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17053564",
+    "organization_name": {
+      "lang:en": "Gilgit-Baltistan Legislative Assembly",
+      "lang:ur": "گلگت بلتستان قانون ساز اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873781",
+    "role_name": {
+      "lang:en": "Member of the Islamabad Metropolitan Corporation"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28172637",
+    "organization_name": {
+      "lang:en": "Islamabad Metropolitan Corporation",
+      "lang:ur": "اسلام آباد میٹروپولیٹن کارپوریشن"
     }
   }
 ]

@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:en": "Raja Zafar ul Haq",
-        "lang:ur": "راجہ ظفر الحق"
+        "lang:en": "Raja Muhammad Zafar-ul-Haq",
+        "lang:ur": "راجہ ظفرالحق"
       },
       "id": "Q13217263",
       "identifiers": [
@@ -95,6 +95,22 @@
     },
     {
       "name": {
+        "lang:en": "Muhammad Azam Khan Swati",
+        "lang:ur": "محمد اعظم خان سواتی"
+      },
+      "id": "Q16187331",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16187331"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Humayun Khan Mandokhel"
       },
       "id": "Q16194672",
@@ -110,7 +126,8 @@
     },
     {
       "name": {
-        "lang:en": "Muhammad Talha Mahmood Aryan"
+        "lang:en": "Muhammad Talha Mahmood",
+        "lang:ur": "محمد طلحہ محمود"
       },
       "id": "Q16194716",
       "identifiers": [
@@ -140,8 +157,24 @@
     },
     {
       "name": {
+        "lang:en": "Haroon Khan",
+        "lang:ur": "ہارون خان"
+      },
+      "id": "Q16226954",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16226954"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Mushahid Ullah Khan",
-        "lang:ur": "مشاہد اللہ خان"
+        "lang:ur": "مشاهد اللہ خان"
       },
       "id": "Q16730797",
       "identifiers": [
@@ -217,7 +250,24 @@
     },
     {
       "name": {
-        "lang:en": "Kalsoom Perveen"
+        "lang:en": "Pervaiz Rasheed",
+        "lang:ur": "پرویز رشید"
+      },
+      "id": "Q17198470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17198470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kalsoom Perveen",
+        "lang:ur": "كلثوم پروین"
       },
       "id": "Q17859863",
       "identifiers": [
@@ -368,6 +418,38 @@
     },
     {
       "name": {
+        "lang:en": "Ayesha Raza Farooq",
+        "lang:ur": "عائشہ رضا فاروق"
+      },
+      "id": "Q18763842",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18763842"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hafiz Abdul Karim",
+        "lang:ur": "حافظ عبدالکریم"
+      },
+      "id": "Q18764107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18764107"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Mir Muhammad Ali Rind"
       },
       "id": "Q19276768",
@@ -398,8 +480,8 @@
     },
     {
       "name": {
-        "lang:en": "Sajid Mir",
-        "lang:ur": "ساجد میر"
+        "lang:en": "Prof. Sajid Mir",
+        "lang:ur": "پروفیسر ساجد میر"
       },
       "id": "Q19421757",
       "identifiers": [
@@ -436,6 +518,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q19605065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Shibli Faraz",
+        "lang:ur": "سید شبلی فراز"
+      },
+      "id": "Q19662586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19662586"
         }
       ],
       "links": [
@@ -595,6 +693,262 @@
     },
     {
       "name": {
+        "lang:en": "Brig. (R) John Kenneth Williams",
+        "lang:ur": "بریگیڈیر (آر) جان کینتہ ولیمز"
+      },
+      "id": "Q26703099",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703099"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Tanvir Khan",
+        "lang:ur": "چوہدری تنویر خان"
+      },
+      "id": "Q26703100",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703100"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Jehanzeb Jamaldini",
+        "lang:ur": "ڈاکٹر جہانزیب جمالدینی"
+      },
+      "id": "Q26703101",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703101"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghous Muhammad Khan Niazi",
+        "lang:ur": "غوث محمد خان نیازی"
+      },
+      "id": "Q26703103",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703103"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gul Bashra",
+        "lang:ur": "گل بشرا"
+      },
+      "id": "Q26703104",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703104"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haji Momin Khan Afridi",
+        "lang:ur": "حاجی مومن خان آفریدی"
+      },
+      "id": "Q26703105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hillal Ur Rehman",
+        "lang:ur": "ہلال الرحمان"
+      },
+      "id": "Q26703107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703107"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Islamuddin Shaikh",
+        "lang:ur": "اسلام الدین شیخ"
+      },
+      "id": "Q26703109",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703109"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khushbakht Shujat",
+        "lang:ur": "خوشبخت شجاعت"
+      },
+      "id": "Q26703111",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703111"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liaqat Khan Tarakai",
+        "lang:ur": "لیاقت خان ترکئی"
+      },
+      "id": "Q26703112",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703112"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lt. General (R) Salahuddin Tirmizi",
+        "lang:ur": "لیفٹیننٹ جنرل (آر) صلاح الدین ترمذی"
+      },
+      "id": "Q26703113",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703113"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Muhammad Ateeq Shaikh",
+        "lang:ur": "میاں محمد عتیق شیخ"
+      },
+      "id": "Q26703116",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703116"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mir Kabeer Ahmed Muhammad Shahi",
+        "lang:ur": "میر کبیر احمد محمد شاہی"
+      },
+      "id": "Q26703118",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703118"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mir Muhammad Yousaf Badini",
+        "lang:ur": "میر محمد یوسف بدینی"
+      },
+      "id": "Q26703120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mir Nematullah Zehri",
+        "lang:ur": "میر نعمت اللہ زہری"
+      },
+      "id": "Q26703121",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703121"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohsin Aziz",
+        "lang:ur": "محسن عزیز"
+      },
+      "id": "Q26703122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Mufti Abdul Sattar",
         "lang:ur": "مفتی عبد الستار"
       },
@@ -603,6 +957,278 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703124"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ali Khan Saif",
+        "lang:ur": "محمد علی خان سیف"
+      },
+      "id": "Q26703125",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703125"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Javed Abbasi",
+        "lang:ur": "محمد جاوید عباسی"
+      },
+      "id": "Q26703127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703127"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Usman Khan Kakar",
+        "lang:ur": "محمد عثمان خان کاکڑ"
+      },
+      "id": "Q26703129",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703129"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Najma Hameed",
+        "lang:ur": "نجمہ حمید"
+      },
+      "id": "Q26703132",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703132"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nauman Wazir Khattak",
+        "lang:ur": "نعمان وزیر خٹک"
+      },
+      "id": "Q26703134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nighat Mirza",
+        "lang:ur": "نگہت مرزا"
+      },
+      "id": "Q26703136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rahila Magsi",
+        "lang:ur": "راحیلہ مگسی"
+      },
+      "id": "Q26703139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robina Khalid",
+        "lang:ur": "روبینہ خالد"
+      },
+      "id": "Q26703141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saleem Zia",
+        "lang:ur": "سلیم ضیا"
+      },
+      "id": "Q26703145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samina Saeed",
+        "lang:ur": "ثمینہ سعید"
+      },
+      "id": "Q26703146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Muhammad Azam Khan Musakhel",
+        "lang:ur": "سردار محمد اعظم خان موسی خیل"
+      },
+      "id": "Q26703148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sitara Ayaz",
+        "lang:ur": "ستارہ ایاز"
+      },
+      "id": "Q26703151",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26703151"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Qazi Hussain Ahmad",
+        "lang:ur": "قاضی حسین احمد"
+      },
+      "id": "Q2723448",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2723448"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hidayat Ullah",
+        "lang:ur": "ہدایت اللہ"
+      },
+      "id": "Q28059500",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059500"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Ashok Kumar",
+        "lang:ur": "ڈاکٹر اشوک کمار"
+      },
+      "id": "Q28059643",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059643"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aurangzeb Khan",
+        "lang:ur": "اورنگزیب خان"
+      },
+      "id": "Q28059646",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059646"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gianchand",
+        "lang:ur": "گیانچند"
+      },
+      "id": "Q28059675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28059675"
         }
       ],
       "links": [
@@ -634,6 +1260,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2985594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Farooq Hamid Naek",
+        "lang:ur": "فاروق حمید نائیک"
+      },
+      "id": "Q3066985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3066985"
         }
       ],
       "links": [
@@ -706,7 +1348,26 @@
     },
     {
       "name": {
-        "lang:en": "Rana Mahmood-ul-Hassan",
+        "lang:en": "Chaudhry Mohammad Sarwar",
+        "lang:ur": "چودھری محمد سرور"
+      },
+      "id": "Q334072",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334072"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/chmohammadsarwar"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Mahmood ul Hassan",
         "lang:ur": "رانا محمود الحسن"
       },
       "id": "Q33528922",
@@ -753,6 +1414,38 @@
     },
     {
       "name": {
+        "lang:en": "Prof. Dr. Mehr Taj Roghani",
+        "lang:ur": "پروفیسر ڈاکٹر مہرا تاج روغانی"
+      },
+      "id": "Q42328675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42328675"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Sikandar Mandhro",
+        "lang:ur": "ڈاکٹر سکندر میندرو"
+      },
+      "id": "Q42781134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42781134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Pir Hameeduddin Sialvi",
         "lang:ur": "حمید الدین سیالوی"
       },
@@ -769,7 +1462,24 @@
     },
     {
       "name": {
-        "lang:en": "Syed Asif Saeed Kirmani"
+        "lang:en": "Agha Shahzaib Durrani",
+        "lang:ur": "آغا شاہ زیب درانی"
+      },
+      "id": "Q45316226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45316226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Asif Kirmani",
+        "lang:ur": "ڈاکٹر آصف کرمانی"
       },
       "id": "Q45316228",
       "identifiers": [
@@ -784,7 +1494,8 @@
     },
     {
       "name": {
-        "lang:en": "Abdul Ghafoor Haideri"
+        "lang:en": "Molana Abdul Ghafoor Haideri",
+        "lang:ur": "مولانا عبد غفور حیدری"
       },
       "id": "Q4665329",
       "identifiers": [
@@ -831,6 +1542,22 @@
     },
     {
       "name": {
+        "lang:en": "Lt. General (R) Abdul Qayyum",
+        "lang:ur": "لیفٹیننٹ جنرل (آر) عبدالقیوم"
+      },
+      "id": "Q4665605",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4665605"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Akram Zaki"
       },
       "id": "Q4701628",
@@ -861,7 +1588,24 @@
     },
     {
       "name": {
-        "lang:en": "Faisal Javed Khan"
+        "lang:en": "Dr. Asad Ashraf",
+        "lang:ur": "ڈاکٹر اسد اشرف"
+      },
+      "id": "Q50286919",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50286919"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faisal Javed",
+        "lang:ur": "فیصل جاوید"
       },
       "id": "Q50320458",
       "identifiers": [
@@ -876,7 +1620,8 @@
     },
     {
       "name": {
-        "lang:en": "Asad Junejo"
+        "lang:en": "Muhammad Asad Ali Khan Junejo",
+        "lang:ur": "محمد اسد علی خان جونیجو‬"
       },
       "id": "Q50320527",
       "identifiers": [
@@ -891,7 +1636,8 @@
     },
     {
       "name": {
-        "lang:en": "Mirza Muhammad Afridi"
+        "lang:en": "Mirza Muhammad Afridi",
+        "lang:ur": "مرزا محمد آفریدی"
       },
       "id": "Q50320528",
       "identifiers": [
@@ -906,7 +1652,8 @@
     },
     {
       "name": {
-        "lang:en": "Shammim Afridi"
+        "lang:en": "Shammim Afridi",
+        "lang:ur": "شمیم آفریدی"
       },
       "id": "Q50320531",
       "identifiers": [
@@ -921,8 +1668,8 @@
     },
     {
       "name": {
-        "lang:en": "Sadiq Sanjrani",
-        "lang:ur": "صادق سنجرانی"
+        "lang:en": "Muhammad Sadiq Sanjrani",
+        "lang:ur": "محمد صادق سنجرانی"
       },
       "id": "Q50320579",
       "identifiers": [
@@ -937,7 +1684,8 @@
     },
     {
       "name": {
-        "lang:en": "Syed Muhammad Ali Shah Jamot"
+        "lang:en": "Syed Muhammad Ali Shah Jamot",
+        "lang:ur": "سید محمد علی شاہ"
       },
       "id": "Q50320580",
       "identifiers": [
@@ -953,7 +1701,7 @@
     {
       "name": {
         "lang:en": "Anwar Lal Dean",
-        "lang:ur": "انور لعل دین"
+        "lang:ur": "انور لال دین"
       },
       "id": "Q50320581",
       "identifiers": [
@@ -968,7 +1716,8 @@
     },
     {
       "name": {
-        "lang:en": "Kauda Babar"
+        "lang:en": "Kauda Babar",
+        "lang:ur": "کودا بابر"
       },
       "id": "Q50320647",
       "identifiers": [
@@ -983,7 +1732,8 @@
     },
     {
       "name": {
-        "lang:en": "Molvi Faiz"
+        "lang:en": "Molvi Faiz Muhammad",
+        "lang:ur": "مولوی فیض محمد"
       },
       "id": "Q50320650",
       "identifiers": [
@@ -998,7 +1748,8 @@
     },
     {
       "name": {
-        "lang:en": "Rukhsana Zuberi"
+        "lang:en": "Engr. Rukhsana Zuberi",
+        "lang:ur": "انجینئر رخسانہ زبیری"
       },
       "id": "Q50320882",
       "identifiers": [
@@ -1013,7 +1764,8 @@
     },
     {
       "name": {
-        "lang:en": "Musadik Masood Malik"
+        "lang:en": "Musadik Masood Malik",
+        "lang:ur": "مصدق مسعود ملک"
       },
       "id": "Q50320883",
       "identifiers": [
@@ -1028,7 +1780,8 @@
     },
     {
       "name": {
-        "lang:en": "Rana Maqbool Ahmad"
+        "lang:en": "Rana Maqbool Ahmad",
+        "lang:ur": "رانا مقبول احمد"
       },
       "id": "Q50320886",
       "identifiers": [
@@ -1059,7 +1812,8 @@
     },
     {
       "name": {
-        "lang:en": "Quratulain Marri"
+        "lang:en": "Quratulain Marri",
+        "lang:ur": "قرۃ العین مری"
       },
       "id": "Q50320930",
       "identifiers": [
@@ -1074,7 +1828,8 @@
     },
     {
       "name": {
-        "lang:en": "Mustafa Nawaz Khokhar"
+        "lang:en": "Mustafa Nawaz Khokhar",
+        "lang:ur": "مصطفی نواز کھوکھر"
       },
       "id": "Q50320931",
       "identifiers": [
@@ -1089,7 +1844,8 @@
     },
     {
       "name": {
-        "lang:en": "Shaheen Khalid Butt"
+        "lang:en": "Shaheen Khalid Butt",
+        "lang:ur": "شاہین خالد بٹ"
       },
       "id": "Q50320932",
       "identifiers": [
@@ -1104,7 +1860,8 @@
     },
     {
       "name": {
-        "lang:en": "Abida Muhammad Azeem"
+        "lang:en": "Abida Muhammad Azeem",
+        "lang:ur": "عابدہ محمد عظیم"
       },
       "id": "Q50320964",
       "identifiers": [
@@ -1119,7 +1876,8 @@
     },
     {
       "name": {
-        "lang:en": "Naseebullah Bazai"
+        "lang:en": "Naseebullah Bazai",
+        "lang:ur": "نصیب اللہ بزائ"
       },
       "id": "Q50320965",
       "identifiers": [
@@ -1134,7 +1892,8 @@
     },
     {
       "name": {
-        "lang:en": "Sana Jamali"
+        "lang:en": "Sana Jamali",
+        "lang:ur": "ثناء جمالی"
       },
       "id": "Q50320968",
       "identifiers": [
@@ -1149,7 +1908,8 @@
     },
     {
       "name": {
-        "lang:en": "Tahir Bizenjo"
+        "lang:en": "Muhammad Tahir Bizinjo",
+        "lang:ur": "محمد طاہر بزنجو"
       },
       "id": "Q50320971",
       "identifiers": [
@@ -1164,7 +1924,24 @@
     },
     {
       "name": {
-        "lang:en": "Bahramand Tangi"
+        "lang:en": "Muhammad Ayub",
+        "lang:ur": "محمد ایوب"
+      },
+      "id": "Q50321004",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50321004"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bahramand Khan Tangi",
+        "lang:ur": "بہرمند خان تنگی"
       },
       "id": "Q50321005",
       "identifiers": [
@@ -1179,7 +1956,8 @@
     },
     {
       "name": {
-        "lang:en": "Imamuddin Shouqeen"
+        "lang:en": "Imamuddin Shouqeen",
+        "lang:ur": "امام الدین شوقین"
       },
       "id": "Q50321006",
       "identifiers": [
@@ -1194,7 +1972,8 @@
     },
     {
       "name": {
-        "lang:en": "Sardar Muhammad Shafiq Tareen"
+        "lang:en": "Sardar Muhammad Shafiq Tareen",
+        "lang:ur": "سردار محمد شفیق ترین"
       },
       "id": "Q50321007",
       "identifiers": [
@@ -1224,7 +2003,8 @@
     },
     {
       "name": {
-        "lang:en": "Mushtaq Ahmad Khan"
+        "lang:en": "Mushtaq Ahmed",
+        "lang:ur": "مشتاق احمد"
       },
       "id": "Q50326319",
       "identifiers": [
@@ -1255,7 +2035,8 @@
     },
     {
       "name": {
-        "lang:en": "Anwarul Haq Kakar"
+        "lang:en": "Anwar ul Haq Kakar",
+        "lang:ur": "انورالحق کاکر"
       },
       "id": "Q50345548",
       "identifiers": [
@@ -1285,7 +2066,8 @@
     },
     {
       "name": {
-        "lang:en": "Fida Mohammad"
+        "lang:en": "Fida Muhammad",
+        "lang:ur": "فدا محمد"
       },
       "id": "Q50379432",
       "identifiers": [
@@ -1315,6 +2097,22 @@
     },
     {
       "name": {
+        "lang:en": "Dr. Muhammad Farogh Naseem",
+        "lang:ur": "ڈاکٹر محمد فروغ نسیم"
+      },
+      "id": "Q5436115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5436115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Shuja-ul-Mulk"
       },
       "id": "Q54614162",
@@ -1330,6 +2128,53 @@
     },
     {
       "name": {
+        "lang:en": "Ghulam Faruque"
+      },
+      "id": "Q5557572",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5557572"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmed Khan",
+        "lang:ur": "احمد خان"
+      },
+      "id": "Q55603361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55603361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dilawar Khan",
+        "lang:ur": "دلاور خان"
+      },
+      "id": "Q55609591",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55609591"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Roshan Khursheed Bharucha"
       },
       "id": "Q55956174",
@@ -1337,6 +2182,51 @@
         {
           "scheme": "wikidata",
           "identifier": "Q55956174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Javed Iqbal Abbasi"
+      },
+      "id": "Q56044217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56044217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ali Durrani"
+      },
+      "id": "Q56273898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56273898"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saifur Rehman"
+      },
+      "id": "Q56276880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56276880"
         }
       ],
       "links": [
@@ -1392,7 +2282,37 @@
     },
     {
       "name": {
-        "lang:en": "Hasil Bizenjo",
+        "lang:en": "Sheikh Ejaz Ahmad"
+      },
+      "id": "Q56524215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56524215"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohsin Siddiqui"
+      },
+      "id": "Q56545772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56545772"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hasil Khan Bizenjo",
         "lang:ur": "حاصل خان بزنجو"
       },
       "id": "Q5679141",
@@ -1408,8 +2328,8 @@
     },
     {
       "name": {
-        "lang:en": "Rehman Malik",
-        "lang:ur": "رحمان ملک"
+        "lang:en": "Abdul Rehman Malik",
+        "lang:ur": "عبدالرحمان ملک"
       },
       "id": "Q567965",
       "identifiers": [
@@ -1520,6 +2440,22 @@
     },
     {
       "name": {
+        "lang:en": "Khanzada Khan",
+        "lang:ur": "خانزاده خان"
+      },
+      "id": "Q6400431",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400431"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Khatumal Jeevan"
       },
       "id": "Q6400970",
@@ -1567,7 +2503,24 @@
     },
     {
       "name": {
-        "lang:en": "Moula Bakhsh Chandio"
+        "lang:en": "Atta ur Rehman",
+        "lang:ur": "عطاالرحمان"
+      },
+      "id": "Q6792420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6792420"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moula Bux Chandio",
+        "lang:ur": "مولابخش چاندیو"
       },
       "id": "Q6918938",
       "identifiers": [
@@ -1597,14 +2550,30 @@
     },
     {
       "name": {
-        "lang:en": "Mushahid Hussain Syed",
-        "lang:ur": "مشاہد حسین"
+        "lang:en": "Mushahid Hussain Sayed",
+        "lang:ur": "مشاهد حسین سید"
       },
       "id": "Q6941231",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q6941231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Muzafar Hussain Shah",
+        "lang:ur": "سید مظفر حسین شاہ"
+      },
+      "id": "Q6944347",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6944347"
         }
       ],
       "links": [
@@ -1643,8 +2612,8 @@
     },
     {
       "name": {
-        "lang:en": "Raza Rabbani",
-        "lang:ur": "رضا ربانى"
+        "lang:en": "Mian Raza Rabbani",
+        "lang:ur": "میاں رضا ربانی"
       },
       "id": "Q7299452",
       "identifiers": [
@@ -1704,6 +2673,22 @@
     },
     {
       "name": {
+        "lang:en": "Saleem Mandviwalla",
+        "lang:ur": "سلیم مانڈوی والا"
+      },
+      "id": "Q7403854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7403854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Sanaullah Baloch"
       },
       "id": "Q7415549",
@@ -1719,8 +2704,24 @@
     },
     {
       "name": {
+        "lang:en": "Sardar Muhammad Yaqoob Khan Nasar",
+        "lang:ur": "سردار محمد یعقوب خان ناصر"
+      },
+      "id": "Q7423749",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7423749"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Sassui Palijo",
-        "lang:ur": "سسی پلیجو"
+        "lang:ur": "سسي پليجو"
       },
       "id": "Q7425795",
       "identifiers": [
@@ -1750,6 +2751,53 @@
     },
     {
       "name": {
+        "lang:en": "Sirajul Haq",
+        "lang:ur": "سراج الحق"
+      },
+      "id": "Q7529921",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7529921"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sultan Ali Lakhani"
+      },
+      "id": "Q7636633",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7636633"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Mustafa Kamal",
+        "lang:ur": "سید مصطفیٰ کمال"
+      },
+      "id": "Q7660410",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7660410"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Zahid Khan"
       },
       "id": "Q8064661",
@@ -1767,8 +2815,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Senate of Pakistan",
-        "lang:ur": "ایوان بالا پاکستان"
+        "lang:en": "Senate",
+        "lang:ur": "سینیٹ"
       },
       "id": "Q2571392",
       "classification": "branch",
@@ -1782,6 +2830,174 @@
       "seat_counts": {
         "Q20081441": "104"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Muttahida Qaumi Movement",
+        "lang:ur": "متحدہ قومی موومنٹ"
+      },
+      "id": "Q1265113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265113"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jamiat Ulema-e-Islam",
+        "lang:ur": "جمیعت علمائے اسلام"
+      },
+      "id": "Q13211655",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13211655"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakhtunkhwa Milli Awami Party",
+        "lang:ur": "پختونخوا ملی عوامی پارٹی"
+      },
+      "id": "Q13212022",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13212022"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "National Party",
+        "lang:ur": "نیشنل پارٹی (پاکستان)"
+      },
+      "id": "Q13219795",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13219795"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jamaat-e-Islami",
+        "lang:ur": "جماعت اسلامی پاکستان"
+      },
+      "id": "Q1475103",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1475103"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (F)",
+        "lang:ur": "پاکستان مسلم لیگ ف"
+      },
+      "id": "Q3065070",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3065070"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Balochistan National Party",
+        "lang:ur": "بلوچستان نیشنل پارٹی"
+      },
+      "id": "Q3130105",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3130105"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Awami National Party",
+        "lang:ur": "عوامی نیشنل پارٹی"
+      },
+      "id": "Q659854",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q659854"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party Parliamentarians",
+        "lang:ur": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "id": "Q7125678",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125678"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -1799,8 +3015,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13217263-19B202CF-947D-4F49-BFAD-740CB7556BE0",
+      "person_id": "Q13217263",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1814,8 +3048,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1829,8 +3063,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1844,8 +3078,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1859,8 +3093,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1874,8 +3108,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16187331-9EC3E01E-6A2E-47FC-AB48-C97A0683B411",
+      "person_id": "Q16187331",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1889,8 +3141,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16194716-4FF896CF-4B29-486C-9833-9F3DF8D3480F",
+      "person_id": "Q16194716",
+      "on_behalf_of_id": "Q13211655",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1904,8 +3174,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1919,8 +3189,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16226954-EDA01F5B-2607-4E4B-B59B-1C5E549C9DE8",
+      "person_id": "Q16226954",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16730797-501AAF8D-261A-4ADF-B6FD-47E87D059B81",
+      "person_id": "Q16730797",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1934,8 +3240,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1949,8 +3255,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1964,8 +3270,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1979,8 +3285,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -1994,8 +3300,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17198470-F5EE52F4-8D60-4841-9F77-6DB92D27FD29",
+      "person_id": "Q17198470",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17859863-0D2BF1A5-CA62-4D40-827C-34BFA3786EE6",
+      "person_id": "Q17859863",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2009,8 +3351,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2024,8 +3366,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2039,8 +3381,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2054,8 +3396,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2069,8 +3411,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2084,8 +3426,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2099,8 +3441,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2114,8 +3456,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2129,8 +3471,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2144,8 +3486,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18763842-6DFDE2B3-869D-405A-B51D-E4872207C430",
+      "person_id": "Q18763842",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18764107-B087A1A2-7306-4C03-9F3C-279ADB4931EA",
+      "person_id": "Q18764107",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2159,8 +3537,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2174,8 +3552,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2189,8 +3567,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19421757-FFA59C99-04F2-4497-9BED-E5E830ABEFF7",
+      "person_id": "Q19421757",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2204,8 +3600,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2219,8 +3615,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19662586-43820B88-2848-4726-BB43-B97BEF469EA7",
+      "person_id": "Q19662586",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2234,8 +3648,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2249,8 +3663,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2264,8 +3678,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2279,8 +3693,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2294,8 +3708,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2309,8 +3723,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2324,8 +3738,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2339,8 +3753,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2354,8 +3768,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2369,8 +3783,296 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703099-3A0130DA-6BAA-4491-8807-864F877D574F",
+      "person_id": "Q26703099",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703100-8B7A7731-72BE-4EE3-8CFF-9509FF304170",
+      "person_id": "Q26703100",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703101-9E68678C-16D5-41F9-B2E5-B8A06C02574B",
+      "person_id": "Q26703101",
+      "on_behalf_of_id": "Q3130105",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703103-9340FA11-A0AD-4F6E-9434-1381980E8ADD",
+      "person_id": "Q26703103",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703104-0E89FCF4-B603-407D-B1A8-2EB1DB881B96",
+      "person_id": "Q26703104",
+      "on_behalf_of_id": "Q13212022",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703105-38C65F25-BE8A-490F-9171-B3279981DD23",
+      "person_id": "Q26703105",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781044",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703107-FBD8A019-AF8A-4B43-9591-374DA10E69D9",
+      "person_id": "Q26703107",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781044",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703109-53F00BEE-2A62-4089-8BEB-2607E2B4B37F",
+      "person_id": "Q26703109",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703111-7C9EC007-FC48-4EE1-A35A-69BA369C8F83",
+      "person_id": "Q26703111",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703112-A69DD452-98EA-42A3-A919-E1B65CF7D901",
+      "person_id": "Q26703112",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703113-816E4CEB-95C2-4B87-8D5B-3413712A063B",
+      "person_id": "Q26703113",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703116-3376432D-4D78-4DA9-B83D-DEB0AEFF88BE",
+      "person_id": "Q26703116",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703118-F63C9A5B-B305-45AF-A5DD-E7D97B7935DA",
+      "person_id": "Q26703118",
+      "on_behalf_of_id": "Q13219795",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703120-CB3D7496-0A1C-4BDF-840A-AFEAC198DBA0",
+      "person_id": "Q26703120",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703121-E666FDEE-C082-4AFC-9137-0C566FAE076B",
+      "person_id": "Q26703121",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703122-2EA8FA82-77E4-4A5C-B88B-8275529F259D",
+      "person_id": "Q26703122",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2385,8 +4087,311 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703125-A1EC90CD-FCC1-42B4-B683-D0209A38087C",
+      "person_id": "Q26703125",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703127-D594B05A-792A-464E-A265-6A18E09C73A2",
+      "person_id": "Q26703127",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703129-8A0EE9B1-96D2-4D20-A56E-DD51F597DEBF",
+      "person_id": "Q26703129",
+      "on_behalf_of_id": "Q13212022",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703132-541BC10A-9B2A-493A-8F8C-A09D7181FE97",
+      "person_id": "Q26703132",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703134-36EA258A-362E-48C6-BA16-2936FF73C271",
+      "person_id": "Q26703134",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703136-BF679C1E-E416-43E9-AE41-BC643AFFCC38",
+      "person_id": "Q26703136",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703139-D08F8A55-E142-492E-98AC-7DB8D2D04711",
+      "person_id": "Q26703139",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781038",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703141-B136A560-1820-415F-88D6-41F21D9FEF58",
+      "person_id": "Q26703141",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703145-96125F44-6887-4EAC-B61E-29605DC542ED",
+      "person_id": "Q26703145",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703146-E61705F6-3B9A-468E-8CAB-A68029889B95",
+      "person_id": "Q26703146",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703148-8EA3089E-295B-45FB-AE85-64BB1E6A712E",
+      "person_id": "Q26703148",
+      "on_behalf_of_id": "Q13212022",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26703151-18ADCCE5-5AA4-486E-8E7C-10CD428F9CD5",
+      "person_id": "Q26703151",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2723448-561a6e0e-11c5-4539-998e-b0f2fab9e136",
+      "person_id": "Q2723448",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059500-41406562-4807-4A4D-8EC1-2DB78DD0F2B2",
+      "person_id": "Q28059500",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781044",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059643-6BA49FB4-6694-4368-9A33-BF6520051BC4",
+      "person_id": "Q28059643",
+      "on_behalf_of_id": "Q13219795",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059646-C7A7FBCE-F6EF-46B0-919C-410B60C60F46",
+      "person_id": "Q28059646",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781044",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28059675-D0D81851-C21A-4ABC-A75A-73240372011B",
+      "person_id": "Q28059675",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2400,8 +4405,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2415,8 +4420,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2985594-68732E12-06B4-4431-B910-B3E94C0A1CE8",
+      "person_id": "Q2985594",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3066985-A2402383-63A4-4211-B474-FEF123437F87",
+      "person_id": "Q3066985",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2430,8 +4471,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2445,8 +4486,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2460,8 +4501,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2475,8 +4516,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334072-50462589-CA78-4637-BC89-89BDDA47A4FE",
+      "person_id": "Q334072",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33528922-4FA3F3EC-921D-4064-AE20-20E05812CA76",
+      "person_id": "Q33528922",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2490,8 +4567,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2505,8 +4582,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2520,8 +4597,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42328675-26DC7C38-F427-4FA3-B819-C93A141DC1BE",
+      "person_id": "Q42328675",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42781134-4192D850-6125-4372-96D8-1F2B3F4039BE",
+      "person_id": "Q42781134",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2535,8 +4648,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45316226-27F5DFE1-3233-4E03-8577-CFB49103F36E",
+      "person_id": "Q45316226",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2550,8 +4681,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45316228-D8C9C9F5-1C7D-4E85-98F2-021BE1FB42F5",
+      "person_id": "Q45316228",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2565,8 +4714,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665329-B430D64C-BC94-43F9-9F88-19D73CDEA6D9",
+      "person_id": "Q4665329",
+      "on_behalf_of_id": "Q13211655",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2580,8 +4747,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2595,8 +4762,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4665605-56745050-1633-46D0-A7C7-1B17B468EC7C",
+      "person_id": "Q4665605",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2610,8 +4795,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2625,8 +4810,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50286919-3C84A553-BAF7-4F2E-91EF-EE8EC4507633",
+      "person_id": "Q50286919",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2640,8 +4843,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320458-A0F47094-743D-4A28-9C34-5ED63F288744",
+      "person_id": "Q50320458",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320527-B89D4F1E-10BD-4CA9-9208-E7E0F431B65C",
+      "person_id": "Q50320527",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781038",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2655,8 +4894,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2670,8 +4909,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320528-ADA25C5F-73B5-4D15-B89C-920AD81F962E",
+      "person_id": "Q50320528",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781044",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2685,8 +4942,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2701,8 +4958,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320579-AD07AA24-0C38-420C-A848-46AE86454AEE",
+      "person_id": "Q50320579",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2716,8 +4991,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320580-F97BD94B-E26F-4F2D-BE0C-4D801B41FE0A",
+      "person_id": "Q50320580",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2731,8 +5024,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320581-FD6EEAA8-5DBA-44EA-9FD5-9E362D410F3B",
+      "person_id": "Q50320581",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320647-5287D7EB-64DD-48A7-A2EA-11540096FAA2",
+      "person_id": "Q50320647",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2746,8 +5075,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2761,8 +5090,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320650-E1740118-EA82-407B-82C8-DF3831A00EB5",
+      "person_id": "Q50320650",
+      "on_behalf_of_id": "Q13211655",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320882-2D0A5F31-B14D-47F4-AA8E-012E3CC60826",
+      "person_id": "Q50320882",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2776,8 +5141,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2791,8 +5156,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320883-3509A198-9019-483A-836C-770380F153F8",
+      "person_id": "Q50320883",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2806,8 +5189,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320886-CB04AE71-093C-45D1-A8F5-C146A80D4BF0",
+      "person_id": "Q50320886",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2821,8 +5222,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320930-8558F845-59BF-49F3-BC77-0435FB1A4395",
+      "person_id": "Q50320930",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2836,8 +5255,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2851,8 +5270,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320931-C7219EA8-4310-4A22-8815-8859BE3CD195",
+      "person_id": "Q50320931",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2866,8 +5303,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2881,8 +5318,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2896,8 +5333,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2911,8 +5348,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2926,8 +5363,59 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50320971-7764CC12-A229-47FA-97CC-E42A5B939140",
+      "person_id": "Q50320971",
+      "on_behalf_of_id": "Q13219795",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50321004-594883b4-6e55-46d9-bf7b-0a0031dce8e7",
+      "person_id": "Q50321004",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50321004-D374AC92-094F-47E3-ADC9-50724441AD65",
+      "person_id": "Q50321004",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2941,8 +5429,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50321005-2AE28017-8D22-48E3-A956-4516436B4DEF",
+      "person_id": "Q50321005",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2956,8 +5462,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50321006-910DD2B5-D50B-4611-9D93-FF6B734750CF",
+      "person_id": "Q50321006",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2971,8 +5495,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -2986,8 +5510,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3001,8 +5525,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50326319-D88A3601-46F3-4970-A8DB-8671B8C12F72",
+      "person_id": "Q50326319",
+      "on_behalf_of_id": "Q1475103",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3016,8 +5558,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50345548-B377D520-C879-4016-8C14-EB5A798A9776",
+      "person_id": "Q50345548",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3031,8 +5591,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3046,8 +5606,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50379432-10C3A59A-3526-4B76-88FF-70E6B81F27CF",
+      "person_id": "Q50379432",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3061,8 +5639,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3076,8 +5654,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5436115-E2D93213-3C6A-40FB-AC99-C21047EF9C84",
+      "person_id": "Q5436115",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3091,8 +5687,89 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5557572-a4f52907-3c22-49d7-810e-d664607744f4",
+      "person_id": "Q5557572",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55603361-43d0bb89-7ddb-44f4-80ca-855a67949c71",
+      "person_id": "Q55603361",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55603361-CE5A55D3-CFD7-4F89-B389-DE2D3624E621",
+      "person_id": "Q55603361",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55609591-3e373370-ebcd-46fb-8816-f229fe91a4a5",
+      "person_id": "Q55609591",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55609591-5525BCCA-34E9-4B4C-9DC5-CCC5E582D998",
+      "person_id": "Q55609591",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3106,8 +5783,53 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56044217-52d536b9-449e-4d83-bc98-6b7b375bce1c",
+      "person_id": "Q56044217",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56273898-0ae8245c-4c83-4140-8213-4791b3298ee2",
+      "person_id": "Q56273898",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56276880-2fef0373-db62-45e3-8703-f7a5ba6c172e",
+      "person_id": "Q56276880",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3121,8 +5843,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3136,8 +5858,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3151,8 +5873,38 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56524215-9923a3f8-d656-40a5-a98f-51685b7b83d3",
+      "person_id": "Q56524215",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56545772-f60c03c8-a698-42fd-91df-59163ef8575b",
+      "person_id": "Q56545772",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3166,8 +5918,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5679141-DB84B305-ED7B-49C4-9924-667F43E79C95",
+      "person_id": "Q5679141",
+      "on_behalf_of_id": "Q13219795",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781025",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3181,8 +5951,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q567965-F977795E-4735-4948-9CC0-5DD7AB6A9769",
+      "person_id": "Q567965",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3196,8 +5984,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3211,8 +5999,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3226,8 +6014,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3241,8 +6029,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3256,8 +6044,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3271,8 +6059,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6359612-B9CEE080-39F4-4051-9FB5-ECBC0CA27993",
+      "person_id": "Q6359612",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781031",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3286,8 +6092,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6400431-12BFB336-B296-41E6-A96E-EE5324788B76",
+      "person_id": "Q6400431",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3301,8 +6125,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3316,8 +6140,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3331,8 +6155,44 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6792420-2A19357A-9618-4B54-9B16-CE131E0CE841",
+      "person_id": "Q6792420",
+      "on_behalf_of_id": "Q13211655",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6918938-6142FB9F-2AA1-4424-9097-46AE84CE2F81",
+      "person_id": "Q6918938",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3346,8 +6206,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3361,8 +6221,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3376,8 +6236,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6944347-95B889C9-BBC7-4D20-AC76-0B3EA84F2318",
+      "person_id": "Q6944347",
+      "on_behalf_of_id": "Q3065070",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3391,8 +6269,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3406,8 +6284,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3421,8 +6299,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7299452-CADD5707-9DB8-4B72-AD0A-F3A2DC2F17AA",
+      "person_id": "Q7299452",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2018-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3436,8 +6332,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3451,8 +6347,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3466,8 +6362,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7403854-901C488D-17AE-43AB-BA8E-F2373EB763AD",
+      "person_id": "Q7403854",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3481,8 +6395,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7423749-4FD71318-0330-4800-B21B-8D1A9B56A304",
+      "person_id": "Q7423749",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781038",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3496,8 +6428,26 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7425795-71E028DD-C409-44BA-8FC1-EA91647B5464",
+      "person_id": "Q7425795",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781026",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3511,8 +6461,56 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7529921-08A6BA2B-A8ED-4AB7-82A3-71A5011BAB62",
+      "person_id": "Q7529921",
+      "on_behalf_of_id": "Q1475103",
+      "organization_id": "Q2571392",
+      "area_id": "Q58781030",
+      "start_date": "2015-03-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7636633-5ae0db61-df39-4652-ad2d-e43b19ef8373",
+      "person_id": "Q7636633",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7660410-cc88e095-cacf-45b1-8c5d-1fe2933b75c1",
+      "person_id": "Q7660410",
+      "organization_id": "Q2571392",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ur": "سینیٹر"
+      },
+      "role_code": "Q20081441",
+      "role": {
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     },
     {
@@ -3526,8 +6524,8 @@
       },
       "role_code": "Q20081441",
       "role": {
-        "lang:en": "member of the Senate of Pakistan",
-        "lang:ur": "رکن ایوان بالا پاکستان"
+        "lang:en": "Senator",
+        "lang:ur": "سینٹر"
       }
     }
   ]
