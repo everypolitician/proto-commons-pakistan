@@ -11,12 +11,12 @@
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the Senate of Pakistan"
+        "value" : "Senator"
       },
       "position_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "رکن ایوان بالا پاکستان"
+        "value" : "سینٹر"
       },
       "positionType" : {
         "type" : "uri",
@@ -61,12 +61,12 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Senate of Pakistan"
+        "value" : "Senate"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "ایوان بالا پاکستان"
+        "value" : "سینیٹ"
       }
     }, {
       "position" : {
@@ -81,7 +81,7 @@
       "position_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "رکن قومی اسمبلی پاکستان"
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
       },
       "positionType" : {
         "type" : "uri",
@@ -126,12 +126,12 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "National Assembly of Pakistan"
+        "value" : "National Assembly"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "ایوان زیریں پاکستان"
+        "value" : "قومی اسمبلی"
       }
     }, {
       "position" : {
@@ -146,7 +146,7 @@
       "position_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "امیر مجلس ایوان بالا پاکستان"
+        "value" : "صدر ایوان بالا پاکستان"
       },
       "positionType" : {
         "type" : "uri",
@@ -177,12 +177,12 @@
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the Senate of Pakistan"
+        "value" : "Senator"
       },
       "position_superclass_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "رکن ایوان بالا پاکستان"
+        "value" : "سینٹر"
       },
       "body" : {
         "type" : "uri",
@@ -191,12 +191,12 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Senate of Pakistan"
+        "value" : "Senate"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "ایوان بالا پاکستان"
+        "value" : "سینیٹ"
       }
     }, {
       "position" : {
@@ -211,7 +211,7 @@
       "position_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "امیر مجلس ایوان بالا پاکستان"
+        "value" : "صدر ایوان بالا پاکستان"
       },
       "positionType" : {
         "type" : "uri",
@@ -251,27 +251,27 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Senate of Pakistan"
+        "value" : "Senate"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "ایوان بالا پاکستان"
+        "value" : "سینیٹ"
       }
     }, {
       "position" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q33512801"
+        "value" : "http://www.wikidata.org/entity/Q51876984"
       },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the 14th National Assembly of Pakistan"
+        "value" : "Member of the Provincial Assembly of Sindh"
       },
       "position_name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "رکن چودہویں قومی اسمبلی پاکستان"
+        "value" : "رکن صوبائی اسمبلی سندھ"
       },
       "positionType" : {
         "type" : "uri",
@@ -279,49 +279,424 @@
       },
       "adminAreaTypes" : {
         "type" : "literal",
-        "value" : "Q6256"
+        "value" : "Q10864048"
       },
       "adminArea" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
+        "value" : "http://www.wikidata.org/entity/Q37211"
       },
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pakistan"
+        "value" : "Sindh"
       },
       "admin_area_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "پاکستان"
+        "value" : "سندھ"
       },
       "positionSuperclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20760546"
+        "value" : "http://www.wikidata.org/entity/Q16259300"
       },
       "position_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of the National Assembly of Pakistan"
+        "value" : "Member of the Provincial Assembly"
       },
       "position_superclass_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "رکن قومی اسمبلی پاکستان"
+        "value" : "رکن صوبائی اسمبلی"
       },
       "body" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29068722"
+        "value" : "http://www.wikidata.org/entity/Q2867119"
       },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "14th National Assembly"
+        "value" : "Provincial Assembly of Sindh"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "چودہویں قومی اسمبلی"
+        "value" : "صوبائی اسمبلی سندھ"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55808168"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly of the Punjab"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پنجاب صوبائی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4478"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پنجاب، پاکستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q975150"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of the Punjab"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صوبائی اسمبلی پنجاب"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان صوبائی اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Kashmir"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Kashmir Legislative Assembly"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873753"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183314"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khyber Pakhtunkhwa"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خیبر پختونخوا"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2597438"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khyber Pakhtunkhwa Assembly"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خیبرپختونخوا اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873760"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Gilgit-Baltistan Legislative Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200697"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gilgit-Baltistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گلگت بلتستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17053564"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gilgit-Baltistan Legislative Assembly"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گلگت بلتستان قانون ساز اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873781"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Islamabad Metropolitan Corporation"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q848613"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islamabad Capital Territory"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "وفاقی دارالحکومت"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28172637"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islamabad Metropolitan Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "اسلام آباد میٹروپولیٹن کارپوریشن"
       }
     } ]
   }

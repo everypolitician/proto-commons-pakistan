@@ -1,0 +1,101 @@
+SELECT ?statement
+       ?item ?name_en ?name_ur
+       ?party ?party_name_en ?party_name_ur
+       ?district ?district_name_en ?district_name_ur
+       ?role ?role_en ?role_ur
+       ?role_superclass ?role_superclass_en ?role_superclass_ur
+       ?start ?end ?facebook
+       ?org ?org_en ?org_ur ?org_jurisdiction ?org_seat_count
+WHERE {
+  BIND(wd:Q58873781 as ?role) .
+  BIND(wd:Q58873781 as ?specific_role) .
+  BIND(wd:Q28172637 as ?org) .
+  OPTIONAL {
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_ur
+  FILTER(LANG(?org_ur) = "ur")
+}
+
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
+  }
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
+  OPTIONAL {
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_ur
+  FILTER(LANG(?name_ur) = "ur")
+}
+
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL {
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_ur
+  FILTER(LANG(?role_ur) = "ur")
+}
+
+  OPTIONAL {
+    ?role wdt:P279 ?role_superclass .
+    ?role_superclass wdt:P279+ wd:Q4175034
+    OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_ur
+  FILTER(LANG(?role_superclass_ur) = "ur")
+}
+
+  }
+  
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL {
+    ?statement pq:P768 ?district.
+    OPTIONAL {
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_ur
+  FILTER(LANG(?district_name_ur) = "ur")
+}
+
+  }
+  OPTIONAL {
+    ?statement pq:P4100 ?party.
+    OPTIONAL {
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_ur
+  FILTER(LANG(?party_name_ur) = "ur")
+}
+
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+  BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
+BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
+FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
+
+} ORDER BY ?item ?role ?start ?end
