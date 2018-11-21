@@ -8,7 +8,22 @@ WHERE {
   VALUES (?house ?position) {
     (wd:Q1518223 wd:Q20760546)
     (wd:Q2571392 wd:Q20081441)
-    (wd:Q2867116 rdf:nil)
+    (wd:Q17053564 wd:Q58873760)
+    (wd:Q18209789 wd:Q58873603)
+    (wd:Q2597438 wd:Q58873753)
+    (wd:Q28172637 wd:Q58873781)
+    (wd:Q2867116 wd:Q58873596)
+    (wd:Q2867119 wd:Q51876984)
+    (wd:Q975150 wd:Q55808168)
+    (wd:Q15982486 wd:Q58873609)
+    (wd:Q28223529 wd:Q58873780)
+    (wd:Q55641548 wd:Q58873770)
+    (wd:Q58873610 wd:Q58873767)
+    (wd:Q58873612 wd:Q58873769)
+    (wd:Q58873615 wd:Q58873772)
+    (wd:Q58873618 wd:Q58873777)
+    (wd:Q58873622 wd:Q58873779)
+    (wd:Q58873626 wd:Q58873783)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .

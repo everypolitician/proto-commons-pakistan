@@ -1,18 +1,51 @@
 [
   {
-    "comment": "National Assembly of Pakistan",
+    "comment": "National Assembly",
     "house_item_id": "Q1518223",
     "position_item_id": "Q20760546",
     "terms": [
       {
-        "comment": "14th National Assembly",
-        "position_item_id": "Q33512801",
-        "term_item_id": "Q29068722"
+        "comment": "15th National Assembly",
+        "position_item_id": "Q55783826",
+        "term_item_id": "Q56188367"
       }
     ]
   },
   {
-    "comment": "Senate of Pakistan",
+    "comment": "Karachi Metropolitan Corporation",
+    "house_item_id": "Q15982486",
+    "position_item_id": "Q58873609",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Gilgit-Baltistan Legislative Assembly",
+    "house_item_id": "Q17053564",
+    "position_item_id": "Q58873760",
+    "terms": [
+      {
+        "comment": "2nd Gilgit Baltistan Legislative Assembly",
+        "term_item_id": "Q58873607"
+      }
+    ]
+  },
+  {
+    "comment": "Azad Kashmir Legislative Assembly",
+    "house_item_id": "Q18209789",
+    "position_item_id": "Q58873603",
+    "terms": [
+      {
+        "comment": "10th Azad Jammu & Kashmir Legislative Assembly",
+        "term_item_id": "Q58873604"
+      }
+    ]
+  },
+  {
+    "comment": "Senate",
     "house_item_id": "Q2571392",
     "position_item_id": "Q20081441",
     "terms": [
@@ -23,13 +56,145 @@
     ]
   },
   {
-    "comment": "Assembly of Balochistan",
-    "house_item_id": "Q2867116",
-    "position_item_id": null,
+    "comment": "Khyber Pakhtunkhwa Assembly",
+    "house_item_id": "Q2597438",
+    "position_item_id": "Q58873753",
+    "terms": [
+      {
+        "comment": "13th Provincial Assembly of Khyber Pakhtunkhwa",
+        "term_item_id": "Q58873600"
+      }
+    ]
+  },
+  {
+    "comment": "Islamabad Metropolitan Corporation",
+    "house_item_id": "Q28172637",
+    "position_item_id": "Q58873781",
     "terms": [
       {
         "start_date": "2018-01-01",
         "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Hyderabad Municipal Corporation",
+    "house_item_id": "Q28223529",
+    "position_item_id": "Q58873780",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Assembly of Balochistan",
+    "house_item_id": "Q2867116",
+    "position_item_id": "Q58873596",
+    "terms": [
+      {
+        "comment": "11th Provincial Assembly of Balochistan",
+        "term_item_id": "Q58873597"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Assembly of Sindh",
+    "house_item_id": "Q2867119",
+    "position_item_id": "Q51876984",
+    "terms": [
+      {
+        "comment": "15th Provincial Assembly of Sindh",
+        "term_item_id": "Q58873602"
+      }
+    ]
+  },
+  {
+    "comment": "Rawalpindi Municipal Corporation",
+    "house_item_id": "Q55641548",
+    "position_item_id": "Q58873770",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Metropolitan Corporation Lahore",
+    "house_item_id": "Q58873610",
+    "position_item_id": "Q58873767",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Faisalabad Municipal Corporation",
+    "house_item_id": "Q58873612",
+    "position_item_id": "Q58873769",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation Gujranwala",
+    "house_item_id": "Q58873615",
+    "position_item_id": "Q58873772",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City District Government Peshawar",
+    "house_item_id": "Q58873618",
+    "position_item_id": "Q58873777",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation Multan",
+    "house_item_id": "Q58873622",
+    "position_item_id": "Q58873779",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Quetta Metropolitan Corporation",
+    "house_item_id": "Q58873626",
+    "position_item_id": "Q58873783",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Assembly of the Punjab",
+    "house_item_id": "Q975150",
+    "position_item_id": "Q55808168",
+    "terms": [
+      {
+        "comment": "17th Provincial Assembly of Punjab",
+        "term_item_id": "Q58873601"
       }
     ]
   }
