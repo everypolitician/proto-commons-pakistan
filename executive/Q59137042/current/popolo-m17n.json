@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Azad Jammu and Kashmir Council",
+        "lang:ur": "آزاد جموں اور کشمیر کونسل"
+      },
+      "id": "Q59137042",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59137042"
+        }
+      ],
+      "area_id": "Q200130"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

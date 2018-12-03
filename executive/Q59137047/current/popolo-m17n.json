@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Provincial Cabinet of Sindh",
+        "lang:ur": "صوبائی کابینہ"
+      },
+      "id": "Q59137047",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59137047"
+        }
+      ],
+      "area_id": "Q37211"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

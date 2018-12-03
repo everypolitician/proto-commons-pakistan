@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Gilgit-Baltistan Council",
+        "lang:ur": "گلگت بلتستان کونسل"
+      },
+      "id": "Q16910253",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16910253"
+        }
+      ],
+      "area_id": "Q200697"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,5 +1,23 @@
 [
   {
+    "role_id": "Q1837955",
+    "role_name": {
+      "lang:en": "Chief Minister of Punjab",
+      "lang:ur": "پنجاب کا وزیر اعلی"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137046",
+    "organization_name": {
+      "lang:en": "Provincial Cabinet of Punjab",
+      "lang:ur": "صوبائی کابینہ"
+    }
+  },
+  {
     "role_id": "Q20081441",
     "role_name": {
       "lang:en": "Senator",
@@ -38,6 +56,24 @@
     }
   },
   {
+    "role_id": "Q25548295",
+    "role_name": {
+      "lang:en": "Prime Minister of Azad Kashmir",
+      "lang:ur": "آزاد کشمیر کا وزیر اعظم"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137042",
+    "organization_name": {
+      "lang:en": "Azad Jammu and Kashmir Council",
+      "lang:ur": "آزاد جموں اور کشمیر کونسل"
+    }
+  },
+  {
     "role_id": "Q3297966",
     "role_name": {
       "lang:en": "Chairman of the Senate of Pakistan",
@@ -57,6 +93,42 @@
     }
   },
   {
+    "role_id": "Q3695530",
+    "role_name": {
+      "lang:en": "Chief Minister of Balochistan",
+      "lang:ur": "بلوچستان کا وزیر اعلی"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137043",
+    "organization_name": {
+      "lang:en": "Provincial Cabinet of Balochistan",
+      "lang:ur": "صوبائی کابینہ"
+    }
+  },
+  {
+    "role_id": "Q5096852",
+    "role_name": {
+      "lang:en": "Chief Minister of Khyber Pakhtunkhwa",
+      "lang:ur": "خیبر پختونخواہ کا وزیر اعلی"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137045",
+    "organization_name": {
+      "lang:en": "Provincial Cabinet of Khyber Pakhtunkhwa",
+      "lang:ur": "صوبائی کابینہ"
+    }
+  },
+  {
     "role_id": "Q51876984",
     "role_name": {
       "lang:en": "Member of the Provincial Assembly of Sindh",
@@ -71,8 +143,8 @@
     "role_type": "Q4175034",
     "organization_id": "Q2867119",
     "organization_name": {
-      "lang:en": "Provincial Assembly of Sindh",
-      "lang:ur": "صوبائی اسمبلی سندھ"
+      "lang:en": "Provincial Assembly of Sindh Province",
+      "lang:ur": "سندھ کی صوبائی اسمبلی"
     }
   },
   {
@@ -90,8 +162,8 @@
     "role_type": "Q4175034",
     "organization_id": "Q975150",
     "organization_name": {
-      "lang:en": "Provincial Assembly of the Punjab",
-      "lang:ur": "صوبائی اسمبلی پنجاب"
+      "lang:en": "Provincial Assembly of Punjab Province",
+      "lang:ur": "پنجاب کی صوبائی اسمبلی"
     }
   },
   {
@@ -110,7 +182,7 @@
     "organization_id": "Q2867116",
     "organization_name": {
       "lang:en": "Provincial Assembly of Balochistan",
-      "lang:ur": "بلوچستان صوبائی اسمبلی"
+      "lang:ur": "بلوچستان کی صوبائی اسمبلی"
     }
   },
   {
@@ -128,8 +200,27 @@
     "role_type": "Q4175034",
     "organization_id": "Q18209789",
     "organization_name": {
-      "lang:en": "Azad Kashmir Legislative Assembly",
+      "lang:en": "Azad Jammu & Kashmir Legislative Assembly",
       "lang:ur": "آزاد کشمیر قانون ساز اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873609",
+    "role_name": {
+      "lang:en": "Member of the Karachi Metropolitan Corporation",
+      "lang:ur": "کونسلر"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q15982486",
+    "organization_name": {
+      "lang:en": "Karachi Metropolitan Corporation",
+      "lang:ur": "کراچی میٹروپولیٹن کارپوریشن"
     }
   },
   {
@@ -146,8 +237,8 @@
     "role_type": "Q4175034",
     "organization_id": "Q2597438",
     "organization_name": {
-      "lang:en": "Khyber Pakhtunkhwa Assembly",
-      "lang:ur": "خیبرپختونخوا اسمبلی"
+      "lang:en": "Provincial Assembly of Khyber Pakhtunkhwa Province",
+      "lang:ur": "خیبر پختون خواہ کی صوبائی اسمبلی"
     }
   },
   {
@@ -165,7 +256,115 @@
     "organization_id": "Q17053564",
     "organization_name": {
       "lang:en": "Gilgit-Baltistan Legislative Assembly",
-      "lang:ur": "گلگت بلتستان قانون ساز اسمبلی"
+      "lang:ur": "گلگت بلتستان کی قانون ساز اسمبلی"
+    }
+  },
+  {
+    "role_id": "Q58873767",
+    "role_name": {
+      "lang:en": "Member of the Metropolitan Corporation Lahore"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q58873610",
+    "organization_name": {
+      "lang:en": "Metropolitan Corporation Lahore",
+      "lang:ur": "میٹروپولیٹن کارپوریشن لاہور"
+    }
+  },
+  {
+    "role_id": "Q58873769",
+    "role_name": {
+      "lang:en": "Member of the Faisalabad Municipal Corporation"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q58873612",
+    "organization_name": {
+      "lang:en": "Faisalabad Municipal Corporation",
+      "lang:ur": "فیصل آباد میونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q58873770",
+    "role_name": {
+      "lang:en": "Member of the Rawalpindi Municipal Corporation"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q55641548",
+    "organization_name": {
+      "lang:en": "Rawalpindi Municipal Corporation",
+      "lang:ur": "راولپنڈی مونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q58873772",
+    "role_name": {
+      "lang:en": "Member of the Municipal Corporation Gujranwala"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q58873615",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Gujranwala",
+      "lang:ur": "ميونسپل کارپوریشن گوجرانوالہ"
+    }
+  },
+  {
+    "role_id": "Q58873779",
+    "role_name": {
+      "lang:en": "Member of the Municipal Corporation Multan"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q58873622",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Multan",
+      "lang:ur": "میونسپل کارپوریشن ملتان"
+    }
+  },
+  {
+    "role_id": "Q58873780",
+    "role_name": {
+      "lang:en": "Member of the Hyderabad Municipal Corporation"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q28223529",
+    "organization_name": {
+      "lang:en": "Hyderabad Municipal Corporation",
+      "lang:ur": "حیدرآباد میونسپل کارپوریشن"
     }
   },
   {
@@ -184,6 +383,150 @@
     "organization_name": {
       "lang:en": "Islamabad Metropolitan Corporation",
       "lang:ur": "اسلام آباد میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q58873783",
+    "role_name": {
+      "lang:en": "Member of the Quetta Metropolitan Corporation"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q58873626",
+    "organization_name": {
+      "lang:en": "Quetta Metropolitan Corporation",
+      "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q59241660",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Sargodha"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240671",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sargodha",
+      "lang:ur": "میونسپل کارپوریشن سرگودھا"
+    }
+  },
+  {
+    "role_id": "Q59241661",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Sialkot"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240672",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sialkot",
+      "lang:ur": "میونسپل کارپوریشن سیالکوٹ"
+    }
+  },
+  {
+    "role_id": "Q59241662",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Sukkar"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240673",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sukkar",
+      "lang:ur": "میونسپل کارپوریشن سکھر"
+    }
+  },
+  {
+    "role_id": "Q59241664",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Larkana"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240674",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Larkana",
+      "lang:ur": "میونسپل کارپوریشن لاڑکانہ"
+    }
+  },
+  {
+    "role_id": "Q59241668",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240678",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Dera Ghazi Khan",
+      "lang:ur": "میونسپل کارپوریشن ڈیرہ غازی خان"
+    }
+  },
+  {
+    "role_id": "Q59241672",
+    "role_name": {
+      "lang:en": "councillor in the municipal corporation of Gujrat"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:ur": "کونسلر"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q59240679",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Gujrat",
+      "lang:ur": "میونسپل کارپوریشن گجرات"
+    }
+  },
+  {
+    "role_id": "Q8135012",
+    "role_name": {
+      "lang:en": "Chief Minister of Gilgit-Baltistan",
+      "lang:ur": "گلگت بلتستان کا وزیر اعلی"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q16910253",
+    "organization_name": {
+      "lang:en": "Gilgit-Baltistan Council",
+      "lang:ur": "گلگت بلتستان کونسل"
     }
   }
 ]

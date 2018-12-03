@@ -1,0 +1,197 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Firoz Khan Nun",
+        "lang:ur": "ملک فیروز خان نون"
+      },
+      "id": "Q1561693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1561693"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hasan Askari Rizvi",
+        "lang:ur": "حسن عسکری رضوی"
+      },
+      "id": "Q16208895",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16208895"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usman Ahmed Khan Buzdar",
+        "lang:ur": "عثمان احمد خان بزدار"
+      },
+      "id": "Q55825094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Meraj Khalid",
+        "lang:ur": "معراج خالد"
+      },
+      "id": "Q982280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q982280"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Provincial Cabinet of Punjab",
+        "lang:ur": "صوبائی کابینہ"
+      },
+      "id": "Q59137046",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59137046"
+        }
+      ],
+      "area_id": "Q4478"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party",
+        "lang:ur": "پاکستان پیپلز پارٹی"
+      },
+      "id": "Q186591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q186591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Republican Party",
+        "lang:ur": "ریپبلکن پارٹی (پاکستان)"
+      },
+      "id": "Q7314629",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7314629"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1561693-23437E71-AFCF-4067-91E5-DC0D9BBD9C71",
+      "person_id": "Q1561693",
+      "on_behalf_of_id": "Q7314629",
+      "organization_id": "Q59137046",
+      "area_id": "Q4478",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q1837955",
+      "role": {
+        "lang:en": "Chief Minister of Punjab",
+        "lang:ur": "پنجاب کا وزیر اعلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16208895-be8cc713-43ac-43a0-2433-e9d3e67eea80",
+      "person_id": "Q16208895",
+      "organization_id": "Q59137046",
+      "area_id": "Q4478",
+      "start_date": "2018-06-08",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q1837955",
+      "role": {
+        "lang:en": "Chief Minister of Punjab",
+        "lang:ur": "پنجاب کا وزیر اعلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825094-b5a760c9-4934-148f-36bf-2102e9212e58",
+      "person_id": "Q55825094",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q59137046",
+      "area_id": "Q4478",
+      "start_date": "2018-08-19",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q1837955",
+      "role": {
+        "lang:en": "Chief Minister of Punjab",
+        "lang:ur": "پنجاب کا وزیر اعلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q982280-9FF43700-F59A-4BD1-A629-2FBC8F94CAB8",
+      "person_id": "Q982280",
+      "on_behalf_of_id": "Q186591",
+      "organization_id": "Q59137046",
+      "area_id": "Q4478",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q1837955",
+      "role": {
+        "lang:en": "Chief Minister of Punjab",
+        "lang:ur": "پنجاب کا وزیر اعلی"
+      }
+    }
+  ]
+}

@@ -1,12 +1,1355 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Shehram Khan",
+        "lang:ur": "شہرام خان"
+      },
+      "id": "Q16730802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16730802"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Atif",
+        "lang:ur": "محمد عاطف"
+      },
+      "id": "Q16732955",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16732955"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aqibullah Khan",
+        "lang:ur": "عاقب اللہ خان"
+      },
+      "id": "Q18763819",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18763819"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akbar Ayub Khan",
+        "lang:ur": "اکبر ایوب خان"
+      },
+      "id": "Q27057625",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27057625"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Hussain",
+        "lang:ur": "سردار حسین"
+      },
+      "id": "Q31704762",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31704762"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Laiq Muhammad Khan",
+        "lang:ur": "لائق محمد خان"
+      },
+      "id": "Q33124738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33124738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fazal Shakoor Khan",
+        "lang:ur": "فضل شکور خان"
+      },
+      "id": "Q41870717",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41870717"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mushtaq Ahmed Ghani",
+        "lang:ur": "مشتاق احمد غنی"
+      },
+      "id": "Q42327982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42327982"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haji Qalandar Khan Lodhi",
+        "lang:ur": "حاجی قلندر خان لودھی"
+      },
+      "id": "Q42513861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42513861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Latuf Ur Rehman",
+        "lang:ur": "لطیف الرحمان"
+      },
+      "id": "Q42722724",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42722724"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aisha Naeem",
+        "lang:ur": "عائشہ نعیم"
+      },
+      "id": "Q44721581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44721581"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amjad Ali",
+        "lang:ur": "امجد علی"
+      },
+      "id": "Q45190225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45190225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aziz Ullah Khan",
+        "lang:ur": "عزیزاللہ خان"
+      },
+      "id": "Q45347586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45347586"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faisal Zaman",
+        "lang:ur": "فیصل زمان"
+      },
+      "id": "Q45754690",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45754690"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fazal Elahi",
+        "lang:ur": "فضل الہی"
+      },
+      "id": "Q45793221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45793221"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fazal Hakim Khan Yousafzai",
+        "lang:ur": "فضل حکیم خان یوسفزئی"
+      },
+      "id": "Q45796692",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45796692"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Iftikhar Ali",
+        "lang:ur": "افتخار علی"
+      },
+      "id": "Q45826240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q45826240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maliha Ali Asghar Khan",
+        "lang:ur": "ملیحہ علی اصغر خان"
+      },
+      "id": "Q46591946",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46591946"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Zia Ur Rehman",
+        "lang:ur": "میاں ضیاءالرحمان"
+      },
+      "id": "Q46792206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46792206"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nadia Sher",
+        "lang:ur": "نادیہ شیر"
+      },
+      "id": "Q47009111",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47009111"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sobia Shahid",
+        "lang:ur": "ثوبیہ شاہد"
+      },
+      "id": "Q47140846",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47140846"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nighat Yasmin Orakzai",
+        "lang:ur": "نگہت یاسمین اورگزئی"
+      },
+      "id": "Q47178918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47178918"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mahmood Khan",
+        "lang:ur": "محمود خان"
+      },
+      "id": "Q47376718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47376718"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohib Ullah Khan",
+        "lang:ur": "محب اللہ خان"
+      },
+      "id": "Q47377048",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47377048"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Munawar Khan",
+        "lang:ur": "منور خان"
+      },
+      "id": "Q47377372",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47377372"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sahib Zada Sana Ullah",
+        "lang:ur": "صاحبزادہ ثناءاللہ"
+      },
+      "id": "Q47378101",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47378101"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Aurangzaib",
+        "lang:ur": "سردار اورنگزیب"
+      },
+      "id": "Q47378407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47378407"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tufail Anjum",
+        "lang:ur": "طفیل انجم"
+      },
+      "id": "Q47379756",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47379756"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Inayat Ullah",
+        "lang:ur": "عنایت اللہ"
+      },
+      "id": "Q48727712",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727712"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shakil Ahmad",
+        "lang:ur": "شکیل احمد"
+      },
+      "id": "Q48728191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48728191"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Karim",
+        "lang:ur": "عبدالکریم"
+      },
+      "id": "Q48730841",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48730841"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalid Khan",
+        "lang:ur": "خالد خان"
+      },
+      "id": "Q48731892",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48731892"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hidayat ur Rehman",
+        "lang:ur": "ہدایت الرحمان"
+      },
+      "id": "Q55819765",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819765"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sharafat Ali",
+        "lang:ur": "شرافت علی"
+      },
+      "id": "Q55819770",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819770"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malak Badshah Saleh",
+        "lang:ur": "ملک بادشاہ صالح"
+      },
+      "id": "Q55819774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819774"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Musavir khan",
+        "lang:ur": "مصور خان"
+      },
+      "id": "Q55819779",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819779"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Fakhar Jehan",
+        "lang:ur": "سید فخر جہان"
+      },
+      "id": "Q55819785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faisal Zeb",
+        "lang:ur": "فیصل زیب"
+      },
+      "id": "Q55819789",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819789"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Didar",
+        "lang:ur": "محمد دیدار"
+      },
+      "id": "Q55819800",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819800"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mufti Ubaid ur Rahman",
+        "lang:ur": "مفتی عبدالرحمان"
+      },
+      "id": "Q55819805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Babar Saleem Swati",
+        "lang:ur": "بابر سلیم سواتی"
+      },
+      "id": "Q55819809",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819809"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nawabzada Farid Salahuddin",
+        "lang:ur": "نوابزادہ فریدصلاح الددین"
+      },
+      "id": "Q55819820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nazir Ahmad Abbasi",
+        "lang:ur": "نظیر احمد عباسی"
+      },
+      "id": "Q55819826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arshad Ayub Khan",
+        "lang:ur": "ارشد ایوب خان"
+      },
+      "id": "Q55819831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rangez Khan",
+        "lang:ur": "رنگیز خان"
+      },
+      "id": "Q55819838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Shaukat Ali",
+        "lang:ur": "ملک شوکت علی"
+      },
+      "id": "Q55819843",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819843"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amir Farzand khan",
+        "lang:ur": "عامر فرزند خان"
+      },
+      "id": "Q55819848",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819848"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shakeel Bashir Khan",
+        "lang:ur": "شکیل بشیر خان"
+      },
+      "id": "Q55819861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ahmad Kundi",
+        "lang:ur": "احمد کندی"
+      },
+      "id": "Q55819902",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819902"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sumaira Shams",
+        "lang:ur": "سمیرہ شمس"
+      },
+      "id": "Q55956266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55956266"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Momina Basit",
+        "lang:ur": "مومنہ باسط"
+      },
+      "id": "Q56065573",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065573"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asiya Asad",
+        "lang:ur": "آسیہ اسد"
+      },
+      "id": "Q56065574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065574"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sajida Haneef",
+        "lang:ur": "ساجدہ حنیف"
+      },
+      "id": "Q56065576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Somi Falak Naz",
+        "lang:ur": "سومی فلک ناز"
+      },
+      "id": "Q56065578",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065578"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aisha Banno",
+        "lang:ur": "عائشہ بانو"
+      },
+      "id": "Q56065579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sitara Afreen",
+        "lang:ur": "ستارہ آفرین"
+      },
+      "id": "Q56065580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zeenat Bibi",
+        "lang:ur": "زینت بی بی"
+      },
+      "id": "Q56065581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065581"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asia Saleh Khattak",
+        "lang:ur": "آسیہ صالح خٹک"
+      },
+      "id": "Q56065582",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065582"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Humaira Khatoon",
+        "lang:ur": "ہمیرہ خاتون"
+      },
+      "id": "Q56065584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rehana Ismail",
+        "lang:ur": "ریحانہ اسماعیل"
+      },
+      "id": "Q56065587",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065587"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shagufta malik",
+        "lang:ur": "شگفتہ ملک"
+      },
+      "id": "Q56065588",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065588"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wazir Zada",
+        "lang:ur": "وزیر زادہ"
+      },
+      "id": "Q56065621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ranjeet Singh",
+        "lang:ur": "رنجیت سنگھ"
+      },
+      "id": "Q56222538",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56222538"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Azam Khan",
+        "lang:ur": "محمد عظم خان"
+      },
+      "id": "Q56275239",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275239"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Humayun Khan",
+        "lang:ur": "ہمایوں خان"
+      },
+      "id": "Q56275240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shafi Ullah",
+        "lang:ur": "شفیع اللہ"
+      },
+      "id": "Q56275241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275241"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bahadar Khan",
+        "lang:ur": "بہادر خان"
+      },
+      "id": "Q56275242",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Riaz Khan",
+        "lang:ur": "ریاض خان"
+      },
+      "id": "Q56275243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liaqat Ali Khan",
+        "lang:ur": "لیاقت علی خان"
+      },
+      "id": "Q56275244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275244"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Ghaffar",
+        "lang:ur": "عبدالغفار"
+      },
+      "id": "Q56275245",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275245"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Taj Muhammad",
+        "lang:ur": "تاج محمد"
+      },
+      "id": "Q56275246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275246"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zubair Khan",
+        "lang:ur": "زبیر خان"
+      },
+      "id": "Q56275247",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275247"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Naeem",
+        "lang:ur": "محمد نعیم"
+      },
+      "id": "Q56275248",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275248"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jamshid Khan",
+        "lang:ur": "جمشید خان"
+      },
+      "id": "Q56275249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275249"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Zahir Shah",
+        "lang:ur": "محمد ظاہر شاہ"
+      },
+      "id": "Q56275250",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275250"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rabia Basri",
+        "lang:ur": "رابعہ بصرہ"
+      },
+      "id": "Q56277585",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56277585"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maria Fatima",
+        "lang:ur": "ماریہ فاطمہ"
+      },
+      "id": "Q56277586",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56277586"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ravi Kumar",
+        "lang:ur": "روی کمار"
+      },
+      "id": "Q56278374",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56278374"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Waqar Ahmad Khan",
+        "lang:ur": "وقار احمد خان"
+      },
+      "id": "Q57585018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585018"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aghaz Ikramullah Gandapur",
+        "lang:ur": "آغاز اکرام اللہ گنڈاپور"
+      },
+      "id": "Q57585049",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585049"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shahida Waheed",
+        "lang:ur": "شاہدہ وحید"
+      },
+      "id": "Q57585330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Madiha Nisar",
+        "lang:ur": "مدیحہ نثار"
+      },
+      "id": "Q57585341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585341"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sumaiyah Bibi",
+        "lang:ur": "ثمیہ بی بی"
+      },
+      "id": "Q57585365",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585365"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Muhammad Yousaf Zaman",
+        "lang:ur": "سردار محمد یوسفزئی"
+      },
+      "id": "Q7423711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7423711"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en": "Khyber Pakhtunkhwa Assembly",
-        "lang:ur": "خیبرپختونخوا اسمبلی"
+        "lang:en": "Provincial Assembly of Khyber Pakhtunkhwa Province",
+        "lang:ur": "خیبر پختون خواہ کی صوبائی اسمبلی"
       },
       "id": "Q2597438",
       "classification": "branch",
@@ -20,12 +1363,1523 @@
       "seat_counts": {
         "Q58873753": "124"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Muttahida Majlis-e-Amal",
+        "lang:ur": "متحدہ مجلس عمل"
+      },
+      "id": "Q1410662",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1410662"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Awami National Party",
+        "lang:ur": "عوامی نیشنل پارٹی"
+      },
+      "id": "Q659854",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q659854"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party Parliamentarians",
+        "lang:ur": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "id": "Q7125678",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125678"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16730802-E166D0D6-01C9-43F3-B1FA-CC7D2682C9E6",
+      "person_id": "Q16730802",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210252",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16732955-F47E0E9C-CA21-4F93-B299-23D022E4340D",
+      "person_id": "Q16732955",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210256",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18763819-5DBC6444-1AF5-4CFA-AFF7-CDB4FFEF3FF7",
+      "person_id": "Q18763819",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210246",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27057625-E2FF0E10-3260-4A25-96B4-5CBE0DF5B05E",
+      "person_id": "Q27057625",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210241",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31704762-270DFD6B-389C-4E27-8B76-3C685E0C29A8",
+      "person_id": "Q31704762",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210221",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33124738-169CA278-3D59-4A42-B6F9-17B8B6F209D3",
+      "person_id": "Q33124738",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210232",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41870717-38F921C2-A93D-4E75-A751-251E1B8B2A90",
+      "person_id": "Q41870717",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210270",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42327982-C1CB0589-7D3A-44CF-8FAC-12DE1D8ECD83",
+      "person_id": "Q42327982",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210240",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42513861-EEC5F32D-6E57-450F-9BE0-61DA1E0328A5",
+      "person_id": "Q42513861",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210239",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42722724-E85C293B-10AF-4D8E-AE89-8DBFFAC37776",
+      "person_id": "Q42722724",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210318",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q44721581-9F215385-C4A9-4E54-A827-FA3142060047",
+      "person_id": "Q44721581",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45190225-2248EF7C-3FDC-4219-BD56-B285D91E8A7A",
+      "person_id": "Q45190225",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210208",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45347586-ADA42642-33B8-447C-8C54-6D40449AE224",
+      "person_id": "Q45347586",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210206",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45754690-2FA5BAB4-50AF-498C-90B2-E1E47B4EA5AE",
+      "person_id": "Q45754690",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210243",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45793221-AEF3ED82-AF05-4DA0-85A9-1A672BC4AFA3",
+      "person_id": "Q45793221",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210297",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45796692-800F24B9-DC8D-46CF-83A8-2B0FEABD2E5E",
+      "person_id": "Q45796692",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210207",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q45826240-EBAFF8F7-9204-48A3-8F86-5D8556496098",
+      "person_id": "Q45826240",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210260",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q46591946-23207BE6-DEA1-4CA4-92D1-8E91CAC3EE05",
+      "person_id": "Q46591946",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q46792206-B8CBC9F2-539C-44B6-A4D5-A53AA23FD7E3",
+      "person_id": "Q46792206",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600850",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47009111-0FB35614-84A6-4786-BC90-4ECFD970DAA3",
+      "person_id": "Q47009111",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47140846-9060EA5A-6B97-4A51-A692-7902B0155B3A",
+      "person_id": "Q47140846",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47178918-F9D3C5CA-6509-43CB-9D20-527939EAE77E",
+      "person_id": "Q47178918",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47376718-E9BFCEF0-A620-4F67-8555-5D652FED8BAE",
+      "person_id": "Q47376718",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210212",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47377048-EA541FE6-C1F1-44C7-940C-074AA973F469",
+      "person_id": "Q47377048",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210210",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47377372-193D876B-59C3-4D42-A971-32193EA7769F",
+      "person_id": "Q47377372",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210310",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47378101-E3B0CF87-D0A4-4B32-A527-480E6175CEE7",
+      "person_id": "Q47378101",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600830",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47378407-45E4AA3A-D400-4276-81DF-CBB75A6DDA15",
+      "person_id": "Q47378407",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210236",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47379756-B33185E4-E861-44A0-A946-A00E03F5B837",
+      "person_id": "Q47379756",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210255",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48727712-0A52F895-FF41-4252-8619-427ECD517C4C",
+      "person_id": "Q48727712",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600831",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48728191-E03D0455-B61E-404F-8056-319F03C98941",
+      "person_id": "Q48728191",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210217",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48730841-AC775139-68A0-4D5C-9682-D4D52F8ABD33",
+      "person_id": "Q48730841",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210248",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48731892-CF5E6259-A8C2-4122-BCB2-BF7F1369AE93",
+      "person_id": "Q48731892",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210266",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819765-47ED8774-DB77-4F9B-AA6C-148D18BD0920",
+      "person_id": "Q55819765",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600912",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819770-3DBF7863-8003-4247-A175-B854ED3779F9",
+      "person_id": "Q55819770",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210203",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819774-40B157BD-68C6-4BF8-91C1-380337A51BBB",
+      "person_id": "Q55819774",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210213",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819779-B20ADC9B-88C2-44D7-BA2D-524FD45AEB0B",
+      "person_id": "Q55819779",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210218",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819785-42B6E5AF-D61C-484E-91FB-B36BBBE1231A",
+      "person_id": "Q55819785",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210220",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819789-EC40C2D7-F2B7-47AE-9D04-979AD894A356",
+      "person_id": "Q55819789",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210222",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819800-BD63E926-0495-4027-BC8C-8C60E361BD93",
+      "person_id": "Q55819800",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210223",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819805-94FB5E8B-7EEC-442B-A1B0-E8F1D462A451",
+      "person_id": "Q55819805",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210225",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819809-816A5C19-C360-407D-AE63-E74BB8FD206D",
+      "person_id": "Q55819809",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210228",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819820-5B0E9654-3C47-4080-B59E-8298175F325D",
+      "person_id": "Q55819820",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210230",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819826-88ABD3C4-05C5-4AA2-83F0-AB1C8FB3BB9A",
+      "person_id": "Q55819826",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210234",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819831-C1DE1773-0D24-4CE2-BCC3-801A7ACAF50F",
+      "person_id": "Q55819831",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210242",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819838-EB1C15FB-3256-4FFF-BE65-CE7E3F747E18",
+      "person_id": "Q55819838",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210245",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819843-20E09AE7-60B2-40D5-B1C0-2C3BC8C05CD8",
+      "person_id": "Q55819843",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210254",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819848-145F7481-C773-4088-B3D4-009F211D9D4B",
+      "person_id": "Q55819848",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210257",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819861-C2DB38C5-A851-496B-9421-945884C90881",
+      "person_id": "Q55819861",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210267",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819902-F6725263-064B-4A42-9C25-EC2928DC1664",
+      "person_id": "Q55819902",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210317",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55956266-CE1EA742-7BFA-4652-B50B-51937A5E963B",
+      "person_id": "Q55956266",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065573-13D1ADAC-51F7-45FB-A4F0-BAB936BD53B1",
+      "person_id": "Q56065573",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065574-E52D8EA6-73E2-44E1-B234-E4DC77930CDA",
+      "person_id": "Q56065574",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065576-B475272B-CA9C-44E0-849D-0A9FDB73A5A6",
+      "person_id": "Q56065576",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065578-2D077859-469A-4FA6-8E01-3D428324AFC4",
+      "person_id": "Q56065578",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065579-88424E0F-7941-4856-A266-D6D27F44FEB6",
+      "person_id": "Q56065579",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065580-1A4D7B56-86F2-4406-8F99-9ADEE432015F",
+      "person_id": "Q56065580",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065581-8415CFF4-5EB5-411D-BB50-622B534C3F49",
+      "person_id": "Q56065581",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065582-3691FC96-DF78-459D-A595-B7DFD68D5B3B",
+      "person_id": "Q56065582",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065584-48142981-2132-4F25-8D54-C2EEF7398306",
+      "person_id": "Q56065584",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065587-8050F708-0ECD-4A0B-AC03-F82C7529E9A8",
+      "person_id": "Q56065587",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065588-FA499036-54C4-4422-B77D-97EE33A09312",
+      "person_id": "Q56065588",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065621-94145E9F-D4E0-43CB-99AC-CAAF8074ECDD",
+      "person_id": "Q56065621",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210905",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56222538-7CF55181-D7A0-4FB3-9DE2-B8F32147FA8C",
+      "person_id": "Q56222538",
+      "on_behalf_of_id": "Q1410662",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210905",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275239-368EF249-4C58-4A46-A943-80AB4BBE8EEE",
+      "person_id": "Q56275239",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600832",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275240-368AE860-9FA3-48E3-B243-F37ACDB15A62",
+      "person_id": "Q56275240",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600833",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275241-63B99024-F241-462F-AC4C-C9AAF63A9122",
+      "person_id": "Q56275241",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600834",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275242-2013BB2D-287F-4975-BDF4-8CCA09CAEF11",
+      "person_id": "Q56275242",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q17069395",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275243-5D6E5458-A594-48E6-8328-743BA7FC55AA",
+      "person_id": "Q56275243",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210219",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275244-9A72988A-B8A1-412C-B63A-CDF6E16A4782",
+      "person_id": "Q56275244",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q19600836",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275245-64D3F289-7A29-43B5-81D6-D3FEC6B24232",
+      "person_id": "Q56275245",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210224",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275246-4A4DAB9C-D649-4CBE-82AD-0FCDA477A3E2",
+      "person_id": "Q56275246",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210227",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275247-94E9C549-4FC7-4248-846C-0FEB40C9CF94",
+      "person_id": "Q56275247",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210226",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275248-5C0F7721-BAFF-4D25-9B7C-BE99F45C1156",
+      "person_id": "Q56275248",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210229",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275249-6B3D3263-826C-4E02-96D1-460800A9CF6E",
+      "person_id": "Q56275249",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210261",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275250-F485DB42-A57B-4EAD-8C59-221DB8AF7B8C",
+      "person_id": "Q56275250",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210258",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56277585-6A65372B-AB66-4BFA-9D90-BFDDB9FD4273",
+      "person_id": "Q56277585",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56277586-45CC7E87-CC42-462C-BD0C-6A531D81FB85",
+      "person_id": "Q56277586",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56278374-DA680A60-B49B-4708-A1F9-CC8B0ED9A2C9",
+      "person_id": "Q56278374",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210905",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585018-1C4D22BC-19E2-49F1-8ACE-591A1F351558",
+      "person_id": "Q57585018",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210209",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585049-CAA89310-3334-409C-988B-5CA15FC841AE",
+      "person_id": "Q57585049",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210319",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585330-0935D908-3219-4BA3-9314-2B551A0D8483",
+      "person_id": "Q57585330",
+      "on_behalf_of_id": "Q659854",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585341-995416F2-7B53-4942-ADAF-DB7352528BA8",
+      "person_id": "Q57585341",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585365-1C2F5B0A-281B-4079-9FFC-899D2E1387D8",
+      "person_id": "Q57585365",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210906",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7423711-4BF3C7E2-5F0E-4436-B336-6464DEFB766E",
+      "person_id": "Q7423711",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q2597438",
+      "area_id": "Q59210231",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873753",
+      "role": {
+        "lang:en": "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
+      }
+    }
   ]
 }

@@ -2,8 +2,1848 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Usman Ahmad Khan Buzdar",
-        "lang:ur": "سردار عثمان خان بزدار"
+        "lang:en": "Chaudhary Mohammad Iqbal",
+        "lang:ur": "چودھری محمد اقبال"
+      },
+      "id": "Q16106370",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16106370"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Ahmad Khan",
+        "lang:ur": "ملک احمد خان"
+      },
+      "id": "Q16731872",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16731872"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalida Mansoor",
+        "lang:ur": "خالدہ منصور"
+      },
+      "id": "Q19517986",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19517986"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jahangir Khanzada",
+        "lang:ur": "محمد جہانگیر خانزادہ"
+      },
+      "id": "Q21229212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21229212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saeed Akbar Khan",
+        "lang:ur": "مسٹر سعید اکبر خان"
+      },
+      "id": "Q23304408",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23304408"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Akhlaq",
+        "lang:ur": "مسٹر محمد اخلاق"
+      },
+      "id": "Q27663137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27663137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalil Tahir Sindhu",
+        "lang:ur": "خلیل طاہر سندھو"
+      },
+      "id": "Q28037486",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28037486"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ms Hameeda Mian",
+        "lang:ur": "مس حمیدہ میاں"
+      },
+      "id": "Q28950193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28950193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Parvez Elahi",
+        "lang:ur": "مسٹر پرویزالہی"
+      },
+      "id": "Q2961554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2961554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Muhammad Afzal",
+        "lang:ur": "رانہ محمد افضل"
+      },
+      "id": "Q30673665",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30673665"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ch Nisar Ali Khan",
+        "lang:ur": "چودھری نثار علی خان"
+      },
+      "id": "Q3342137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3342137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Abdul Sattar",
+        "lang:ur": "رانا عبدالستار"
+      },
+      "id": "Q33528862",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33528862"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syeda Uzma Qadri",
+        "lang:ur": "سیدہ عظمی قادری"
+      },
+      "id": "Q37611023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37611023"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Rauf Mughal",
+        "lang:ur": "مسٹر عبدالرؤف مغل"
+      },
+      "id": "Q47397314",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47397314"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abu Hafas Muhammad Ghayas-ud-Din",
+        "lang:ur": "مسٹر ابو حفس محمد غیاث الددین"
+      },
+      "id": "Q47397658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47397658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ameer Muhammad Khan",
+        "lang:ur": "مسٹر امیر محمدخان"
+      },
+      "id": "Q47398289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47398289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Choudhary Ashraf Ali",
+        "lang:ur": "چودھری اشرف علی"
+      },
+      "id": "Q47399865",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47399865"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Arshad Javaid Warraich",
+        "lang:ur": "چودھری ارشد جاوید وڑائچ"
+      },
+      "id": "Q47399875",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47399875"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akhtar Ali Khan",
+        "lang:ur": "مسٹر اختر علی خان"
+      },
+      "id": "Q47401148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47401148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhari Faisal Farooq",
+        "lang:ur": "چودھری فیصل فاروق"
+      },
+      "id": "Q47401496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47401496"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Khalid Butt",
+        "lang:ur": "مسٹر عمران خالد بٹ"
+      },
+      "id": "Q47404368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47404368"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ejaz Khan",
+        "lang:ur": "مسٹر اعجاز خان"
+      },
+      "id": "Q47404377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47404377"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khawaja Muhammad Waseem",
+        "lang:ur": "خواجہ محمد وسیم"
+      },
+      "id": "Q47404991",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47404991"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khurram ljaz",
+        "lang:ur": "مسٹر خرم اعجاز"
+      },
+      "id": "Q47405340",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47405340"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Taimoor Masood",
+        "lang:ur": "ملک تیمور مسعود"
+      },
+      "id": "Q47406317",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47406317"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Saiful Malook Khokhar",
+        "lang:ur": "ملک سیف الملوک کھوکھر"
+      },
+      "id": "Q47406326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47406326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Waris Shad",
+        "lang:ur": "مسٹر محمد وارث شد"
+      },
+      "id": "Q47406338",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47406338"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Manazar Hussain Ranjha",
+        "lang:ur": "میاں منظر حسین راجہ"
+      },
+      "id": "Q47406957",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47406957"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Alamdar Abbas Qureshi",
+        "lang:ur": "میاں علمدار عباس قریشی"
+      },
+      "id": "Q47406979",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47406979"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naveed Ali",
+        "lang:ur": "مسٹر نویدعلی"
+      },
+      "id": "Q47407300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47407300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khuwaja Muhammad Mansha Ullah Butt",
+        "lang:ur": "خواجہ محمد منشااللہ بٹ"
+      },
+      "id": "Q47408300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47408300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Nawaz Chohan",
+        "lang:ur": "مسٹر محمد نوازخان چوہان"
+      },
+      "id": "Q47408624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47408624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Toufeeq Butt",
+        "lang:ur": "مسٹر محمد توفیق بٹ"
+      },
+      "id": "Q47408814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47408814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Sibtain Khan",
+        "lang:ur": "مسٹر محمد سبتین خان"
+      },
+      "id": "Q47408821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47408821"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Qaisar Iqbal",
+        "lang:ur": "مسٹر قیصر اقبال"
+      },
+      "id": "Q47409531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47409531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ashraf Rasool",
+        "lang:ur": "مسٹر محمد اشرف رسول"
+      },
+      "id": "Q47409539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47409539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Ejaz Ahmad Noon",
+        "lang:ur": "رانا اعجاز احمد نورانی"
+      },
+      "id": "Q47409851",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47409851"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Rashid Hafeez",
+        "lang:ur": "راجہ راشد حفیظ"
+      },
+      "id": "Q47409869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47409869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Munawar Hussain",
+        "lang:ur": "رانہ منورحسین"
+      },
+      "id": "Q47410219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47410219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Manan Khan",
+        "lang:ur": "مسٹر منان خان"
+      },
+      "id": "Q47410236",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47410236"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liaqat Ali",
+        "lang:ur": "مسٹر لیاقت علی"
+      },
+      "id": "Q47410240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47410240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sheikh Alla-ud-Din",
+        "lang:ur": "شیخ علاؤالددین"
+      },
+      "id": "Q47411288",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47411288"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shaukat Manzoor Cheema",
+        "lang:ur": "مسٹر شوکت منظور چیمہ"
+      },
+      "id": "Q47411298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47411298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tanveer Aslam Malik",
+        "lang:ur": "مسٹر تنویر اسلم ملک"
+      },
+      "id": "Q47411596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47411596"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tariq Masih Gill",
+        "lang:ur": "طارق مسیح گل"
+      },
+      "id": "Q47500502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47500502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zakia Khan",
+        "lang:ur": "زکیہ خان"
+      },
+      "id": "Q47586631",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47586631"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asma Zahid Bokhari",
+        "lang:ur": "عظمہ زاہد بخاری"
+      },
+      "id": "Q47863721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47863721"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bushra Anjum Butt",
+        "lang:ur": "بشرہ انجم بٹ"
+      },
+      "id": "Q47867008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47867008"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faiza Mushtaq",
+        "lang:ur": "فائزہ مشتاق"
+      },
+      "id": "Q47891155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47891155"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gulnaz Shahzadi",
+        "lang:ur": "گل ناز شہزادی"
+      },
+      "id": "Q47905889",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47905889"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haseena Begum",
+        "lang:ur": "حسینہ بیگم"
+      },
+      "id": "Q47917384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47917384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hina Pervaiz Butt",
+        "lang:ur": "حنا پرویز بٹ"
+      },
+      "id": "Q47918210",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47918210"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ms Joyoc Rufin Julius",
+        "lang:ur": "مس جوئس روفن جولئس"
+      },
+      "id": "Q47919784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47919784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khadija Umer",
+        "lang:ur": "خدیجہ عمر"
+      },
+      "id": "Q47921341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47921341"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehwish Sultana",
+        "lang:ur": "مہوش سلطانہ"
+      },
+      "id": "Q47963962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47963962"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Baasima Ch",
+        "lang:ur": "باسمہ چودھری"
+      },
+      "id": "Q4867790",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4867790"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raheela Naeem",
+        "lang:ur": "راحیلہ نعیم"
+      },
+      "id": "Q48678740",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48678740"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ishrat Ashraf",
+        "lang:ur": "عشرت اشرف"
+      },
+      "id": "Q4880621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4880621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saba Sadiq",
+        "lang:ur": "صبا صادق"
+      },
+      "id": "Q49090934",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49090934"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sadia Nadeem Malik",
+        "lang:ur": "سادیہ ندیم ملک"
+      },
+      "id": "Q49198739",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49198739"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tahia Noon",
+        "lang:ur": "تاحیہ نون"
+      },
+      "id": "Q50325889",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50325889"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yasir Zafar Sandhu",
+        "lang:ur": "مسٹر یاسر ظفر سندھو"
+      },
+      "id": "Q50329880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50329880"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zaib-un-Nisa",
+        "lang:ur": "زیب انساء"
+      },
+      "id": "Q50368843",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50368843"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Yawar Abbas Bukhari",
+        "lang:ur": "سید یاور عباس بخاری"
+      },
+      "id": "Q55819941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819941"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Muhammad Anwar",
+        "lang:ur": "ملک محمد انور"
+      },
+      "id": "Q55819945",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819945"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Jamshaid Altaf",
+        "lang:ur": "ملک جمشید الطاف"
+      },
+      "id": "Q55819947",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819947"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Latasub Satti",
+        "lang:ur": "محمد لاتعصب ستی"
+      },
+      "id": "Q55819949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819949"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Sagheer Ahmed",
+        "lang:ur": "راجہ صغیر احمد"
+      },
+      "id": "Q55819954",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819954"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Javed Kausar",
+        "lang:ur": "جاوید کوثر"
+      },
+      "id": "Q55819959",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Sajid Mehmood",
+        "lang:ur": "چودھری ساجد محمود"
+      },
+      "id": "Q55819964",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819964"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Muhammad Adnan",
+        "lang:ur": "چودھری محمدعدنان"
+      },
+      "id": "Q55819968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wasiq Qayyum Abbasi",
+        "lang:ur": "مسٹر واثق قیوم عباسی"
+      },
+      "id": "Q55819974",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819974"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amjad Mehmood Chaudhry",
+        "lang:ur": "مسٹر امجد محمود چودھری"
+      },
+      "id": "Q55819977",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819977"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Umer Tanveer",
+        "lang:ur": "مسٹر عمر تنویر"
+      },
+      "id": "Q55819982",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819982"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fayaz-ul-Hasan Chohan",
+        "lang:ur": "مسٹر فیاض الحسن چوہان"
+      },
+      "id": "Q55819986",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819986"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ammar Saddique Khan",
+        "lang:ur": "مسٹر عمار صدیق خان"
+      },
+      "id": "Q55819992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yasir Humayun",
+        "lang:ur": "مسٹر یاسین ہمایوں"
+      },
+      "id": "Q55819997",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55819997"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Aftab Akbar Khan",
+        "lang:ur": "سردار آفتاب اکبر خان"
+      },
+      "id": "Q55820002",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820002"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ammar Yasir",
+        "lang:ur": "مسٹر عمار یاسر"
+      },
+      "id": "Q55820012",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820012"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Yawar Kamal Khan",
+        "lang:ur": "راجہ یار کمال خان"
+      },
+      "id": "Q55820016",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820016"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zafar Iqbal",
+        "lang:ur": "مسٹر ظفر اقبال"
+      },
+      "id": "Q55820021",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820021"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shujahat Nawaz",
+        "lang:ur": "مسٹر شجاعت نواز"
+      },
+      "id": "Q55820028",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820028"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Abdullah Warraich",
+        "lang:ur": "مسٹر محمد عبداللہ وڑائج"
+      },
+      "id": "Q55820032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820032"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saleem Sarwar Jaura",
+        "lang:ur": "مسٹر سلیم جوارہ"
+      },
+      "id": "Q55820042",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820042"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Muhammad Akhtar Hayat",
+        "lang:ur": "میاں محمد اختر حیات"
+      },
+      "id": "Q55820046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Liaqat Ali",
+        "lang:ur": "چودھری لیاقت علی"
+      },
+      "id": "Q55820051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820051"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Arshad Chaudhary",
+        "lang:ur": "مسٹر محمد ارشد چودھری"
+      },
+      "id": "Q55820059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arif Iqbal",
+        "lang:ur": "مسٹر عارف اقبال"
+      },
+      "id": "Q55820062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820062"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Choudhary Khush Akhtar Subhani",
+        "lang:ur": "چودھری خوش اختر سبحانی"
+      },
+      "id": "Q55820070",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820070"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Rizwan",
+        "lang:ur": "مسٹر محمد رضوان"
+      },
+      "id": "Q55820074",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820074"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zeeshan Rafique",
+        "lang:ur": "مسٹر ذیشان رفیق"
+      },
+      "id": "Q55820079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820079"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Naveed Ashraf",
+        "lang:ur": "چودھری نوید اشرف"
+      },
+      "id": "Q55820087",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820087"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Saeed Ul Hassan",
+        "lang:ur": "سید سعید الحسن"
+      },
+      "id": "Q55820092",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820092"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bilal Akbar Khan",
+        "lang:ur": "مسٹر بلال اکبر خان"
+      },
+      "id": "Q55820098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820098"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Aadil Bakhsh Chattha",
+        "lang:ur": "چودھری عادل بخش چٹہ"
+      },
+      "id": "Q55820103",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820103"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bilal Farooq Tarar",
+        "lang:ur": "مسٹر بلال فاروق تارڑ"
+      },
+      "id": "Q55820108",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820108"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Waqar Ahmad Cheema",
+        "lang:ur": "چودھری وقار احمد چیمہ"
+      },
+      "id": "Q55820111",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820111"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aman Ullah Warraich",
+        "lang:ur": "مسٹر امان اللہ وڑائچ"
+      },
+      "id": "Q55820113",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820113"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Irfan Bashir",
+        "lang:ur": "مسٹر غرفان بشیر"
+      },
+      "id": "Q55820115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sajid Ahmed Khan",
+        "lang:ur": "مسٹر ساجد احمد خان"
+      },
+      "id": "Q55820119",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820119"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gulraiz Afzal Gondal",
+        "lang:ur": "مسٹر گلریزافضل گوندل"
+      },
+      "id": "Q55820120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Mamoon Tarar",
+        "lang:ur": "مسٹر محمد میمون تارڑ"
+      },
+      "id": "Q55820122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820122"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muzaffer Ali Sheikh",
+        "lang:ur": "مسٹر مظفر علی شیخ"
+      },
+      "id": "Q55820126",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820126"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ahsan Jahangir",
+        "lang:ur": "مسٹر محمد احسن جہانگیر"
+      },
+      "id": "Q55820134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Muneeb Sultan Cheema",
+        "lang:ur": "مسٹر محمد منیب سلطان چیمہ"
+      },
+      "id": "Q55820135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820135"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ansar Majeed Khan Niazi",
+        "lang:ur": "مسٹر انصار مجید خان نیازی"
+      },
+      "id": "Q55820137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghulam Ali Asghar Khan Lahry",
+        "lang:ur": "غلام علی اصغر خان لہری"
+      },
+      "id": "Q55820138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fateh Khaliq",
+        "lang:ur": "مسٹر فتح خالق"
+      },
+      "id": "Q55820145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Ghulam Rasool Sangha",
+        "lang:ur": "ملک غلام رسول سنگہ"
+      },
+      "id": "Q55820152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820152"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Rehman Khan",
+        "lang:ur": "مسٹر عبدالرحمان خان"
+      },
+      "id": "Q55820157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820157"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amin Ullah Khan",
+        "lang:ur": "مسٹر امین اللہ خان"
+      },
+      "id": "Q55820162",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820162"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ms Saleem Bibi",
+        "lang:ur": "مس سلیم بی بی"
+      },
+      "id": "Q55820174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55820174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zawar Hussain Warraich",
+        "lang:ur": "زوار حسین وڑائچ"
+      },
+      "id": "Q55822363",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55822363"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Muhammad Shafiq Anwar",
+        "lang:ur": "چودھری محمد شفیق انور"
+      },
+      "id": "Q55822485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55822485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Aown Hameed",
+        "lang:ur": "محمد عون حمید"
+      },
+      "id": "Q55825055",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825055"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usman Ahmed Khan Buzdar",
+        "lang:ur": "عثمان احمد خان بزدار"
       },
       "id": "Q55825094",
       "identifiers": [
@@ -15,13 +1855,669 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian ljaz Hussain Bhatti",
+        "lang:ur": "میاں اعجازحسین بھٹی"
+      },
+      "id": "Q55825385",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825385"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sania Ashiq Jabeen",
+        "lang:ur": "ثانیہ عاشق جبین"
+      },
+      "id": "Q56065262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Uswah Aftab",
+        "lang:ur": "اسوہ آفتاب"
+      },
+      "id": "Q56065265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kanwal Pervaiz Chaudhry",
+        "lang:ur": "کنول پرویز چودھری"
+      },
+      "id": "Q56065266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065266"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rabia Nusrat",
+        "lang:ur": "رابعہ نصرت"
+      },
+      "id": "Q56065267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rahat Afza",
+        "lang:ur": "راحت افضا"
+      },
+      "id": "Q56065276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Munira Yamin Satti",
+        "lang:ur": "منیرہ یاسمین ستی"
+      },
+      "id": "Q56065281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065281"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Salma Saadia Taimoor",
+        "lang:ur": "سلمہ سادیہ تیمور"
+      },
+      "id": "Q56065287",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065287"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rabia Ahmed Butt",
+        "lang:ur": "رابعہ احمد بٹ"
+      },
+      "id": "Q56065299",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065299"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rabia Naseem Farooqi",
+        "lang:ur": "رابعہ نسیم فاروقی"
+      },
+      "id": "Q56065305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sumera Komal",
+        "lang:ur": "سمیرہ کنول"
+      },
+      "id": "Q56065308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sumbal Malik Hussain",
+        "lang:ur": "سمبل ملک حسین"
+      },
+      "id": "Q56065313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aneeza Fatima",
+        "lang:ur": "انیزہ فاطمہ"
+      },
+      "id": "Q56065322",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nafisa Ameen",
+        "lang:ur": "نفیسہ امین"
+      },
+      "id": "Q56065330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Neelum Hayat Malik",
+        "lang:ur": "نیلم حیات ملک"
+      },
+      "id": "Q56065388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asia Amjad",
+        "lang:ur": "آسیہ امجد"
+      },
+      "id": "Q56065423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065423"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seemabia Tahir",
+        "lang:ur": "سیمابیہ طاہر"
+      },
+      "id": "Q56065433",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065433"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Momina Waheed",
+        "lang:ur": "مومنہ وحید"
+      },
+      "id": "Q56065445",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065445"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aisha Nawaz",
+        "lang:ur": "عائشہ نواز"
+      },
+      "id": "Q56065446",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065446"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zainab Umair",
+        "lang:ur": "زینب عمیر"
+      },
+      "id": "Q56065456",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065456"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Farah Agha",
+        "lang:ur": "فرح آغا"
+      },
+      "id": "Q56065460",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065460"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syeda Farah Azmi",
+        "lang:ur": "سیدہ فرح عظمی"
+      },
+      "id": "Q56065461",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065461"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sajida Yousf",
+        "lang:ur": "ساجدہ یوسف"
+      },
+      "id": "Q56065475",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065475"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sabeen Gul Khan",
+        "lang:ur": "سبین گل خان"
+      },
+      "id": "Q56065482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065482"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sabrina Javaid",
+        "lang:ur": "صابرینہ جاوید"
+      },
+      "id": "Q56065491",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065491"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abida Bibi",
+        "lang:ur": "عابدہ بی بی"
+      },
+      "id": "Q56065494",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065494"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shazia Abid",
+        "lang:ur": "شازیہ عابد"
+      },
+      "id": "Q56065495",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56065495"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haroon Imran Gill",
+        "lang:ur": "ہارون عمران گل"
+      },
+      "id": "Q56222502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56222502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ijaz Masih",
+        "lang:ur": "اعجاز مسیح"
+      },
+      "id": "Q56222506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56222506"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mahindar Pall Singh",
+        "lang:ur": "مہندر پال سنگھ"
+      },
+      "id": "Q56222507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56222507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Munir Masih Khokhar",
+        "lang:ur": "منیر مسیح کھو کھر"
+      },
+      "id": "Q56222510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56222510"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sohaib Ahmad Malik",
+        "lang:ur": "مسٹر شعیب احمد ملک"
+      },
+      "id": "Q56275279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhary Iftikhar Hussain",
+        "lang:ur": "چودھری افتخار حسین"
+      },
+      "id": "Q56275286",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56275286"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rukhsana Kausar",
+        "lang:ur": "رخسانہ کوثر"
+      },
+      "id": "Q56277498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56277498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Gill",
+        "lang:ur": "پیٹر گل"
+      },
+      "id": "Q56278343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56278343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nasir Mehmood",
+        "lang:ur": "ناصر محمود"
+      },
+      "id": "Q57339464",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57339464"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Iftikhar Ahmed Khan",
+        "lang:ur": "افتخار احمد خان"
+      },
+      "id": "Q57585222",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585222"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Tariq Tarar",
+        "lang:ur": "مسٹر محمد طارق تارڑ"
+      },
+      "id": "Q6932754",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6932754"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mumtaz Ali",
+        "lang:ur": "ممتاز علی"
+      },
+      "id": "Q6935503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6935503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Basharat Raja",
+        "lang:ur": "مسٹر محمد بشارت راجہ"
+      },
+      "id": "Q7285495",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7285495"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Mashood Ahmad Khan",
+        "lang:ur": "رانامشہوداحمدخان"
+      },
+      "id": "Q7290642",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290642"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en": "Provincial Assembly of the Punjab",
-        "lang:ur": "صوبائی اسمبلی پنجاب"
+        "lang:en": "Provincial Assembly of Punjab Province",
+        "lang:ur": "پنجاب کی صوبائی اسمبلی"
       },
       "id": "Q975150",
       "classification": "branch",
@@ -35,6 +2531,62 @@
       "seat_counts": {
         "Q55808168": "371"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party Parliamentarians",
+        "lang:ur": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "id": "Q7125678",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125678"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     },
     {
       "name": {
@@ -56,11 +2608,2837 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16106370-384ADC93-20F3-4EC2-BC19-2C81687E2077",
+      "person_id": "Q16106370",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207376",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16731872-92173038-6588-4BFA-8CC3-5E2D7972E542",
+      "person_id": "Q16731872",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207404",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19517986-11EB253D-B4FC-4066-AE00-C217A95495D9",
+      "person_id": "Q19517986",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21229212-9EC68C23-749B-428C-AE91-00C3EB8F0ABB",
+      "person_id": "Q21229212",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207303",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23304408-6AEFDB69-D027-4A87-8C44-243A37C643D9",
+      "person_id": "Q23304408",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207407",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27663137-F60CCBDD-AB16-4BF5-99B3-9731F4475A9D",
+      "person_id": "Q27663137",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207341",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28037486-CF6B45D3-6873-4F96-B5EE-DCEE48627287",
+      "person_id": "Q28037486",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28950193-445CCA8A-4701-4A1A-9B95-D1277D0DA0CD",
+      "person_id": "Q28950193",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207379",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2961554-6CBA9719-28A7-405A-80D9-F5E27E65538E",
+      "person_id": "Q2961554",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207335",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30673665-BF236DC5-28B1-42EC-90A7-19DCCB9F8BFC",
+      "person_id": "Q30673665",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207348",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3342137-B208A7CD-4E5F-44F5-9339-2DA8BEC2739A",
+      "person_id": "Q3342137",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q975150",
+      "area_id": "Q59207311",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33528862-0FA9DFB6-3165-4150-9AB3-C776A464A471",
+      "person_id": "Q33528862",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207353",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q37611023-68115785-901E-4D12-9FA4-136525C49909",
+      "person_id": "Q37611023",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47397314-89FC46F5-D824-4EBA-A7CF-61EEA0C71512",
+      "person_id": "Q47397314",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207371",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47397658-BD30F9C8-86CA-41D5-BF10-40F8C0B56748",
+      "person_id": "Q47397658",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207359",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47398289-85FAD03D-0294-4060-B15C-06BEB17CCF1B",
+      "person_id": "Q47398289",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207406",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47399865-70EB088C-C8B3-4A96-BA95-847E7670B907",
+      "person_id": "Q47399865",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207370",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47399875-5D4C2619-45F3-46B7-A1E8-06A11C0C0F36",
+      "person_id": "Q47399875",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207352",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47401148-87238755-4671-4F36-A4B0-33709B96AB63",
+      "person_id": "Q47401148",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207374",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47401496-B00A9379-C164-4DEB-B245-A74CEC24244C",
+      "person_id": "Q47401496",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207392",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47404368-5601351D-40E4-4083-8079-85A2B8F800AB",
+      "person_id": "Q47404368",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207366",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47404377-38690CE6-7531-472F-A346-819D073E0BE8",
+      "person_id": "Q47404377",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207321",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47404991-45145524-2A79-478F-8D44-303AFC412EC7",
+      "person_id": "Q47404991",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207362",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47405340-53F0781E-D5EA-45E4-9A6E-D5622FCE7A5F",
+      "person_id": "Q47405340",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207462",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47406317-BBD54ACC-2987-4C3D-A9DA-698C8332B4A8",
+      "person_id": "Q47406317",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207325",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47406326-5DEE7E29-4622-493D-9573-47BED18385A2",
+      "person_id": "Q47406326",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207501",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47406338-E38D6F5F-F96A-4B1F-9BE1-FACC50E1DB3D",
+      "person_id": "Q47406338",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207401",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47406957-AB2D9058-7F9C-4107-B0D9-554EDE03E21F",
+      "person_id": "Q47406957",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207390",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47406979-055A060F-846E-4324-9948-4090E6848232",
+      "person_id": "Q47406979",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207647",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47407300-53EAF34D-E4C0-4B92-B089-D063F74E4B49",
+      "person_id": "Q47407300",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207538",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47408300-64473D4C-9102-4C67-911A-CB7763152A8A",
+      "person_id": "Q47408300",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207342",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47408624-617DB15C-446E-458C-8258-252176E5C343",
+      "person_id": "Q47408624",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207367",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47408814-1B5BDF0C-E3A3-4FE7-966F-BC0F9B0441CA",
+      "person_id": "Q47408814",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207369",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47408821-C28DDAB4-8AC1-4FDB-B916-E31D8BFAD51B",
+      "person_id": "Q47408821",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207405",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47409531-1976A413-8A27-4774-86BD-551410D94012",
+      "person_id": "Q47409531",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207373",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47409539-AE9668B8-C775-4306-9C8C-53B036EA613A",
+      "person_id": "Q47409539",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207464",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47409851-FDE73C95-73E9-4CD3-B3A1-1F9CF554D57A",
+      "person_id": "Q47409851",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207576",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47409869-BB394F17-2427-48AA-ADBD-C826FE5A8F8D",
+      "person_id": "Q47409869",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207319",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47410219-BE682BB2-5D90-479A-81B5-DC06CC01ED62",
+      "person_id": "Q47410219",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207395",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47410236-D8895D64-ABAE-47C5-9349-B22A66006906",
+      "person_id": "Q47410236",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207360",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47410240-701377A4-E2A5-4E41-9DA7-E3D61F7B404C",
+      "person_id": "Q47410240",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207347",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47411288-ECE38459-48F2-40C4-9782-353E8E335600",
+      "person_id": "Q47411288",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207518",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47411298-5E1739A8-96FC-4E4D-AE52-010B69E3CDD0",
+      "person_id": "Q47411298",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207363",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47411596-723F3C47-4719-4958-B035-877503B4D0A5",
+      "person_id": "Q47411596",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207327",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47500502-2C652A73-7907-404D-9C81-70FC41A03BBB",
+      "person_id": "Q47500502",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47586631-102A076B-B5CD-4866-B25E-FA66C8D986E1",
+      "person_id": "Q47586631",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47863721-AC7AB650-D8C2-4ADA-A5A2-29D11A632A67",
+      "person_id": "Q47863721",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47867008-782C9487-C8CA-4434-A33D-0C05FB41B7DE",
+      "person_id": "Q47867008",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47891155-4047E679-8A8A-4D9E-BF58-FE4FD393EACD",
+      "person_id": "Q47891155",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47905889-3614C151-BFDE-4CAF-832D-89665290D561",
+      "person_id": "Q47905889",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47917384-9FC2552C-7887-4EDD-B388-685DE507406D",
+      "person_id": "Q47917384",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47918210-207696EC-5D37-4214-8840-602BD55CD89D",
+      "person_id": "Q47918210",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47919784-5E874D09-2B85-444F-9957-1249CD10863F",
+      "person_id": "Q47919784",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47921341-C2EE40CD-6580-424C-B72A-233505DD5018",
+      "person_id": "Q47921341",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47963962-4D32FF8A-A514-41E2-95B5-12A3EDBA0655",
+      "person_id": "Q47963962",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4867790-8F3EBC9A-3CB5-441A-AC6A-5C4002A264DD",
+      "person_id": "Q4867790",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48678740-E0444326-F562-4871-A59B-9A956F52A375",
+      "person_id": "Q48678740",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4880621-6B833C3F-7F62-44FA-AE64-B2AFC871E5D1",
+      "person_id": "Q4880621",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q49090934-864C6FDF-1324-44C9-A5F7-BD9BDCE9F767",
+      "person_id": "Q49090934",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q49198739-A6DAA471-FE74-4010-A1C9-EE1CA9F5D25E",
+      "person_id": "Q49198739",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50325889-C7D93D04-24DD-43AB-B179-BCBDFC9CAA50",
+      "person_id": "Q50325889",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50329880-E59C30B9-D3C3-4D92-B054-4B69C18B1EBC",
+      "person_id": "Q50329880",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207387",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50368843-B6E32612-CFA2-4731-88DF-714961981952",
+      "person_id": "Q50368843",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819941-003F6562-EBB8-46A1-B11E-BD2F484207D7",
+      "person_id": "Q55819941",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207301",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819945-4393D636-8C85-4683-A7B6-ACE5AA68DA3A",
+      "person_id": "Q55819945",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207305",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819947-CCC74A2A-F215-471B-85F2-D2166F53B66F",
+      "person_id": "Q55819947",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207306",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819949-48B50235-EA93-40EA-B0E8-51FD98CA8B0D",
+      "person_id": "Q55819949",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207307",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819954-F731C031-76E8-4EC7-A925-E3E4F648E0DA",
+      "person_id": "Q55819954",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207308",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819959-F577D534-E3D3-41C2-98AB-2B69D194C946",
+      "person_id": "Q55819959",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207309",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819964-2B24E26B-333A-415F-9EF6-B9130C81B73E",
+      "person_id": "Q55819964",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207310",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819968-6396AB7A-B5D4-4151-A5DE-D99C72F42064",
+      "person_id": "Q55819968",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207312",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819974-0D08B82F-7CF6-4019-82F3-56E3554CDBAE",
+      "person_id": "Q55819974",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207313",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819977-87BDC953-9415-490A-A67F-53FE80944A10",
+      "person_id": "Q55819977",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207315",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819982-76B04339-06D1-4315-BAC9-31ADFD9FF556",
+      "person_id": "Q55819982",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207317",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819986-1C0854E4-2A61-40D7-A122-0A441AE70C68",
+      "person_id": "Q55819986",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207320",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819992-7A509F24-5D86-4574-8E15-DCE0F7F956FF",
+      "person_id": "Q55819992",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207322",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55819997-5C953487-FB03-462F-9B4B-72721A23A141",
+      "person_id": "Q55819997",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207326",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820002-C35EE1CF-7B2D-4D5A-829A-D100B0544170",
+      "person_id": "Q55820002",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207328",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820012-DDA7B066-0740-4259-A3CC-6B92814621CE",
+      "person_id": "Q55820012",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207329",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820016-5816F784-8F88-4267-BF20-5E6A9BA87BE4",
+      "person_id": "Q55820016",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207330",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820021-2752C45F-85F9-4716-9AA1-DA7259D2C392",
+      "person_id": "Q55820021",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207429",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820021-BCDC58A7-5297-4832-9AE9-AB72115A3AF8",
+      "person_id": "Q55820021",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207331",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820028-E8119A4E-CB9C-4B88-A515-58B1700824A2",
+      "person_id": "Q55820028",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207333",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820032-872D7D93-ED41-4CF4-AA5A-FC65E9243A96",
+      "person_id": "Q55820032",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207334",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820042-61030AAD-ACE2-42ED-988E-D28FDF1AEE13",
+      "person_id": "Q55820042",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207336",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820046-2C42E73E-F1D2-4B44-AAAD-0346CD8FCC76",
+      "person_id": "Q55820046",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207337",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820051-9BB7BF29-CAE7-412E-A1C6-78C4487F53F9",
+      "person_id": "Q55820051",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207338",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820059-141EEBC4-A218-4FC6-B62B-6702095F0996",
+      "person_id": "Q55820059",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207339",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820062-E9B0AD20-4081-413D-B0BF-19F4C749A034",
+      "person_id": "Q55820062",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207340",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820070-DFA1B869-C008-4054-AA4A-D4D88E9218CA",
+      "person_id": "Q55820070",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207346",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820074-6792707D-9C86-4E4F-A388-973B7FD6D283",
+      "person_id": "Q55820074",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207349",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820079-8E5B90C0-4CE6-4929-89DA-E290E78F6D1B",
+      "person_id": "Q55820079",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207350",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820087-3787AE15-8A3D-4761-B7E1-8DCCD2DB1F80",
+      "person_id": "Q55820087",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207351",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820092-F50D1FB8-9B56-4A61-9B17-EF0633DE68B1",
+      "person_id": "Q55820092",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207354",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820098-D167F497-CB63-401D-8580-CC63AD163FE8",
+      "person_id": "Q55820098",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207361",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820103-A6D53305-9D6A-4BED-8FEA-58326328E410",
+      "person_id": "Q55820103",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207364",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820108-8F737D67-6753-4EFB-B8FA-FE818D242C0B",
+      "person_id": "Q55820108",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207365",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820111-9F7CF48F-A431-4FD4-82EB-EA581C10C7BB",
+      "person_id": "Q55820111",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207372",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820113-C1C96EC0-1A5B-455D-ABFF-8F1C51656868",
+      "person_id": "Q55820113",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207375",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820115-5AD58756-50A9-4816-B00A-24277BEF3BD6",
+      "person_id": "Q55820115",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207377",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820119-90BF4D9C-9FEB-49CA-8465-A82BC9F068BB",
+      "person_id": "Q55820119",
+      "on_behalf_of_id": "Q864345",
+      "organization_id": "Q975150",
+      "area_id": "Q59207381",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820120-DFC33174-2723-4CDB-9AEB-5390B110A08A",
+      "person_id": "Q55820120",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207382",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820122-F74B29B8-0274-434D-9277-E60699098C26",
+      "person_id": "Q55820122",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207383",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820126-8AA0AE25-1A05-47C3-BCB2-F1D4E89D13B6",
+      "person_id": "Q55820126",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207384",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820134-D8BCFA02-5859-473D-9CDC-CF12686ED179",
+      "person_id": "Q55820134",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207385",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820135-8F3A850D-DA48-4CF2-AE06-DCDCDC63EE52",
+      "person_id": "Q55820135",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207391",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820137-6FE08D7B-AF4A-48B9-9D73-361C80D2FE94",
+      "person_id": "Q55820137",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207394",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820138-2F7F4100-E5FF-44C8-A8B8-9FF2148170F8",
+      "person_id": "Q55820138",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207396",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820145-E5EDA488-08A2-4920-84FE-CB3387A75896",
+      "person_id": "Q55820145",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207398",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820152-905AA5D1-8C1A-432C-8CD6-7496F6686CE1",
+      "person_id": "Q55820152",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207400",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820157-65A34B14-0305-47CB-A24D-A9662E9974AD",
+      "person_id": "Q55820157",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207402",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820162-ABCFD745-EC6B-440B-8D76-82CB6250872A",
+      "person_id": "Q55820162",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207403",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55820174-6BEC9BB8-F81D-4751-B125-9D1D23012884",
+      "person_id": "Q55820174",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207413",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55822363-2518AE04-0020-4013-BB76-0D540327405D",
+      "person_id": "Q55822363",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207579",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55822485-5DA3A1D3-209B-4666-B663-54A6B1B38723",
+      "person_id": "Q55822485",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207634",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825055-96D2F5C2-2DD9-4A77-B9D9-BEABF39282A5",
+      "person_id": "Q55825055",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207646",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55825094-8ad46da2-4164-b94a-0348-8167f318dd1f",
       "person_id": "Q55825094",
       "on_behalf_of_id": "Q864345",
       "organization_id": "Q975150",
       "area_id": "Q56173967",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825385-B4D93AC4-6269-4F26-B718-EFC89E0EE3F6",
+      "person_id": "Q55825385",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207457",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065262-9F9E4114-3AD9-4EA3-88EC-BDBF0B3913FC",
+      "person_id": "Q56065262",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065265-6D1AC370-7D71-4E67-9AB4-845908786762",
+      "person_id": "Q56065265",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065266-DC91E9E3-A4C1-4C43-8A59-07440189582C",
+      "person_id": "Q56065266",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065267-54967702-8973-4458-B9BA-8C63FBC39748",
+      "person_id": "Q56065267",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065276-2B708A48-51CC-4546-861F-9C92660E180F",
+      "person_id": "Q56065276",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065281-0A4CA9C5-58C1-41F8-A68C-058C11F0FBF1",
+      "person_id": "Q56065281",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065287-B7910C54-EEEE-44AB-BC33-82AD3051EF9C",
+      "person_id": "Q56065287",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065299-27602F2A-62E2-409A-B3D7-096E58DCBF9D",
+      "person_id": "Q56065299",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065305-B8A28122-59DB-4F64-A090-D85136F2EBED",
+      "person_id": "Q56065305",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065308-0A170337-274A-4907-9FD0-EBC0DF28A6AD",
+      "person_id": "Q56065308",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065313-A1639E89-C913-43F4-B0C8-4CB1969AA86C",
+      "person_id": "Q56065313",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065322-72761448-9D9C-42BB-8820-8D0BC3CA380A",
+      "person_id": "Q56065322",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065330-CF4C2C5F-68F5-4C96-ADCD-EA775D1F92EA",
+      "person_id": "Q56065330",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065388-966081AE-354D-42C2-980E-02D88C4E69D9",
+      "person_id": "Q56065388",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065423-BBF6A4EB-87FD-42A6-A4CD-F1AB09E183CE",
+      "person_id": "Q56065423",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065433-5D3FB5B2-9CB8-42BF-A374-78A9BA8E7C32",
+      "person_id": "Q56065433",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065445-D0CEF299-2072-4942-BBEE-C612914BCE70",
+      "person_id": "Q56065445",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065446-113891C7-63C9-49D1-8640-18C0AD752DC0",
+      "person_id": "Q56065446",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065456-F2D5FDF6-E415-4AAC-9C05-28488E27AE78",
+      "person_id": "Q56065456",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065460-9E66445E-5CEE-4DD6-8D80-6E036D1EAA75",
+      "person_id": "Q56065460",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065461-729B2817-D258-4FF6-B565-2FD57CFBFE13",
+      "person_id": "Q56065461",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065475-7CCA8445-B970-4FA8-85E7-0CF66DDE10C3",
+      "person_id": "Q56065475",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065482-0CA57913-058E-4ECD-8396-F8854C9960D8",
+      "person_id": "Q56065482",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065491-B5D1EBCB-1213-48D0-AA49-E8CE985B7530",
+      "person_id": "Q56065491",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065494-F2CEC6B7-3482-4DB0-BDC3-44FD921C8931",
+      "person_id": "Q56065494",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56065495-9EB54A6E-0778-4D74-B039-5B301C457279",
+      "person_id": "Q56065495",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56222502-6E956BCE-E8AC-42F6-B048-9D7D4F481461",
+      "person_id": "Q56222502",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56222506-51752028-0EFE-4AB7-8409-F37B10F1A68F",
+      "person_id": "Q56222506",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56222507-6C3B0F91-1EE7-4555-88BA-6BA890CE8B2A",
+      "person_id": "Q56222507",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56222510-2C36F8ED-AFCE-486B-9AF7-DB01947D6950",
+      "person_id": "Q56222510",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275279-A2F222FF-5BEC-4ED6-8F0B-04D8398EBBB4",
+      "person_id": "Q56275279",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207386",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56275286-382564A6-D33A-40DD-AFA7-830C596ADE12",
+      "person_id": "Q56275286",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207397",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56277498-742064B1-8477-48E8-859A-28E20D4BC259",
+      "person_id": "Q56277498",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59210902",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56278343-F07FDF58-F299-4D1C-A0A9-6F289561D444",
+      "person_id": "Q56278343",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59210880",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57339464-5A66E230-F560-421A-99FC-8DE7BD5DEDEB",
+      "person_id": "Q57339464",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207332",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585222-18AB73D9-5E41-4337-97ED-3DD77D4B8916",
+      "person_id": "Q57585222",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207304",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6932754-44DE71B1-EF33-4B82-BB6D-E27192081520",
+      "person_id": "Q6932754",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207380",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6935503-86ECB9DD-4175-4B7F-88BF-47DE72D2682F",
+      "person_id": "Q6935503",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q975150",
+      "area_id": "Q59207633",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7285495-B3A03E4E-6550-40E1-A734-AE6942AE4499",
+      "person_id": "Q7285495",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q975150",
+      "area_id": "Q59207316",
+      "start_date": "2018-08-15",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q55808168",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of the Punjab",
+        "lang:ur": "رکن پنجاب صوبائی اسمبلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7290642-E0FF68EE-9D18-41AF-BF45-5285E6A9A5C4",
+      "person_id": "Q7290642",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q975150",
+      "area_id": "Q59207483",
       "start_date": "2018-08-15",
       "role_superclass_code": "Q16259300",
       "role_superclass": {

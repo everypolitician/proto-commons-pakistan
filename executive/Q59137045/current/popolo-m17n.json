@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Iqbal Khan Jadoon"
+      },
+      "id": "Q15982558",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15982558"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Provincial Cabinet of Khyber Pakhtunkhwa",
+        "lang:ur": "صوبائی کابینہ"
+      },
+      "id": "Q59137045",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59137045"
+        }
+      ],
+      "area_id": "Q183314"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party",
+        "lang:ur": "پاکستان پیپلز پارٹی"
+      },
+      "id": "Q186591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q186591"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15982558-451b8079-4aaa-685f-df7c-db072a6bee42",
+      "person_id": "Q15982558",
+      "on_behalf_of_id": "Q186591",
+      "organization_id": "Q59137045",
+      "area_id": "Q183314",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q5096852",
+      "role": {
+        "lang:en": "Chief Minister of Khyber Pakhtunkhwa",
+        "lang:ur": "خیبر پختونخواہ کا وزیر اعلی"
+      }
+    }
+  ]
+}

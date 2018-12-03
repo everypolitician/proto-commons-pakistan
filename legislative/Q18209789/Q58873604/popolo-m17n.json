@@ -1,11 +1,506 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Dr. Muhammad Najeeb Naqi Khan",
+        "lang:ur": "ڈاکٹر محمد نجیب نقی خان"
+      },
+      "id": "Q28868005",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28868005"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Farooq Haider Khan",
+        "lang:ur": "راجہ فاروق احمد خان"
+      },
+      "id": "Q5436144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5436144"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Masood Khalid",
+        "lang:ur": "مسعودخالد ایڈوکیٹ"
+      },
+      "id": "Q59309127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309127"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Muhammad Saeed",
+        "lang:ur": "چوھدری محمد سعید"
+      },
+      "id": "Q59309128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Rukhsar Ahmed",
+        "lang:ur": "چوھدری رخسار احمد"
+      },
+      "id": "Q59309129",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309129"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Waqar Ahmad Noor",
+        "lang:ur": "وقار احمد نور"
+      },
+      "id": "Q59309130",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309130"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Ali Shan Soni",
+        "lang:ur": "چوھدری علی شان سونی"
+      },
+      "id": "Q59309131",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309131"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Tariq Farooq",
+        "lang:ur": "چوھدری طارق فاروق"
+      },
+      "id": "Q59309132",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309132"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Muhammad Nawaz Khan",
+        "lang:ur": "ملک محمد نواز خان"
+      },
+      "id": "Q59309133",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309133"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Farooq Sikander",
+        "lang:ur": "سردار فاروق سکندر"
+      },
+      "id": "Q59309134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Naseer Ahmed Khan",
+        "lang:ur": "راجہ نصیر احمد خان"
+      },
+      "id": "Q59309135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309135"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Muhammad Yasin",
+        "lang:ur": "چوھری محمد یاسین"
+      },
+      "id": "Q59309138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Nisar Ahmed Khan",
+        "lang:ur": "راجہ نثار احمد خان"
+      },
+      "id": "Q59309139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Attique Ahmed Khan",
+        "lang:ur": "سردار عتیق احمد خان"
+      },
+      "id": "Q59309140",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309140"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mushtaq Minhaas",
+        "lang:ur": "مشتاق منہاس"
+      },
+      "id": "Q59309141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Mir Akbar Khan",
+        "lang:ur": "سردار میر اکبر خان"
+      },
+      "id": "Q59309142",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309142"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Muhammad Aziz",
+        "lang:ur": "چودھری محمد عزیز"
+      },
+      "id": "Q59309143",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309143"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Yasin Gulshan",
+        "lang:ur": "چودھری یاسین گلشن"
+      },
+      "id": "Q59309144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309144"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Amir Altaf",
+        "lang:ur": "سردار عامر الطاف"
+      },
+      "id": "Q59309145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Sagheer Khan",
+        "lang:ur": "محمد صغیر خان"
+      },
+      "id": "Q59309146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Farooq Ahmed Tahir",
+        "lang:ur": "سردار فاروق احمد طاہر"
+      },
+      "id": "Q59309148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shah Ghulam Qadir",
+        "lang:ur": "شاہ غلام قادر"
+      },
+      "id": "Q59309149",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Noreen Arif",
+        "lang:ur": "نورین عارف"
+      },
+      "id": "Q59309150",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309150"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Shehzad Mehmood",
+        "lang:ur": "چودھری شہزاد محمود"
+      },
+      "id": "Q59309151",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309151"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Iftekhar Ali Gilani",
+        "lang:ur": "سید افتخار علی گیلانی"
+      },
+      "id": "Q59309152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309152"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raja Abdul Qayyum Khan",
+        "lang:ur": "راجہ عبداللہ قیوم خان"
+      },
+      "id": "Q59309153",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309153"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mustafa Bashir",
+        "lang:ur": "مصطفی بشیر"
+      },
+      "id": "Q59309154",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309154"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nasir Hussain Dar",
+        "lang:ur": "ناصر حسین ڈار"
+      },
+      "id": "Q59309155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309155"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Muhammad Yasir Rashid",
+        "lang:ur": "میاں محمد یاسر راشد"
+      },
+      "id": "Q59309159",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309159"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Shaukat Ali Shah",
+        "lang:ur": "سید شوکت علی شاہ"
+      },
+      "id": "Q59309164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Majid Khan",
+        "lang:ur": "عبدالماجد خان"
+      },
+      "id": "Q59309168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309168"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en": "Azad Kashmir Legislative Assembly",
+        "lang:en": "Azad Jammu & Kashmir Legislative Assembly",
         "lang:ur": "آزاد کشمیر قانون ساز اسمبلی"
       },
       "id": "Q18209789",
@@ -20,12 +515,625 @@
       "seat_counts": {
         "Q58873603": "49"
       }
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All Jammu and Kashmir Muslim Conference",
+        "lang:ur": "آل جموں و کشمیر مسلم کانفرنس"
+      },
+      "id": "Q69119",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q69119"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party Parliamentarians",
+        "lang:ur": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "id": "Q7125678",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125678"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28868005-2A1963B4-9CC8-4E44-B8F1-EB7F689BCFC4",
+      "person_id": "Q28868005",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207161",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5436144-721990DA-3E1B-4146-8809-D4507952CF90",
+      "person_id": "Q5436144",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207173",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309127-822BE201-D593-451F-ACF8-442C4D3F0C8A",
+      "person_id": "Q59309127",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207134",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309128-EE00A4C2-3C97-4EBF-816C-661A3D0E2FE4",
+      "person_id": "Q59309128",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207137",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309129-1C9CD31B-AA97-48F4-BC80-80F092515C06",
+      "person_id": "Q59309129",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207138",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309130-8972557B-6374-406F-8EC4-4EE7557D9B65",
+      "person_id": "Q59309130",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207139",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309131-C6FACF73-6D19-4FFA-B45A-B87700F8012D",
+      "person_id": "Q59309131",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207140",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309132-406641F4-E635-4A3D-BDBA-198A527F93BA",
+      "person_id": "Q59309132",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207141",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309133-7C17022C-8437-450D-A9A0-179D870C7536",
+      "person_id": "Q59309133",
+      "on_behalf_of_id": "Q69119",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207142",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309134-A0F85A16-D7E8-40AC-981D-B02ABC679A00",
+      "person_id": "Q59309134",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207143",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309135-8F4B7F1D-CC74-4590-8C22-E19BD79E80CD",
+      "person_id": "Q59309135",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207147",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309138-0474CC74-3664-41DA-A8E9-D463B1077BE5",
+      "person_id": "Q59309138",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207148",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309139-D181EC53-E46D-431C-B734-2973648C7763",
+      "person_id": "Q59309139",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207149",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309140-54232082-D2F2-4C0E-8D49-2E1744257DC9",
+      "person_id": "Q59309140",
+      "on_behalf_of_id": "Q69119",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207150",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309141-1BDA316F-FAC7-473A-9897-CB3D5B5EB345",
+      "person_id": "Q59309141",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207151",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309142-B90B41EE-74A7-4378-8C44-2C4815B36DD1",
+      "person_id": "Q59309142",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207152",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309143-F4017181-7322-404A-9148-AD12DE6DA594",
+      "person_id": "Q59309143",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207153",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309144-654220DE-FAE5-417B-8F3B-CD829B426385",
+      "person_id": "Q59309144",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207154",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309145-C55321E3-5C71-43EF-9FFE-12C03D8DCC7D",
+      "person_id": "Q59309145",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207155",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309146-56101001-73E6-4CFB-9584-DAEF1ECFB7EF",
+      "person_id": "Q59309146",
+      "on_behalf_of_id": "Q69119",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207160",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309148-B7BAD906-7E77-4E1F-A575-D27229A9326A",
+      "person_id": "Q59309148",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207162",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309149-BB09E293-3502-47C5-8D3D-52088DE79984",
+      "person_id": "Q59309149",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207163",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309150-D94D9657-068B-488C-8DF8-67C582289F6B",
+      "person_id": "Q59309150",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207166",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309151-A820C6C5-59F8-44C8-935E-D16DC3A80F06",
+      "person_id": "Q59309151",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207167",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309152-01CE8C3B-43EC-4CF2-A9A7-EF29DE61DA11",
+      "person_id": "Q59309152",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207168",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309153-6246C893-6A47-4111-9EE2-38650076C079",
+      "person_id": "Q59309153",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207169",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309154-E26F45F5-D350-44E8-976C-EF2C3546C82E",
+      "person_id": "Q59309154",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207174",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309155-D604976C-905A-4B02-B891-F277BBA89D93",
+      "person_id": "Q59309155",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207176",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309159-D25E50B3-E945-4AC7-B4CE-5D35A9F6D9F9",
+      "person_id": "Q59309159",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207180",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309164-0F69AE6B-3D2B-492A-92D1-03032DE46618",
+      "person_id": "Q59309164",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207188",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309168-DE6557D9-02CC-4B1E-835D-88B1BFE94BD2",
+      "person_id": "Q59309168",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q18209789",
+      "area_id": "Q59207191",
+      "start_date": "2016-07-30",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873603",
+      "role": {
+        "lang:en": "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)",
+        "lang:ur": "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      }
+    }
   ]
 }

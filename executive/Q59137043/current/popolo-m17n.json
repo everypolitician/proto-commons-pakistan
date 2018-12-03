@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Provincial Cabinet of Balochistan",
+        "lang:ur": "صوبائی کابینہ"
+      },
+      "id": "Q59137043",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59137043"
+        }
+      ],
+      "area_id": "Q163239"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

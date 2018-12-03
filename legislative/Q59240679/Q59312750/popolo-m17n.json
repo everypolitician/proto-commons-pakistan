@@ -5,20 +5,20 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "City District Government Peshawar",
-        "lang:ur": "سٹی ڈسٹرکٹ گورنمنٹ پشاور"
+        "lang:en": "Municipal Corporation of Gujrat",
+        "lang:ur": "میونسپل کارپوریشن گجرات"
       },
-      "id": "Q58873618",
+      "id": "Q59240679",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q58873618"
+          "identifier": "Q59240679"
         }
       ],
-      "area_id": "Q1113311",
+      "area_id": "Q929062",
       "seat_counts": {
-        "Q58873777": "138"
+        "Q59241672": "142"
       }
     }
   ],
