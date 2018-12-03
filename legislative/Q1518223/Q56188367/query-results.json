@@ -6,6 +6,99 @@
     "bindings" : [ {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q13139153-87D0354C-C4AA-42BF-AD03-54E137D2F607"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55624346"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NA-131 Lahore-IX"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13139153"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خواجہ سعد رفیق"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khawaja Saad Rafique"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "قومی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "342"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q284454"
       },
       "party_name_ur" : {
@@ -169,7 +262,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Imran Ahmad Khan Niazi"
+        "value" : "Imran Khan"
       },
       "org" : {
         "type" : "uri",
@@ -193,6 +286,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حلقہ این اے-95 (میانوالی-1)"
       }
     }, {
       "party" : {
@@ -286,6 +384,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-36 (لکی مروت)"
       }
     }, {
       "party" : {
@@ -379,6 +482,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-15 (ایبٹ آباد-1)"
       }
     }, {
       "party" : {
@@ -499,7 +607,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -663,6 +771,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-38 (ڈیرہ اسماعیل خان-1)"
       }
     }, {
       "party" : {
@@ -732,7 +845,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Asad Qaisar"
+        "value" : "Asad Qaiser"
       },
       "org" : {
         "type" : "uri",
@@ -756,6 +869,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-18 (صوابی-1)"
       }
     }, {
       "party" : {
@@ -1128,6 +1246,104 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-160 (لودھراں-1)"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18763782-22B1916D-C341-427A-AF6C-572C9E861921"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55624356"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NA-136 Lahore-XIV"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18763782"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد افضل"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Afzal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "قومی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "342"
       }
     }, {
       "party" : {
@@ -1314,6 +1530,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-22 (مردان-3)"
       }
     }, {
       "party" : {
@@ -1407,6 +1628,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔96 (میانوالی-2)"
       }
     }, {
       "party" : {
@@ -1686,6 +1912,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔111 (ٹوبہ ٹیک سنگھ-1)"
       }
     }, {
       "party" : {
@@ -2058,6 +2289,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حلقہ این اے۔104، فیصل آباد 4"
       }
     }, {
       "party" : {
@@ -2151,6 +2387,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-141 (اوکاڑا-1)"
       }
     }, {
       "party" : {
@@ -2244,6 +2485,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔99 (چنیوٹ-1)"
       }
     }, {
       "party" : {
@@ -2337,6 +2583,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-10 (شانگلہ)"
       }
     }, {
       "party" : {
@@ -2430,6 +2681,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-26 (نوشہرہ-2)"
       }
     }, {
       "party" : {
@@ -2820,6 +3076,202 @@
       },
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18816023-3D97847C-3BE0-4031-95FA-D08492573FE3"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58401308"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NA-122 Sheikhupura-IV"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18816023"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار محمد عرفان ڈوگر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Muhammad Arfan Dogar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "قومی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔122 (شیخوپورہ-4)"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18816025-F321FDDE-D019-42A2-BB8F-2B23CA3B9EF4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58401306"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NA-121 Sheikhupura-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18816025"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "جاوید لطيف"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javed Latif"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "قومی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔121 (شیخوپورہ-3)"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q18816085-F93E2163-2281-4CB2-90A8-FF3F5E7B0DAD"
       },
       "district" : {
@@ -3081,6 +3533,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔112 (ٹوبہ ٹیک سنگھ-2)"
       }
     }, {
       "party" : {
@@ -3174,6 +3631,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔101 (فیصل آباد-1)"
       }
     }, {
       "party" : {
@@ -3360,6 +3822,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-9 (بونیر)"
       }
     }, {
       "party" : {
@@ -3453,6 +3920,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-33 (ہنگو)"
       }
     }, {
       "party" : {
@@ -3546,6 +4018,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-19 (صوابی-2)"
       }
     }, {
       "party" : {
@@ -3639,6 +4116,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-20 (مردان-1)"
       }
     }, {
       "party" : {
@@ -3666,7 +4148,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Sindh"
+        "value" : "reserved seat for Women in National Assembly (Sindh)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3764,7 +4246,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Sindh"
+        "value" : "reserved seat for Women in National Assembly (Sindh)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3862,7 +4344,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3960,7 +4442,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4058,7 +4540,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4222,6 +4704,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-27 (پشاور-1)"
       }
     }, {
       "statement" : {
@@ -4404,6 +4891,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔106 (فیصل آباد-6)"
       }
     }, {
       "party" : {
@@ -4497,6 +4989,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔97 (بھکر-1)"
       }
     }, {
       "party" : {
@@ -4524,7 +5021,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Sindh"
+        "value" : "reserved seat for Women in National Assembly (Sindh)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4856,6 +5353,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-21 (مردان-2)"
       }
     }, {
       "party" : {
@@ -4911,12 +5413,12 @@
       "name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "چودھری پرویز الٰہی"
+        "value" : "مسٹر پرویزالہی"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chaudhry Pervaiz Elahi"
+        "value" : "Parvez Elahi"
       },
       "org" : {
         "type" : "uri",
@@ -5038,6 +5540,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-12 (بٹگرام)"
       }
     }, {
       "party" : {
@@ -5317,6 +5824,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔114 (جھنگ-1)"
       }
     }, {
       "party" : {
@@ -5410,6 +5922,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔113 (ٹوبہ ٹیک سنگھ-3)"
       }
     }, {
       "party" : {
@@ -5596,6 +6113,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حلقہ این اے۔28، پشاور-2"
       }
     }, {
       "party" : {
@@ -5689,6 +6211,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-2 (سوات-1)"
       }
     }, {
       "party" : {
@@ -5875,6 +6402,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-13 (مانسہرہ-1)"
       }
     }, {
       "party" : {
@@ -5968,6 +6500,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔105 (فیصل آباد-5)"
       }
     }, {
       "party" : {
@@ -6088,7 +6625,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6252,6 +6789,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔107 (فیصل آباد-7)"
       }
     }, {
       "party" : {
@@ -6541,6 +7083,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔117 (ننکانہ صاحب-1)"
       }
     }, {
       "party" : {
@@ -6634,6 +7181,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔102 (فیصل آباد-2)"
       }
     }, {
       "party" : {
@@ -6913,6 +7465,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-16 (ایبٹ آباد-2)"
       }
     }, {
       "party" : {
@@ -7099,6 +7656,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-30 (پشاور-4)"
       }
     }, {
       "party" : {
@@ -7471,6 +8033,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-29 (پشاور-3)"
       }
     }, {
       "party" : {
@@ -7657,6 +8224,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔119 (شیخوپورہ-1)"
       }
     }, {
       "party" : {
@@ -7843,6 +8415,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔109 (فیصل آباد-9)"
       }
     }, {
       "party" : {
@@ -7936,6 +8513,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-108 (فیصل آباد-8)"
       }
     }, {
       "party" : {
@@ -8401,6 +8983,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-39 (ڈیرہ اسماعیل خان-2)"
       }
     }, {
       "party" : {
@@ -8494,6 +9081,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-24 (چارسدہ-2)"
       }
     }, {
       "party" : {
@@ -8587,6 +9179,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-162 (وہاڑی-1)"
       }
     }, {
       "party" : {
@@ -9331,6 +9928,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-14 (مانسہرہ-2)"
       }
     }, {
       "party" : {
@@ -9517,6 +10119,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-34 (کرک)"
       }
     }, {
       "party" : {
@@ -9703,6 +10310,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-149 (ساہیوال-3)"
       }
     }, {
       "statement" : {
@@ -9871,6 +10483,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔175 (رحیم یار خان-1)"
       }
     }, {
       "party" : {
@@ -9964,6 +10581,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-11 (کوہستان)"
       }
     }, {
       "party" : {
@@ -10057,6 +10679,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔116 (جھنگ-3)"
       }
     }, {
       "party" : {
@@ -10307,12 +10934,12 @@
       "name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "مختار احمد ملک"
+        "value" : "ملک مختار احمد"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mukhtar Ahmad Malik"
+        "value" : "Malik Mukhtar Ahmad"
       },
       "org" : {
         "type" : "uri",
@@ -10731,7 +11358,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10829,7 +11456,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10927,7 +11554,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11025,7 +11652,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Punjab"
+        "value" : "reserved seat for Women in the National Assembly (Punjab)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11123,7 +11750,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Sindh"
+        "value" : "reserved seat for Women in National Assembly (Sindh)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11380,6 +12007,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔98 (بھکر-2)"
       }
     }, {
       "party" : {
@@ -11500,7 +12132,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seat for Women in Sindh"
+        "value" : "reserved seat for Women in National Assembly (Sindh)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11691,7 +12323,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seats for Women in Khyber Pukhtunkhwa"
+        "value" : "reserved seats for Women in the National Assembly (Khyber Pukhtunkhwa)"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12041,6 +12673,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-35 (بنوں)"
       }
     }, {
       "party" : {
@@ -12134,6 +12771,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حلقہ این اے۔53 (اسلام آباد-2)"
       }
     }, {
       "party" : {
@@ -12227,6 +12869,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔103 (فیصل آباد-3)"
       }
     }, {
       "party" : {
@@ -12599,6 +13246,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔100 (چنیوٹ-2)"
       }
     }, {
       "party" : {
@@ -12692,6 +13344,109 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔110 (فیصل آباد-10)"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7290664-AF414457-D569-4974-A48B-7E2140384762"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58401304"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "NA-120 Sheikhupura-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20760546"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قومی اسمبلی کے رکن (ایم این اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly of Pakistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7290664"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رانا تنویر حسین"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rana Tanveer Hussain"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1518223"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "قومی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے۔120 (شیخوپورہ-2)"
       }
     }, {
       "party" : {
@@ -12785,6 +13540,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "342"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "این اے-23 (چارسدہ-1)"
       }
     }, {
       "party" : {
@@ -12812,7 +13572,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "reserved seats for Women in Khyber Pukhtunkhwa"
+        "value" : "reserved seats for Women in the National Assembly (Khyber Pukhtunkhwa)"
       },
       "role_superclass" : {
         "type" : "uri",

@@ -3,6 +3,6425 @@
     "vars" : [ "statement", "item", "name_en", "name_ur", "party", "party_name_en", "party_name_ur", "district", "district_name_en", "district_name_ur", "role", "role_en", "role_ur", "role_superclass", "role_superclass_en", "role_superclass_ur", "start", "end", "facebook", "org", "org_en", "org_ur", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5687570"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ہزارہ ڈیموکریٹک پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hazara Democratic Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q13527919-71091035-3358-4C32-B542-493C73F3E055"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207270"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -26"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-26 Quetta-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13527919"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "احمد علی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ahmed Ali"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16887204-5D0676B9-A931-4CF1-9DFF-4AF5C77401D1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207283"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -38"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-38 Khuzdar-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16887204"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار ثناءاللہ زہری"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Sanaullah Zehri"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16977833-56B41933-F834-43EF-BF9A-DBCCA003913A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207260"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-20"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-20 Pishin-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16977833"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سید محمد افضل آغا"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syed Muhammad Fazal Agha"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18750287-6D98A6EB-6F4D-44DF-B7D9-8E848B213BF1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207299"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -50"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-50 Lasbela-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18750287"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "جام کمال خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jam Kamal Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q26703121-5A64043F-1ED9-43CD-922F-613F0B5FCA8C"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207281"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -36"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-36 Shaheed Sikandarabad"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26703121"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر نعمت اللہ زہری"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Niamatullah Zehri"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5687570"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ہزارہ ڈیموکریٹک پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hazara Democratic Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4665489-E0AAC896-61CC-47AB-BDAB-FA955508743D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207271"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -27"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-27 Quetta-IV"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4665489"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عبدالخالق"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdul Khaliq"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47200338-C78E27C8-BC42-4BAE-923C-8709845A5E32"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207292"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -44"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-44 Awaran-Cum-Pajgur"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47200338"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عبدالقدوس"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdul Qudoos"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47381142-04ECC5F4-F43D-4CBC-A476-9D89C0FE2B8D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207297"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -48"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-48 Kech-IV"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47381142"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر اکبراسکانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Akbar Askani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47383536-C7B89722-F399-4051-A7C1-3006A6C739D1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207300"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -51"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-51 Gawadar"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47383536"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر حمل"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Hammal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47384896-F89F9776-FAFB-46BD-9A70-60E308D5866E"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207234"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-7"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-7 Sibi-cum-Lehri"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47384896"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار سرفراز چکر ڈومکی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Sarfaraz Chakar Domki"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47386332-53655144-F685-44A5-81F5-890E3F3DE8C9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207250"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-16"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-16 Jhall Magsi-cum-Kachhi"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47386332"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نوابزادہ طارق مگسی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nawabzada Tariq Magsi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47386950-4AAFC317-C123-4447-A6C4-27509393B3E6"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207241"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-8"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-8 Barkhan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47386950"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار عبدالرحمان خیترار"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Abdul Rehman Khetran"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659854"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عوامی نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Awami National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47387615-FFA15DA7-7601-4558-8175-AAC2FB42A99F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207262"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-21"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-21 Killa Abdullah-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47387615"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زمرک خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zmarak Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4807277-BB66DBDB-52C0-4FDB-B728-72AA46156A12"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207280"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -35"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-35 Mustung"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4807277"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نواب محمد اسلم خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nawab Muhammad Aslam Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55820305-6F4367F6-DD27-4E4B-A7B9-1DD900816F94"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207229"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-2"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-2 Zhob"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55820305"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مٹہ خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mitta Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55820307-D5A33477-2CE5-4537-A568-7473B47B9671"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207230"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-3"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-3 Killa Saifullah"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55820307"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نور اللہ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Noor Ullah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55820336-4DD84775-9115-4060-918C-5749F57BE8EE"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207242"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-9"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-9 Kohlu"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55820336"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر نصیب اللہ خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Naseebullah Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6146322"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "جمہوری وطن پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jamhoori Wattan Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55820341-9AB0934A-8F71-414E-A40F-AB1706702936"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207244"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-10"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-10 Dera Bugti"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55820341"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گہرام بگٹی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gohram Bugti"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955769-2F1CB3B8-E94B-4B3C-8209-977CA255CBB5"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207232"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-5"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-5 Duki"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955769"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مسعود علی خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Masood Ali Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955770-09F939B7-5D1B-4217-88A6-1310CCC621B2"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207233"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-6"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-6 Ziarat-Cum-Harnai"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955770"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نور محمد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Noor Muhammad"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955965-11E8FE9F-A02A-4DD3-BDCE-E3B98E6BD286"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207245"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی کے-11"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-11 Nasirabad-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955965"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر سکندر علی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Sikandar Ali"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955966-C92C17F9-9230-4E3A-A0C1-E9F334823BAA"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207247"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-13"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-13 Jaffarabad-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955966"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عمر خان حمالی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umar Khan Jamali"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955968-02675277-08FF-4A9B-9E5B-47401694C827"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207249"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-15"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-15 Sohbat Pur"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955968"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سلیم احمد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saleem Ahmed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955970-F7A17938-6019-422A-985E-CABEFF5B1DB8"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207256"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-17"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-17 Kachhi-cum-Mastung"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955970"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار یار محمد رند"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Yar Muhammad Rind"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955978-DFB83F04-EB96-4CBB-9615-94DE5D84D697"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207257"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-18"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-18 Pishin-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955978"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عبدالواحد صدیقی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdul Wahid Sidiqui"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955979-89841F18-0A3E-42F8-8568-E7DBB8289AA1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207258"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-19"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-19 Pishin-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955979"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "اصغر علی ترین"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asghar Ali Tareen"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955984-6A6A22E7-2EC9-4CDE-980C-636CD28B5E37"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207263"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-22"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-22 Killa Abdullah-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955984"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد نواز"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Nawaz"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659854"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عوامی نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Awami National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955985-858D6080-EC20-4E8B-83E1-0038175E073F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207264"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-23"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-23 Killa Abdullah-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955985"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "اصغر خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asghar Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659854"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عوامی نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Awami National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955986-4503FC39-685F-4C3B-A423-1BD02DF38134"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207265"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -24"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-24 Quetta-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955986"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ملک نعیم خان بازئی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malik Naeem Khan Bazai"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55955989-F6778CF5-8858-4197-A4CA-F3B95F7E6A16"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207266"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -25"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-25 Quetta-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55955989"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ملک سکندر خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malik Sikandar Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956086-E28DF0D7-EC9F-4B4E-9E4D-51465B533378"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207272"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -28"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-28 Quetta-V"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956086"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد مبین خلجی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Mubeen Khilji"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956100-752ACF30-D0F9-4F54-867E-EB7F7D5B187D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207273"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -29"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-29 Quetta-VI"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956100"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "اختر حسین لنگاو"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Akhtar Hussain Langau"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13212022"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پختونخوا ملی عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakhtunkhwa Milli Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956116-F9653CFD-2B2A-4B3C-A646-30786EE0A63E"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207275"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -31"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-31 Quetta-VIII"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956116"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نصراللہ خان بریچ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nasrullah Khan Bareach"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956155-193F00B7-D294-477B-8AA4-BF438BBF6163"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207277"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -33"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-33 Nushki"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956155"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد رحیم"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Rahim"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956165-2FC6E5A3-949C-4DF7-9FBC-67EDF354BFD5"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207278"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -34"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-34 Chagai"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956165"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد عارف"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Arif"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956169-4921D0CE-AE19-4EDE-B34E-4B1BE9D07556"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207282"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -37"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-37 Kalat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956169"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر ضیاءاللہ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir ZiaUllah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956179-A93847B5-87E3-4DBD-A903-C1BC09025CB6"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207274"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -30"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-30 Quetta-VII"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956179"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "احمد نواز"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ahmed Nawaz"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956182-81471464-573B-40C1-B2A4-DE3CD1CB373A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207284"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -39"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-39 Khuzdar-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956182"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر یونس عزیز زہری"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Younas Aziz Zehri"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956187-0CC77D4B-F06C-4E44-A76D-9590227D3066"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207293"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -45"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-45 Kech-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956187"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ظہور احمد بھلیدی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zahoor Ahmad Buledi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28169518"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party Awami"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956192-56807819-C665-4357-AE87-361714CCAE20"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207294"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -46"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-46 Kech-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956192"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سید احسان شاہ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syed Ehsan Shah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55956201-E2B4B281-9343-4323-9383-5FF0359FB315"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207296"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -47"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-47 Kech-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55956201"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عبدالرؤف رند"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdul Rauf Rind"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065591-BC388D74-D4AB-42F0-A233-041BF007DB5F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065591"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "لیلی ترین"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laila Tareen"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065594-6F6E55A9-0A44-4322-9601-191BD5D951C1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065594"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ماہ جبین شرن"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mah Jabeen Sharan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065595-DC89BCDD-1127-4E13-97E9-C73EED94D20B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065595"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بشرہ رند"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bushra Rind"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065596-1E05D085-2876-4A78-9B80-5CFDCDC804FC"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065596"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ربابہ خان بھلیدی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rubaba Khan Buledi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065597-6E2E2BED-D79C-4698-BED3-98D17684BD77"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065597"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زینت شاہوانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zeenat Shahwani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065598-5FB282C5-0CA4-4ACC-A108-13F430E30A79"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065598"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "شکیلہ نوید"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shakeela Naveed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065599-E9B40E6A-7375-4729-A841-C164E888D01E"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065599"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "فریدہ بی بی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fareeda Bibi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659854"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عوامی نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Awami National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56065602-4C8AF422-342A-4716-BFF5-21494E985A41"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56065602"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "شاہینہ کاکڑ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shahina Kakar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56116458-E5AD276F-24E5-4CA4-B97A-701619493BE6"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210879"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Non-Muslim reserved seats in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56116458"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ٹائٹس جونسن"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Titus Johnson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56222537-8FA082A6-62C4-460B-B991-6451E29C3673"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210879"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Non-Muslim reserved seats in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56222537"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "دانش کمار"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Danesh Kumar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q284454"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان تحریک انصاف"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Tehreek-e-Insaf"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56223047-1110758C-B492-442D-9198-5383F2FBEF40"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207228"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-1"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-1 Musakhail-cum-Sherani"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56223047"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار بابر خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Babar Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28169518"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party Awami"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56275831-0FD5F16A-BB4E-48E8-A936-870C8FFFA746"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207288"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -43"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-43 Panjgur"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56275831"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "اسداللہ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asadullah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56278373-E122D57F-57F4-4EF0-9491-763CBAC744DF"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210879"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Non-Muslim reserved seats in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56278373"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "شام لال"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sham Lal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57339513-3C6B4495-61C6-4853-97CB-1D50161A0775"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207285"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -40"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-40 Khuzdar-III"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57339513"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد اکبر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Akbar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57585229-57F9A4AA-560D-4460-8CE7-B7E530C00124"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207276"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -32"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-32 Quetta-IX"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57585229"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نصیر احمد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naseer Ahmed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57585248-38F9FD74-FE4D-4207-A1AB-83D7244BCC41"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57585248"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زبیدہ‎"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zubeda"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28169518"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party Awami"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57585278-666F06E2-A0F3-4657-8FF9-0E902201314D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57585278"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مستورہ بی بی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mastoora Bibi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57585306-6B7D1D21-B3F4-4FA8-8387-1B5556BBD41F"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59210900"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57585306"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بانو خلیل احمد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bano Khalil Ahmed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410662"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "متحدہ مجلس عمل"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muttahida Majlis-e-Amal"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309178-E105C0B6-EBB9-4CA3-A09E-C4C33E80D5E7"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207286"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -41"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-41 Washuk"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309178"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "زابد علی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zabid Ali"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6149532-24D15FA0-6089-496C-B63F-517B5636BE38"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207248"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی-14"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-14 Jaffarabad-II"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6149532"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میر جان محمد خان حمالی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mir Jan Muhammad Khan Jamali"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55604783"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان عوامی پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan Awami Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6892392-A44452E2-845F-48A8-8860-DD83FB0FBFC7"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207298"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -49"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-49 Lasbela-I"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6892392"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد صالح بوتھانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Saleh Bhootani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3130105"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان نیشنل پارٹی"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan National Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7415549-53BCA49F-5FB3-4BCC-89B8-2A8DAA38E863"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207287"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پی بی -42"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "PB-42 Kharan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873596"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Assembly of the Balochistan"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7415549"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ثناءاللہ بلوچ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanaullah Baloch"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867116"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Assembly of Balochistan"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-13T00:00:00Z"
+      }
+    } ]
   }
 }

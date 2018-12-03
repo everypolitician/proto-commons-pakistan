@@ -3,6 +3,3199 @@
     "vars" : [ "statement", "item", "name_en", "name_ur", "party", "party_name_en", "party_name_ur", "district", "district_name_en", "district_name_ur", "role", "role_en", "role_ur", "role_superclass", "role_superclass_en", "role_superclass_ur", "start", "end", "facebook", "org", "org_en", "org_ur", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28868005-2A1963B4-9CC8-4E44-B8F1-EB7F689BCFC4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207161"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-21"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-21 Palandri Sudhnoti"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28868005"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ڈاکٹر محمد نجیب نقی خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dr. Muhammad Najeeb Naqi Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5436144-721990DA-3E1B-4146-8809-D4507952CF90"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207173"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -28"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-28 Chukar Hattian Bala"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5436144"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راجہ فاروق احمد خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raja Farooq Haider Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309127-822BE201-D593-451F-ACF8-442C4D3F0C8A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207134"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-1"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-1 Dadyal"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309127"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مسعودخالد ایڈوکیٹ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Masood Khalid"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309128-EE00A4C2-3C97-4EBF-816C-661A3D0E2FE4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207137"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-3"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-3 Mirpur City"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309128"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چوھدری محمد سعید"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Muhammad Saeed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309129-1C9CD31B-AA97-48F4-BC80-80F092515C06"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207138"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-4"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-4 Khari Sharif"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309129"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چوھدری رخسار احمد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Rukhsar Ahmed"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309130-8972557B-6374-406F-8EC4-4EE7557D9B65"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207139"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-5"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-5 Barnala"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309130"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "وقار احمد نور"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Waqar Ahmad Noor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309131-C6FACF73-6D19-4FFA-B45A-B87700F8012D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207140"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-6"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-6 Samahni"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309131"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چوھدری علی شان سونی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Ali Shan Soni"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309132-406641F4-E635-4A3D-BDBA-198A527F93BA"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207141"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-7"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-7 Bhimber City"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309132"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چوھدری طارق فاروق"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Tariq Farooq"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q69119"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آل جموں و کشمیر مسلم کانفرنس"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All Jammu and Kashmir Muslim Conference"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309133-7C17022C-8437-450D-A9A0-179D870C7536"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207142"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-8"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-8 Kotli City"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309133"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ملک محمد نواز خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malik Muhammad Nawaz Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309134-A0F85A16-D7E8-40AC-981D-B02ABC679A00"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207143"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-9"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-9 Nakyal Dist Kotli"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309134"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار فاروق سکندر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Farooq Sikander"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309135-8F4B7F1D-CC74-4590-8C22-E19BD79E80CD"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207147"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-10"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-10 Sehnsa"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309135"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راجہ نصیر احمد خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raja Naseer Ahmed Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7125678"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Peoples Party Parliamentarians"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309138-0474CC74-3664-41DA-A8E9-D463B1077BE5"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207148"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-11"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-11 Charhoi"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309138"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چوھری محمد یاسین"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Muhammad Yasin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309139-D181EC53-E46D-431C-B734-2973648C7763"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207149"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-12"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-12 Khoiratta"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309139"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راجہ نثار احمد خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raja Nisar Ahmed Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q69119"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آل جموں و کشمیر مسلم کانفرنس"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All Jammu and Kashmir Muslim Conference"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309140-54232082-D2F2-4C0E-8D49-2E1744257DC9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207150"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-13"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-13 Dheerkot"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309140"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار عتیق احمد خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Attique Ahmed Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309141-1BDA316F-FAC7-473A-9897-CB3D5B5EB345"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207151"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-14"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-14 Wasti Bagh"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309141"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مشتاق منہاس"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mushtaq Minhaas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309142-B90B41EE-74A7-4378-8C44-2C4815B36DD1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207152"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-15"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-15 Sharqi Bagh"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309142"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار میر اکبر خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Mir Akbar Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309143-F4017181-7322-404A-9148-AD12DE6DA594"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207153"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-16"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-16 Forward Kahuta Haveli"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309143"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چودھری محمد عزیز"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Muhammad Aziz"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309144-654220DE-FAE5-417B-8F3B-CD829B426385"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207154"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-17"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-17 Abbas Pur"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309144"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چودھری یاسین گلشن"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Yasin Gulshan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309145-C55321E3-5C71-43EF-9FFE-12C03D8DCC7D"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207155"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-18"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-18 Hajeera"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309145"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار عامر الطاف"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Amir Altaf"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q69119"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آل جموں و کشمیر مسلم کانفرنس"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All Jammu and Kashmir Muslim Conference"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309146-56101001-73E6-4CFB-9584-DAEF1ECFB7EF"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207160"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-20"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-20 Thorar"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309146"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "محمد صغیر خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Sagheer Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309148-B7BAD906-7E77-4E1F-A575-D27229A9326A"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207162"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-22"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-22 Baloch Sadhnoti"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309148"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سردار فاروق احمد طاہر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardar Farooq Ahmed Tahir"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309149-BB09E293-3502-47C5-8D3D-52088DE79984"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207163"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے-23"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-23 Athmuqam Neelum"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309149"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "شاہ غلام قادر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shah Ghulam Qadir"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309150-D94D9657-068B-488C-8DF8-67C582289F6B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207166"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -24"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-24 Pateeka"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309150"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نورین عارف"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Noreen Arif"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309151-A820C6C5-59F8-44C8-935E-D16DC3A80F06"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207167"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -25"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-25 Lachrat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309151"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "چودھری شہزاد محمود"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chaudhry Shehzad Mehmood"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309152-01CE8C3B-43EC-4CF2-A9A7-EF29DE61DA11"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207168"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -26"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-26 Muzaffarabad City"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309152"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سید افتخار علی گیلانی"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syed Iftekhar Ali Gilani"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309153-6246C893-6A47-4111-9EE2-38650076C079"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207169"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -27"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-27 Khawra"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309153"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راجہ عبداللہ قیوم خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raja Abdul Qayyum Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309154-E26F45F5-D350-44E8-976C-EF2C3546C82E"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207174"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -29"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-29 Leepa"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309154"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "مصطفی بشیر"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mustafa Bashir"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309155-D604976C-905A-4B02-B891-F277BBA89D93"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207176"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -30"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-30 Jammu-1 Karachi/Punjab"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309155"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ناصر حسین ڈار"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nasir Hussain Dar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309159-D25E50B3-E945-4AC7-B4CE-5D35A9F6D9F9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207180"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -33"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-33 Jammu-4 Narowal"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309159"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میاں محمد یاسر راشد"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mian Muhammad Yasir Rashid"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309164-0F69AE6B-3D2B-492A-92D1-03032DE46618"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207188"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -38"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-38 Valley-3 Jhelum/Multan"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309164"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سید شوکت علی شاہ"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syed Shaukat Ali Shah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799577"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان مسلم لیگ (ن)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Muslim League (N)"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q59309168-DE6557D9-02CC-4B1E-835D-88B1BFE94BD2"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59207191"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ایل اے -41"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "LA-41 Valley-6 Peshawar/Mansehra (KPK)"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16259300"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Provincial Assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873603"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Azad Jammu & Kashmir Legislative Assembly (MLA)"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59309168"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "عبدالماجد خان"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abdul Majid Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18209789"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-30T00:00:00Z"
+      }
+    } ]
   }
 }

@@ -514,109 +514,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16187331-9EC3E01E-6A2E-47FC-AB48-C97A0683B411"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16187331"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muhammad Azam Khan Swati"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "محمد اعظم خان سواتی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16194672-FF46EC40-6C6B-469B-B0B1-D7FB64C68F3E"
       },
       "role_superclass" : {
@@ -752,109 +649,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16194716-4FF896CF-4B29-486C-9833-9F3DF8D3480F"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16194716"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muhammad Talha Mahmood"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "محمد طلحہ محمود"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13211655"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "جمیعت علمائے اسلام"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jamiat Ulema-e-Islam"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16196352-EE062726-3324-4BB9-895C-4B5A90B04ADC"
       },
       "role_superclass" : {
@@ -916,109 +710,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "104"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16226954-EDA01F5B-2607-4E4B-B59B-1C5E549C9DE8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16226954"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Haroon Khan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ہارون خان"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -1298,7 +989,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sanaullah Zehri"
+        "value" : "Sardar Sanaullah Zehri"
       },
       "org" : {
         "type" : "uri",
@@ -1326,7 +1017,7 @@
       "name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "ثناء اللہ زہری"
+        "value" : "سردار ثناءاللہ زہری"
       }
     }, {
       "statement" : {
@@ -2430,109 +2121,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18764107-B087A1A2-7306-4C03-9F3C-279ADB4931EA"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18764107"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hafiz Abdul Karim"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "حافظ عبدالکریم"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q19276768-35C54452-34E1-480C-9E92-99BFF8A5D844"
       },
       "role_superclass" : {
@@ -2962,109 +2550,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "104"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19662586-43820B88-2848-4726-BB43-B97BEF469EA7"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19662586"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Syed Shibli Faraz"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سید شبلی فراز"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -3724,109 +3209,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703099-3A0130DA-6BAA-4491-8807-864F877D574F"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703099"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brig. (R) John Kenneth Williams"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بریگیڈیر (آر) جان کینتہ ولیمز"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703100-8B7A7731-72BE-4EE3-8CFF-9509FF304170"
       },
       "role_superclass" : {
@@ -3921,109 +3303,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703101-9E68678C-16D5-41F9-B2E5-B8A06C02574B"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703101"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dr. Jehanzeb Jamaldini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ڈاکٹر جہانزیب جمالدینی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3130105"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان نیشنل پارٹی"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan National Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4136,315 +3415,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703104-0E89FCF4-B603-407D-B1A8-2EB1DB881B96"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703104"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gul Bashra"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "گل بشرا"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13212022"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پختونخوا ملی عوامی پارٹی"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakhtunkhwa Milli Awami Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703105-38C65F25-BE8A-490F-9171-B3279981DD23"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703105"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Haji Momin Khan Afridi"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "حاجی مومن خان آفریدی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781044"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "وفاقی منتظم شدہ قبائیلی علاقہ جات"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Federally Administered Tribal Areas"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703107-FBD8A019-AF8A-4B43-9591-374DA10E69D9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703107"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hillal Ur Rehman"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ہلال الرحمان"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781044"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "وفاقی منتظم شدہ قبائیلی علاقہ جات"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Federally Administered Tribal Areas"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703109-53F00BEE-2A62-4089-8BEB-2607E2B4B37F"
       },
       "role_superclass" : {
@@ -4525,109 +3495,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Pakistan Peoples Party Parliamentarians"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781026"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سندھ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sindh"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703111-7C9EC007-FC48-4EE1-A35A-69BA369C8F83"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703111"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khushbakht Shujat"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خوشبخت شجاعت"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1265113"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "متحدہ قومی موومنٹ"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muttahida Qaumi Movement"
       },
       "district" : {
         "type" : "uri",
@@ -4857,109 +3724,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703116-3376432D-4D78-4DA9-B83D-DEB0AEFF88BE"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703116"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mian Muhammad Ateeq Shaikh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "میاں محمد عتیق شیخ"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1265113"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "متحدہ قومی موومنٹ"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muttahida Qaumi Movement"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781026"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سندھ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sindh"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703118-F63C9A5B-B305-45AF-A5DD-E7D97B7935DA"
       },
       "role_superclass" : {
@@ -5063,109 +3827,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703120-CB3D7496-0A1C-4BDF-840A-AFEAC198DBA0"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703120"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mir Muhammad Yousaf Badini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "میر محمد یوسف بدینی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703121-E666FDEE-C082-4AFC-9137-0C566FAE076B"
       },
       "role_superclass" : {
@@ -5203,7 +3864,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mir Nematullah Zehri"
+        "value" : "Mir Niamatullah Zehri"
       },
       "org" : {
         "type" : "uri",
@@ -5653,109 +4314,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703129-8A0EE9B1-96D2-4D20-A56E-DD51F597DEBF"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703129"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muhammad Usman Khan Kakar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "محمد عثمان خان کاکڑ"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13212022"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پختونخوا ملی عوامی پارٹی"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakhtunkhwa Milli Awami Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703132-541BC10A-9B2A-493A-8F8C-A09D7181FE97"
       },
       "role_superclass" : {
@@ -5850,109 +4408,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703134-36EA258A-362E-48C6-BA16-2936FF73C271"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703134"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nauman Wazir Khattak"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "نعمان وزیر خٹک"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6374,109 +4829,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703146-E61705F6-3B9A-468E-8CAB-A68029889B95"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703146"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Samina Saeed"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ثمینہ سعید"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q26703148-8EA3089E-295B-45FB-AE85-64BB1E6A712E"
       },
       "role_superclass" : {
@@ -6571,109 +4923,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26703151-18ADCCE5-5AA4-486E-8E7C-10CD428F9CD5"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26703151"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sitara Ayaz"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ستارہ ایاز"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q659854"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "عوامی نیشنل پارٹی"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Awami National Party"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -7963,109 +6212,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q33528922-4FA3F3EC-921D-4064-AE20-20E05812CA76"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q33528922"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rana Mahmood ul Hassan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رانا محمود الحسن"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q36806247-3e2af703-9ab3-46ff-af1d-fc9c271f32f2"
       },
       "role_superclass" : {
@@ -8127,6 +6273,109 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "104"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q39086669-741A0C8F-74FE-42A0-857C-EDC5D3B49AF6"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹر"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینٹر"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senator"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39086669"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saadia Abbasi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹ"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سعدیہ عباسی"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58781031"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پنجاب"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8197,109 +6446,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "سرتاج عزیز"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q42328675-26DC7C38-F427-4FA3-B819-C93A141DC1BE"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42328675"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prof. Dr. Mehr Taj Roghani"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پروفیسر ڈاکٹر مہرا تاج روغانی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q284454"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان تحریک انصاف"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Tehreek-e-Insaf"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -8650,109 +6796,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q45316228-D8C9C9F5-1C7D-4E85-98F2-021BE1FB42F5"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q45316228"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dr. Asif Kirmani"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ڈاکٹر آصف کرمانی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q799577"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان مسلم لیگ (ن)"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Muslim League (N)"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4665329-82565A65-5649-4B26-96B1-B58847A21806"
       },
       "role_superclass" : {
@@ -8819,109 +6862,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "مولانا عبد غفور حیدری"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4665329-B430D64C-BC94-43F9-9F88-19D73CDEA6D9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4665329"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Molana Abdul Ghafoor Haideri"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مولانا عبد غفور حیدری"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13211655"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "جمیعت علمائے اسلام"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jamiat Ulema-e-Islam"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -9299,109 +7239,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50286919-3C84A553-BAF7-4F2E-91EF-EE8EC4507633"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50286919"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dr. Asad Ashraf"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ڈاکٹر اسد اشرف"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50320458-7b6915dc-7a68-4cf9-b561-02ac65cf8715"
       },
       "role_superclass" : {
@@ -9645,109 +7482,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320527-B89D4F1E-10BD-4CA9-9208-E7E0F431B65C"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320527"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muhammad Asad Ali Khan Junejo"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "محمد اسد علی خان جونیجو‬"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781038"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "وفاقی دارالحکومت"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Federal Capital"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50320528-9cab88b5-9408-48da-8538-d1ff88efa0ce"
       },
       "role_superclass" : {
@@ -9814,109 +7548,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "مرزا محمد آفریدی"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320528-ADA25C5F-73B5-4D15-B89C-920AD81F962E"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320528"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mirza Muhammad Afridi"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مرزا محمد آفریدی"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781044"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "وفاقی منتظم شدہ قبائیلی علاقہ جات"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Federally Administered Tribal Areas"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10585,109 +8216,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320647-5287D7EB-64DD-48A7-A2EA-11540096FAA2"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320647"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kauda Babar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "کودا بابر"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50320650-85dde062-6b06-4e46-9e52-ec1c3bc1176d"
       },
       "role_superclass" : {
@@ -10754,109 +8282,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "مولوی فیض محمد"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320650-E1740118-EA82-407B-82C8-DF3831A00EB5"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320650"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Molvi Faiz Muhammad"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مولوی فیض محمد"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13211655"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "جمیعت علمائے اسلام"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jamiat Ulema-e-Islam"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -11104,109 +8529,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320883-3509A198-9019-483A-836C-770380F153F8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320883"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Musadik Masood Malik"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مصدق مسعود ملک"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50320886-244f38ea-8acd-4e6c-b75c-a164f7f1d73d"
       },
       "role_superclass" : {
@@ -11273,109 +8595,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "رانا مقبول احمد"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50320886-CB04AE71-093C-45D1-A8F5-C146A80D4BF0"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50320886"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rana Maqbool Ahmad"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رانا مقبول احمد"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -12973,109 +10192,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50326319-D88A3601-46F3-4970-A8DB-8671B8C12F72"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50326319"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mushtaq Ahmed"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "مشتاق احمد"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1475103"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "جماعت اسلامی پاکستان"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jamaat-e-Islami"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q50331593-c18fb2a8-e65d-4956-b93a-4617aca24638"
       },
       "role_superclass" : {
@@ -13212,109 +10328,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "انورالحق کاکر"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50345548-B377D520-C879-4016-8C14-EB5A798A9776"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50345548"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Anwar ul Haq Kakar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "انورالحق کاکر"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -13622,109 +10635,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5436115-E2D93213-3C6A-40FB-AC99-C21047EF9C84"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5436115"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dr. Muhammad Farogh Naseem"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "ڈاکٹر محمد فروغ نسیم"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1265113"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "متحدہ قومی موومنٹ"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Muttahida Qaumi Movement"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781026"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سندھ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sindh"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q54614162-fdad4858-d060-4765-95fa-110a810b5bfb"
       },
       "role_superclass" : {
@@ -13925,109 +10835,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q55603361-CE5A55D3-CFD7-4F89-B389-DE2D3624E621"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55603361"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ahmed Khan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "احمد خان"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781025"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "بلوچستان"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balochistan"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q55609591-3e373370-ebcd-46fb-8816-f229fe91a4a5"
       },
       "role_superclass" : {
@@ -14094,109 +10901,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "دلاور خان"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q55609591-5525BCCA-34E9-4B4C-9DC5-CCC5E582D998"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55609591"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dilawar Khan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "دلاور خان"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q327591"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "آزاد"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781030"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -15142,6 +11846,207 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58781041-BB1DE706-B0C4-46FF-8029-3C10AEE0EA53"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹر"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینٹر"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senator"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58781041"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Keshoo Bai"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹ"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کیشو بائ"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7125678"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan Peoples Party Parliamentarians"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58781026"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سندھ"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sindh"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-12T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q58781093-459BB3EB-31E5-46DC-9E0A-6EFA1C1BF25D"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹر"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20081441"
+      },
+      "role_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینٹر"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senator"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58781093"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muhammad Akram"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2571392"
+      },
+      "org_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹ"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13219795"
+      },
+      "party_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "نیشنل پارٹی (پاکستان)"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58781025"
+      },
+      "district_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-12T00:00:00Z"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6065765-A0C82189-D812-4F09-A0CE-253A3D79E256"
       },
       "role_superclass" : {
@@ -15249,7 +12154,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jan Mohammad Jamali"
+        "value" : "Mir Jan Muhammad Khan Jamali"
       },
       "org" : {
         "type" : "uri",
@@ -15277,7 +12182,7 @@
       "name_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "جان محمد جمالی"
+        "value" : "میر جان محمد خان حمالی"
       }
     }, {
       "statement" : {
@@ -15558,109 +12463,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "کامران مائیکل"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6359612-B9CEE080-39F4-4051-9FB5-ECBC0CA27993"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6359612"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kamran Michael"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "کامران مائیکل"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q799577"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان مسلم لیگ (ن)"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Muslim League (N)"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781031"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پنجاب"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -16985,109 +13787,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7403854-901C488D-17AE-43AB-BA8E-F2373EB763AD"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15686806"
-      },
-      "role_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "senator"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20081441"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senator"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7403854"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saleem Mandviwalla"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2571392"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹ"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q843"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "104"
-      },
-      "name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سلیم مانڈوی والا"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7125678"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Peoples Party Parliamentarians"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q58781026"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سندھ"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sindh"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-03-12T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7415549-86DB3017-DFEF-4694-8DB7-A54F471F8039"
       },
       "role_superclass" : {
@@ -17149,6 +13848,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "104"
+      },
+      "name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ثناءاللہ بلوچ"
       }
     }, {
       "statement" : {

@@ -6,6 +6,62 @@
     "bindings" : [ {
       "position" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1837955"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Punjab"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پنجاب کا وزیر اعلی"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4478"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "پنجاب"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16163440"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59137046"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Cabinet of Punjab"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صوبائی کابینہ"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20081441"
       },
       "position_name_en" : {
@@ -17,10 +73,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "سینٹر"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -49,11 +101,6 @@
         "type" : "literal",
         "value" : "senator"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینیٹر"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2571392"
@@ -67,6 +114,15 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "سینیٹ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینیٹر"
       }
     }, {
       "position" : {
@@ -82,10 +138,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "(قومی اسمبلی کے رکن (ایم این اے"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -114,11 +166,6 @@
         "type" : "literal",
         "value" : "member of parliament"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن پارلیمان"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1518223"
@@ -132,6 +179,71 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "قومی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن پارلیمان"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25548295"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Azad Kashmir"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد کشمیر کا وزیر اعظم"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200130"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu and Kashmir"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد جموں کشمیر"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16163440"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59137042"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azad Jammu and Kashmir Council"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "آزاد جموں اور کشمیر کونسل"
       }
     }, {
       "position" : {
@@ -147,10 +259,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "صدر ایوان بالا پاکستان"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -179,11 +287,6 @@
         "type" : "literal",
         "value" : "Senator"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "سینٹر"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2571392"
@@ -197,6 +300,15 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "سینیٹ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سینٹر"
       }
     }, {
       "position" : {
@@ -212,10 +324,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "صدر ایوان بالا پاکستان"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -257,6 +365,122 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "سینیٹ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3695530"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Balochistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان کا وزیر اعلی"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163239"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balochistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "بلوچستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16163440"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59137043"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Cabinet of Balochistan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صوبائی کابینہ"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096852"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Khyber Pakhtunkhwa"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خیبر پختونخواہ کا وزیر اعلی"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183314"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khyber Pakhtunkhwa"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "خیبر پختونخواہ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16163440"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59137045"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Provincial Cabinet of Khyber Pakhtunkhwa"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "صوبائی کابینہ"
       }
     }, {
       "position" : {
@@ -272,10 +496,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "رکن صوبائی اسمبلی سندھ"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -304,11 +524,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2867119"
@@ -316,12 +531,21 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Provincial Assembly of Sindh"
+        "value" : "Provincial Assembly of Sindh Province"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "صوبائی اسمبلی سندھ"
+        "value" : "سندھ کی صوبائی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
       }
     }, {
       "position" : {
@@ -337,10 +561,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "رکن پنجاب صوبائی اسمبلی"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -358,7 +578,7 @@
       "admin_area_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "پنجاب، پاکستان"
+        "value" : "پنجاب"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -369,11 +589,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q975150"
@@ -381,12 +596,21 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Provincial Assembly of the Punjab"
+        "value" : "Provincial Assembly of Punjab Province"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "صوبائی اسمبلی پنجاب"
+        "value" : "پنجاب کی صوبائی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
       }
     }, {
       "position" : {
@@ -402,10 +626,6 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "(صوبائی اسمبلی کے رکن (ایم پی اے"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -434,11 +654,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2867116"
@@ -451,7 +666,16 @@
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "بلوچستان صوبائی اسمبلی"
+        "value" : "بلوچستان کی صوبائی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
       }
     }, {
       "position" : {
@@ -468,10 +692,6 @@
         "type" : "literal",
         "value" : "(قانون ساز اسمبلی کے رکن (ایم ایل اے"
       },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
       "adminAreaTypes" : {
         "type" : "literal",
         "value" : "Q10864048"
@@ -483,12 +703,12 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Azad Kashmir"
+        "value" : "Azad Jammu and Kashmir"
       },
       "admin_area_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "آزاد کشمیر"
+        "value" : "آزاد جموں کشمیر"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -499,11 +719,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18209789"
@@ -511,12 +726,86 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Azad Kashmir Legislative Assembly"
+        "value" : "Azad Jammu & Kashmir Legislative Assembly"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "آزاد کشمیر قانون ساز اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873609"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karachi Metropolitan Corporation"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8660"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karachi"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کراچی"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15982486"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karachi Metropolitan Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کراچی میٹروپولیٹن کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
       }
     }, {
       "position" : {
@@ -527,10 +816,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of Provincial Assembly of the Khyber Pakhtunkhwa"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -548,7 +833,7 @@
       "admin_area_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "خیبر پختونخوا"
+        "value" : "خیبر پختونخواہ"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -559,11 +844,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2597438"
@@ -571,12 +851,21 @@
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa Assembly"
+        "value" : "Provincial Assembly of Khyber Pakhtunkhwa Province"
       },
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "خیبرپختونخوا اسمبلی"
+        "value" : "خیبر پختون خواہ کی صوبائی اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
       }
     }, {
       "position" : {
@@ -587,10 +876,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Gilgit-Baltistan Legislative Assembly"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -619,11 +904,6 @@
         "type" : "literal",
         "value" : "Member of the Provincial Assembly"
       },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "رکن صوبائی اسمبلی"
-      },
       "body" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17053564"
@@ -636,7 +916,376 @@
       "body_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "گلگت بلتستان قانون ساز اسمبلی"
+        "value" : "گلگت بلتستان کی قانون ساز اسمبلی"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "رکن صوبائی اسمبلی"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873767"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Metropolitan Corporation Lahore"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11739"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lahore"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "لاہور"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873610"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan Corporation Lahore"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میٹروپولیٹن کارپوریشن لاہور"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873769"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Faisalabad Municipal Corporation"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q173985"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faisalabad"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "فیصل آباد"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873612"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faisalabad Municipal Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "فیصل آباد میونسپل کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873770"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Rawalpindi Municipal Corporation"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q93230"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rawalpindi"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راولپنڈی"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55641548"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rawalpindi Municipal Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "راولپنڈی مونسپل کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873772"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Municipal Corporation Gujranwala"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q243322"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujranwala"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گوجرانوالہ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873615"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation Gujranwala"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ميونسپل کارپوریشن گوجرانوالہ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873779"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Municipal Corporation Multan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185453"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Multan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ملتان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873622"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation Multan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن ملتان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873780"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Hyderabad Municipal Corporation"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1640079"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hyderabad"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حیدرآباد"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28223529"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hyderabad Municipal Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "حیدرآباد میونسپل کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
       }
     }, {
       "position" : {
@@ -647,10 +1296,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of the Islamabad Metropolitan Corporation"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -668,7 +1313,7 @@
       "admin_area_ur" : {
         "xml:lang" : "ur",
         "type" : "literal",
-        "value" : "وفاقی دارالحکومت"
+        "value" : "اسلام آباد"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -678,11 +1323,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "councillor"
-      },
-      "position_superclass_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "کونسلر"
       },
       "body" : {
         "type" : "uri",
@@ -697,6 +1337,491 @@
         "xml:lang" : "ur",
         "type" : "literal",
         "value" : "اسلام آباد میٹروپولیٹن کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873783"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Quetta Metropolitan Corporation"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185458"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quetta"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کوئٹہ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58873626"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quetta Metropolitan Corporation"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کوئٹہ میٹروپولیٹن کارپوریشن"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241660"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Sargodha"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q855997"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sargodha"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سرگودھا"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240671"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Sargodha"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن سرگودھا"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241661"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Sialkot"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q643883"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sialkot"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سیالکوٹ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240672"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Sialkot"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن سیالکوٹ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241662"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Sukkar"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q868631"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sukkur"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "سکھر"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240673"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Sukkar"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن سکھر"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241664"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Larkana"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q696605"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Larkana"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "لاڑکانہ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240674"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Larkana"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن لاڑکانہ"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241668"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Dera Ghazi Khan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q999076"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dera Ghazi Khan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "ڈیرہ غازی خان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240678"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Dera Ghazi Khan"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن ڈیرہ غازی خان"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59241672"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the municipal corporation of Gujrat"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q929062"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujrat"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گجرات"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59240679"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Municipal Corporation of Gujrat"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "میونسپل کارپوریشن گجرات"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "کونسلر"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8135012"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gilgit-Baltistan"
+      },
+      "position_name_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گلگت بلتستان کا وزیر اعلی"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200697"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gilgit-Baltistan"
+      },
+      "admin_area_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گلگت بلتستان"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16163440"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16910253"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gilgit-Baltistan Council"
+      },
+      "body_ur" : {
+        "xml:lang" : "ur",
+        "type" : "literal",
+        "value" : "گلگت بلتستان کونسل"
       }
     } ]
   }
