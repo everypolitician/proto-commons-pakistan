@@ -9,7 +9,9 @@
       {
         "comment": "15th National Assembly",
         "position_item_id": "Q55783826",
-        "term_item_id": "Q56188367"
+        "term_item_id": "Q56188367",
+        "start_date": "2018-08-13",
+        "end_date": "2023-08-01"
       }
     ]
   },
@@ -22,7 +24,9 @@
     "terms": [
       {
         "comment": "Karachi metropolitan corporation 2016 - 2020",
-        "term_item_id": "Q59241857"
+        "term_item_id": "Q59241857",
+        "start_date": "2016-05-15",
+        "end_date": "2020-05-01"
       }
     ]
   },
@@ -35,7 +39,9 @@
     "terms": [
       {
         "comment": "2nd Gilgit Baltistan Legislative Assembly",
-        "term_item_id": "Q58873607"
+        "term_item_id": "Q58873607",
+        "start_date": "2015-06-25",
+        "end_date": "2020-07-01"
       }
     ]
   },
@@ -48,7 +54,9 @@
     "terms": [
       {
         "comment": "10th Azad Jammu & Kashmir Legislative Assembly",
-        "term_item_id": "Q58873604"
+        "term_item_id": "Q58873604",
+        "start_date": "2016-07-30",
+        "end_date": "2021-08-01"
       }
     ]
   },
@@ -74,7 +82,9 @@
     "terms": [
       {
         "comment": "13th Provincial Assembly of Khyber Pakhtunkhwa",
-        "term_item_id": "Q58873600"
+        "term_item_id": "Q58873600",
+        "start_date": "2018-08-13",
+        "end_date": "2023-08-01"
       }
     ]
   },
@@ -87,7 +97,9 @@
     "terms": [
       {
         "comment": "Islamabad metropolitan corporation 2016 - 2020",
-        "term_item_id": "Q59241866"
+        "term_item_id": "Q59241866",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -100,7 +112,9 @@
     "terms": [
       {
         "comment": "Hyderabad municipal corporation 2015 - 2020",
-        "term_item_id": "Q59241865"
+        "term_item_id": "Q59241865",
+        "start_date": "2015-12-01",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -113,7 +127,9 @@
     "terms": [
       {
         "comment": "11th Provincial Assembly of Balochistan",
-        "term_item_id": "Q58873597"
+        "term_item_id": "Q58873597",
+        "start_date": "2018-08-13",
+        "end_date": "2023-08-01"
       }
     ]
   },
@@ -126,7 +142,9 @@
     "terms": [
       {
         "comment": "15th Provincial Assembly of Sindh",
-        "term_item_id": "Q58873602"
+        "term_item_id": "Q58873602",
+        "start_date": "2018-08-13",
+        "end_date": "2023-08-01"
       }
     ]
   },
@@ -139,7 +157,9 @@
     "terms": [
       {
         "comment": "Rawalpindi municipal corporation 2016 - 2020",
-        "term_item_id": "Q59241860"
+        "term_item_id": "Q59241860",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -152,7 +172,9 @@
     "terms": [
       {
         "comment": "metropolitan corporation Lahore 2015 - 2020",
-        "term_item_id": "Q59241858"
+        "term_item_id": "Q59241858",
+        "start_date": "2015-11-05",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -165,7 +187,9 @@
     "terms": [
       {
         "comment": "Faisalabad municipal corporation 2015 - 2020",
-        "term_item_id": "Q59241859"
+        "term_item_id": "Q59241859",
+        "start_date": "2015-11-05",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -178,7 +202,9 @@
     "terms": [
       {
         "comment": "municipal corporation Gujranwala 2015 - 2020",
-        "term_item_id": "Q59241861"
+        "term_item_id": "Q59241861",
+        "start_date": "2015-12-01",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -191,7 +217,9 @@
     "terms": [
       {
         "comment": "municipal corporation Multan 2016 - 2020",
-        "term_item_id": "Q59241864"
+        "term_item_id": "Q59241864",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -204,7 +232,9 @@
     "terms": [
       {
         "comment": "Quetta metropolitan corporation 2015 - 2020",
-        "term_item_id": "Q59241872"
+        "term_item_id": "Q59241872",
+        "start_date": "2015-01-30",
+        "end_date": "2020-01-01"
       }
     ]
   },
@@ -217,7 +247,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Sargodha 2016 - 2020",
-        "term_item_id": "Q59312741"
+        "term_item_id": "Q59312741",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -230,7 +262,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Sialkot 2016 - 2020",
-        "term_item_id": "Q59312742"
+        "term_item_id": "Q59312742",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -243,7 +277,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Sukkar 2016 - 2020",
-        "term_item_id": "Q59312743"
+        "term_item_id": "Q59312743",
+        "start_date": "2016-01-21",
+        "end_date": "2020-05-01"
       }
     ]
   },
@@ -256,7 +292,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Larkana 2016 - 2020",
-        "term_item_id": "Q59312744"
+        "term_item_id": "Q59312744",
+        "start_date": "2016-01-21",
+        "end_date": "2020-05-01"
       }
     ]
   },
@@ -269,7 +307,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Dera Ghazi Khan 2016 - 2020",
-        "term_item_id": "Q59312748"
+        "term_item_id": "Q59312748",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -282,7 +322,9 @@
     "terms": [
       {
         "comment": "Municipal Corporation of Gujrat 2016 - 2020",
-        "term_item_id": "Q59312750"
+        "term_item_id": "Q59312750",
+        "start_date": "2016-01-14",
+        "end_date": "2020-12-22"
       }
     ]
   },
@@ -295,7 +337,9 @@
     "terms": [
       {
         "comment": "17th Provincial Assembly of Punjab",
-        "term_item_id": "Q58873601"
+        "term_item_id": "Q58873601",
+        "start_date": "2018-08-15",
+        "end_date": "2023-08-01"
       }
     ]
   }
