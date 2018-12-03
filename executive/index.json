@@ -1,3 +1,68 @@
 [
-
+  {
+    "comment": "Gilgit-Baltistan Council",
+    "area_id": "Q200697",
+    "executive_item_id": "Q16910253",
+    "positions": [
+      {
+        "comment": "Chief Minister of Gilgit-Baltistan",
+        "position_item_id": "Q8135012"
+      }
+    ]
+  },
+  {
+    "comment": "Azad Jammu and Kashmir Council",
+    "area_id": "Q200130",
+    "executive_item_id": "Q59137042",
+    "positions": [
+      {
+        "comment": "Prime Minister of Azad Kashmir",
+        "position_item_id": "Q25548295"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Cabinet of Balochistan",
+    "area_id": "Q163239",
+    "executive_item_id": "Q59137043",
+    "positions": [
+      {
+        "comment": "Chief Minister of Balochistan",
+        "position_item_id": "Q3695530"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Cabinet of Khyber Pakhtunkhwa",
+    "area_id": "Q183314",
+    "executive_item_id": "Q59137045",
+    "positions": [
+      {
+        "comment": "Chief Minister of Khyber Pakhtunkhwa",
+        "position_item_id": "Q5096852"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Cabinet of Punjab",
+    "area_id": "Q4478",
+    "executive_item_id": "Q59137046",
+    "positions": [
+      {
+        "comment": "Chief Minister of Punjab",
+        "position_item_id": "Q1837955"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Cabinet of Sindh",
+    "area_id": "Q37211",
+    "executive_item_id": "Q59137047",
+    "positions": [
+      {
+        "comment": "Chief Minister of Sindh",
+        "position_item_id": "Q28169441"
+      }
+    ]
+  }
 ]
