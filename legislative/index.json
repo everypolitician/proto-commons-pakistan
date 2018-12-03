@@ -21,8 +21,8 @@
     "position_item_id": "Q58873609",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Karachi metropolitan corporation 2016 - 2020",
+        "term_item_id": "Q59241857"
       }
     ]
   },
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "comment": "Azad Kashmir Legislative Assembly",
+    "comment": "Azad Jammu & Kashmir Legislative Assembly",
     "house_item_id": "Q18209789",
     "seat_count": "49",
     "area_id": "Q200130",
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "comment": "Khyber Pakhtunkhwa Assembly",
+    "comment": "Provincial Assembly of Khyber Pakhtunkhwa Province",
     "house_item_id": "Q2597438",
     "seat_count": "124",
     "area_id": "Q183314",
@@ -86,8 +86,8 @@
     "position_item_id": "Q58873781",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Islamabad metropolitan corporation 2016 - 2020",
+        "term_item_id": "Q59241866"
       }
     ]
   },
@@ -99,8 +99,8 @@
     "position_item_id": "Q58873780",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Hyderabad municipal corporation 2015 - 2020",
+        "term_item_id": "Q59241865"
       }
     ]
   },
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "comment": "Provincial Assembly of Sindh",
+    "comment": "Provincial Assembly of Sindh Province",
     "house_item_id": "Q2867119",
     "seat_count": "168",
     "area_id": "Q37211",
@@ -138,8 +138,8 @@
     "position_item_id": "Q58873770",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Rawalpindi municipal corporation 2016 - 2020",
+        "term_item_id": "Q59241860"
       }
     ]
   },
@@ -151,8 +151,8 @@
     "position_item_id": "Q58873767",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "metropolitan corporation Lahore 2015 - 2020",
+        "term_item_id": "Q59241858"
       }
     ]
   },
@@ -164,8 +164,8 @@
     "position_item_id": "Q58873769",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Faisalabad municipal corporation 2015 - 2020",
+        "term_item_id": "Q59241859"
       }
     ]
   },
@@ -177,21 +177,8 @@
     "position_item_id": "Q58873772",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "City District Government Peshawar",
-    "house_item_id": "Q58873618",
-    "seat_count": "138",
-    "area_id": "Q1113311",
-    "position_item_id": "Q58873777",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "municipal corporation Gujranwala 2015 - 2020",
+        "term_item_id": "Q59241861"
       }
     ]
   },
@@ -203,8 +190,8 @@
     "position_item_id": "Q58873779",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "municipal corporation Multan 2016 - 2020",
+        "term_item_id": "Q59241864"
       }
     ]
   },
@@ -216,13 +203,91 @@
     "position_item_id": "Q58873783",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "Quetta metropolitan corporation 2015 - 2020",
+        "term_item_id": "Q59241872"
       }
     ]
   },
   {
-    "comment": "Provincial Assembly of the Punjab",
+    "comment": "Municipal Corporation of Sargodha",
+    "house_item_id": "Q59240671",
+    "seat_count": "33",
+    "area_id": "Q855997",
+    "position_item_id": "Q59241660",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Sargodha 2016 - 2020",
+        "term_item_id": "Q59312741"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Sialkot",
+    "house_item_id": "Q59240672",
+    "seat_count": "35",
+    "area_id": "Q643883",
+    "position_item_id": "Q59241661",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Sialkot 2016 - 2020",
+        "term_item_id": "Q59312742"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Sukkar",
+    "house_item_id": "Q59240673",
+    "seat_count": null,
+    "area_id": "Q868631",
+    "position_item_id": "Q59241662",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Sukkar 2016 - 2020",
+        "term_item_id": "Q59312743"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Larkana",
+    "house_item_id": "Q59240674",
+    "seat_count": null,
+    "area_id": "Q696605",
+    "position_item_id": "Q59241664",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Larkana 2016 - 2020",
+        "term_item_id": "Q59312744"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Dera Ghazi Khan",
+    "house_item_id": "Q59240678",
+    "seat_count": "123",
+    "area_id": "Q999076",
+    "position_item_id": "Q59241668",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Dera Ghazi Khan 2016 - 2020",
+        "term_item_id": "Q59312748"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Gujrat",
+    "house_item_id": "Q59240679",
+    "seat_count": "142",
+    "area_id": "Q929062",
+    "position_item_id": "Q59241672",
+    "terms": [
+      {
+        "comment": "Municipal Corporation of Gujrat 2016 - 2020",
+        "term_item_id": "Q59312750"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Assembly of Punjab Province",
     "house_item_id": "Q975150",
     "seat_count": "371",
     "area_id": "Q4478",
