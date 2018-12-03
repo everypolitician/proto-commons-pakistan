@@ -1,91 +1,117 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_ur", "party", "party_name_en", "party_name_ur", "district", "district_name_en", "district_name_ur", "role", "role_en", "role_ur", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_ur", "org", "org_en", "org_ur", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_ur",
+      "party",
+      "party_name_en",
+      "party_name_ur",
+      "district",
+      "district_name_en",
+      "district_name_ur",
+      "role",
+      "role_en",
+      "role_ur",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_ur",
+      "org",
+      "org_en",
+      "org_ur",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15982558-451b8079-4aaa-685f-df7c-db072a6bee42"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15982558"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Iqbal Khan Jadoon"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q186591"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pakistan Peoples Party"
-      },
-      "party_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "پاکستان پیپلز پارٹی"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q183314"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Khyber Pakhtunkhwa"
-      },
-      "district_name_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5096852"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Khyber Pakhtunkhwa"
-      },
-      "role_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "خیبر پختونخواہ کا وزیر اعلی"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16163440"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q59137045"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Provincial Cabinet of Khyber Pakhtunkhwa"
-      },
-      "org_ur" : {
-        "xml:lang" : "ur",
-        "type" : "literal",
-        "value" : "صوبائی کابینہ"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q183314"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15982558-451b8079-4aaa-685f-df7c-db072a6bee42"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15982558"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iqbal Khan Jadoon"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186591"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183314"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Khyber Pakhtunkhwa"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "خیبر پختونخواہ"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5096852"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister of Khyber Pakhtunkhwa"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "خیبر پختونخواہ کا وزیر اعلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16163440"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59137045"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Cabinet of Khyber Pakhtunkhwa"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "صوبائی کابینہ"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183314"
+        }
       }
-    } ]
+    ]
   }
 }
