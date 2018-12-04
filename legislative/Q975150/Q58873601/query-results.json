@@ -32,214 +32,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q13139153-C24C37CA-4012-4DBC-A26F-CA6592AECDB9"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q13139153"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Khawaja Saad Rafique"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "خواجہ سعد رفیق"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207505"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-168 Lahore-XXV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-168"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q15983303-767741EC-3D90-4CDF-8069-36BFDE65053A"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q15983303"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mian Mehmood-ur-Rasheed"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "میاں محمود الرشید"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207495"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-160 Lahore-XVII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-160"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q16106370-384ADC93-20F3-4EC2-BC19-2C81687E2077"
         },
         "item": {
@@ -344,49 +136,49 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18816029-B7F9D420-8294-4C67-ABE7-7971AE834053"
+          "value": "http://www.wikidata.org/entity/statement/Q16731872-92173038-6588-4BFA-8CC3-5E2D7972E542"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18816029"
+          "value": "http://www.wikidata.org/entity/Q16731872"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sohail Shaukat Butt"
+          "value": "Malik Ahmad Khan"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "سہیل شوکت بٹ"
+          "value": "ملک احمد خان"
         },
         "party": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
+          "value": "http://www.wikidata.org/entity/Q284454"
         },
         "party_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pakistan Muslim League (N)"
+          "value": "Pakistan Tehreek-e-Insaf"
         },
         "party_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
+          "value": "پاکستان تحریک انصاف"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207500"
+          "value": "http://www.wikidata.org/entity/Q59207404"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-164 Lahore-XXI"
+          "value": "PP-87 Mianwali-III"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-164"
+          "value": "پی پی-87"
         },
         "role": {
           "type": "uri",
@@ -590,6 +382,214 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-2"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q23304408-6AEFDB69-D027-4A87-8C44-243A37C643D9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23304408"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saeed Akbar Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر سعید اکبر خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207407"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-90 Bhakkar-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-90"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q26703128-B0DE9901-AB01-454C-AF03-53BE66494327"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26703128"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muhammad Mohsin Leghari"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "محمد محسن لغاری"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207665"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-293 Rajan Pur-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-293"
         },
         "role": {
           "type": "uri",
@@ -1374,214 +1374,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q34789909-E5872E13-F8FF-4D78-B998-D850E6C26695"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q34789909"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Khawaja Sulman Rafiq"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "خواجہ سلمان رفیق"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207491"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-157 Lahore-XIV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-157"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q35829277-44B76B53-33BB-4AF3-B2CC-6C11C02AA791"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q35829277"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Malik Nauman Ahmad Langrial"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ملک نعمان احمد لغاری"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207550"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-202 Sahiwal-VII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-202"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q37611023-68115785-901E-4D12-9FA4-136525C49909"
         },
         "item": {
@@ -1620,110 +1412,6 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "reserved seats for women in the provincial assembly of Punjab"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q4695453-D982E3A1-C971-45E6-A7C3-6C8A9A796C33"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4695453"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Saeed Ahmad"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سعید احمد"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207442"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-121 Toba Tek Singh-IV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-121"
         },
         "role": {
           "type": "uri",
@@ -1993,6 +1681,110 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47398289-85FAD03D-0294-4060-B15C-06BEB17CCF1B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47398289"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ameer Muhammad Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر امیر محمدخان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207406"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-89 Bhakkar-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-89"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47399865-70EB088C-C8B3-4A96-BA95-847E7670B907"
         },
         "item": {
@@ -2201,21 +1993,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47400202-9A0B3438-5645-47D0-BFE2-95B475270960"
+          "value": "http://www.wikidata.org/entity/statement/Q47400825-FFE13F16-FE53-4408-96B4-A76973AC0DF2"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47400202"
+          "value": "http://www.wikidata.org/entity/Q47400825"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Ch Ifthikar Hussain Chachhar"
+          "value": "Zahid Akram"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "چودھری افتخار حسین چچڑ"
+          "value": "زاہد اکرم"
         },
         "party": {
           "type": "uri",
@@ -2233,17 +2025,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207526"
+          "value": "http://www.wikidata.org/entity/Q59207602"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-185 Okara-III"
+          "value": "PP-242 Bahawalnagar-VI"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-185"
+          "value": "پی پی-242"
         },
         "role": {
           "type": "uri",
@@ -2348,6 +2140,214 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-61"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47401496-B00A9379-C164-4DEB-B245-A74CEC24244C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47401496"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chaudhari Faisal Farooq"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "چودھری فیصل فاروق"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207392"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-76 Sargodha-V"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-76"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47403737-8A90223A-3914-4224-B8A2-7EEAA036757C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47403737"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ghazali Saleem Butt"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر غزالی سلیم بٹ"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q799577"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Muslim League (N)"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان مسلم لیگ (ن)"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207472"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-145 Lahore-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-145"
         },
         "role": {
           "type": "uri",
@@ -2617,214 +2617,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47404690-10AA44E5-1FB4-4C72-93D5-7801ED50CCC6"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47404690"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Javed Allo Ud Din Sajid"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر جاوید علاؤالددین ساجد"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207523"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-183 Okara-I"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-183"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47404699-7B0E8B13-F8AB-44A3-A02C-2157C0750831"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47404699"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Jafar Ali"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "جعفر علی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207422"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-103 Faisalabad-VII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-103"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47404991-45145524-2A79-478F-8D44-303AFC412EC7"
         },
         "item": {
@@ -2929,257 +2721,49 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47405654-C4F070A4-C6A5-487E-B11D-B4A06C2A2951"
+          "value": "http://www.wikidata.org/entity/statement/Q47405340-53F0781E-D5EA-45E4-9A6E-D5622FCE7A5F"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47405654"
+          "value": "http://www.wikidata.org/entity/Q47405340"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Ali Abbas"
+          "value": "Khurram ljaz"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر علی عباس"
+          "value": "مسٹر خرم اعجاز"
         },
         "party": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
+          "value": "http://www.wikidata.org/entity/Q284454"
         },
         "party_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pakistan Muslim League (N)"
+          "value": "Pakistan Tehreek-e-Insaf"
         },
         "party_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
+          "value": "پاکستان تحریک انصاف"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207528"
+          "value": "http://www.wikidata.org/entity/Q59207462"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-187 Okara-V"
+          "value": "PP-136 Sheikhupura-II"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-187"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47405667-628F6D6D-A625-4347-BCB4-A805DCA051DE"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47405667"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Malik Ahmad Saeed Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ملک احمد سعید خان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207515"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-175 Kasur-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-175"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47405978-E1B73758-8779-40B6-8AC0-34724A346125"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47405978"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Malik Muhammad Ahmad Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ملک محمد احمد خان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207516"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-176 Kasur-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-176"
+          "value": "پی پی-136"
         },
         "role": {
           "type": "uri",
@@ -3449,21 +3033,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47406326-5DEE7E29-4622-493D-9573-47BED18385A2"
+          "value": "http://www.wikidata.org/entity/statement/Q47406338-E38D6F5F-F96A-4B1F-9BE1-FACC50E1DB3D"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47406326"
+          "value": "http://www.wikidata.org/entity/Q47406338"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Malik Saiful Malook Khokhar"
+          "value": "Muhammad Waris Shad"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "ملک سیف الملوک کھوکھر"
+          "value": "مسٹر محمد وارث شد"
         },
         "party": {
           "type": "uri",
@@ -3481,17 +3065,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207501"
+          "value": "http://www.wikidata.org/entity/Q59207401"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-165 Lahore-XXII"
+          "value": "PP-84 Khushab-III"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-165"
+          "value": "پی پی-84"
         },
         "role": {
           "type": "uri",
@@ -3657,21 +3241,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47407306-60C52582-B5CD-496F-9FF1-B596A1696DD2"
+          "value": "http://www.wikidata.org/entity/statement/Q47406957-AB2D9058-7F9C-4107-B0D9-554EDE03E21F"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47407306"
+          "value": "http://www.wikidata.org/entity/Q47406957"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Naseer Ahmad"
+          "value": "Mian Manazar Hussain Ranjha"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر نصیراحمد"
+          "value": "میاں منظر حسین راجہ"
         },
         "party": {
           "type": "uri",
@@ -3689,17 +3273,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207498"
+          "value": "http://www.wikidata.org/entity/Q59207390"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-163 Lahore-XX"
+          "value": "PP-74 Sargodha-III"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-163"
+          "value": "پی پی-74"
         },
         "role": {
           "type": "uri",
@@ -3761,21 +3345,125 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47407674-76541985-3398-4153-BE5A-83F6589670FA"
+          "value": "http://www.wikidata.org/entity/statement/Q47406979-055A060F-846E-4324-9948-4090E6848232"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47407674"
+          "value": "http://www.wikidata.org/entity/Q47406979"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Muhammad Afzal Gill"
+          "value": "Mian Alamdar Abbas Qureshi"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "محمد افضل گل"
+          "value": "میاں علمدار عباس قریشی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207647"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-277 Muzaffargarh-X"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-277"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47407300-53EAF34D-E4C0-4B92-B089-D063F74E4B49"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47407300"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Naveed Ali"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر نویدعلی"
         },
         "party": {
           "type": "uri",
@@ -3793,17 +3481,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207610"
+          "value": "http://www.wikidata.org/entity/Q59207538"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-248 Bahawalpur-IV"
+          "value": "PP-192 Pakpatan-II"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-248"
+          "value": "پی پی-192"
         },
         "role": {
           "type": "uri",
@@ -3969,110 +3657,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47408308-26156F7E-5C65-44F7-9E94-055F524D89AA"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47408308"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Jahanzaib Khan Khichi"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "محمد جہانزیب خان کیچی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207596"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-236 Vehari-VIII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-236"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47408624-617DB15C-446E-458C-8258-252176E5C343"
         },
         "item": {
@@ -4116,110 +3700,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-55"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47408627-16CE59A8-3796-4EAE-B2F4-80907AE6193A"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47408627"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Naeem Safdar"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر محمد نعیم صفدر"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207514"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-174 Kasur-I"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-174"
         },
         "role": {
           "type": "uri",
@@ -4385,21 +3865,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47408947-C1E6DA4B-F6E7-449F-BF30-0F2FE4C4C5B7"
+          "value": "http://www.wikidata.org/entity/statement/Q47408821-C28DDAB4-8AC1-4FDB-B916-E31D8BFAD51B"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47408947"
+          "value": "http://www.wikidata.org/entity/Q47408821"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Murad Rass"
+          "value": "Muhammad Sibtain Khan"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر مرادراس"
+          "value": "مسٹر محمد سبتین خان"
         },
         "party": {
           "type": "uri",
@@ -4417,17 +3897,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207494"
+          "value": "http://www.wikidata.org/entity/Q59207405"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-159 Lahore-XVI"
+          "value": "PP-88 Mianwali-IV"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-159"
+          "value": "پی پی-88"
         },
         "role": {
           "type": "uri",
@@ -4593,21 +4073,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47409861-99233A96-323E-40C7-A5B8-C920D366AF32"
+          "value": "http://www.wikidata.org/entity/statement/Q47409539-AE9668B8-C775-4306-9C8C-53B036EA613A"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47409861"
+          "value": "http://www.wikidata.org/entity/Q47409539"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Ramzan Saddique"
+          "value": "Muhammad Ashraf Rasool"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر رمضان صدیقی"
+          "value": "مسٹر محمد اشرف رسول"
         },
         "party": {
           "type": "uri",
@@ -4625,17 +4105,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207502"
+          "value": "http://www.wikidata.org/entity/Q59207464"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-166 Lahore-XXIII"
+          "value": "PP-137 Sheikhupura-III"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-166"
+          "value": "پی پی-137"
         },
         "role": {
           "type": "uri",
@@ -4740,6 +4220,110 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-16"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47410219-BE682BB2-5D90-479A-81B5-DC06CC01ED62"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47410219"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rana Munawar Hussain"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رانہ منورحسین"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q799577"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Muslim League (N)"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان مسلم لیگ (ن)"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207395"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-79 Sargodha-VIII"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-79"
         },
         "role": {
           "type": "uri",
@@ -5009,49 +4593,49 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47411288-ECE38459-48F2-40C4-9782-353E8E335600"
+          "value": "http://www.wikidata.org/entity/statement/Q47411281-451003E3-4074-42D1-AC94-4B001F52BE46"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47411288"
+          "value": "http://www.wikidata.org/entity/Q47411281"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sheikh Alla-ud-Din"
+          "value": "Shoukat Ali Laleka"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "شیخ علاؤالددین"
+          "value": "شوکت عل لالیکا"
         },
         "party": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
+          "value": "http://www.wikidata.org/entity/Q284454"
         },
         "party_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pakistan Muslim League (N)"
+          "value": "Pakistan Tehreek-e-Insaf"
         },
         "party_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
+          "value": "پاکستان تحریک انصاف"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207518"
+          "value": "http://www.wikidata.org/entity/Q59207598"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-178 Kasur-V"
+          "value": "PP-238 Bahawalnagar-II"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-178"
+          "value": "پی پی-238"
         },
         "role": {
           "type": "uri",
@@ -5420,49 +5004,49 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47541995-02F3862C-F18F-4F02-8EFB-928024C62EFA"
+          "value": "http://www.wikidata.org/entity/statement/Q47545708-169E9870-5840-4F7B-AAA9-1A6DE7D2F8ED"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47541995"
+          "value": "http://www.wikidata.org/entity/Q47545708"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mohammad Kashif"
+          "value": "Javaid Akhter"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹرمحمدکاشف"
+          "value": "مسٹر جاوید اختر"
         },
         "party": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
+          "value": "http://www.wikidata.org/entity/Q284454"
         },
         "party_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pakistan Muslim League (N)"
+          "value": "Pakistan Tehreek-e-Insaf"
         },
         "party_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
+          "value": "پاکستان تحریک انصاف"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207459"
+          "value": "http://www.wikidata.org/entity/Q59207566"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-133 Nankana Sahib-III"
+          "value": "PP-215 Multan-V"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-133"
+          "value": "پی پی-215"
         },
         "role": {
           "type": "uri",
@@ -7009,110 +6593,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q50123330-1D7AD3D2-4CA2-4008-A6C8-CCAD291EA649"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q50123330"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Abdul Aleem Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر عبدالعلیم خان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207493"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-158 Lahore-XV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-158"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q50325889-C7D93D04-24DD-43AB-B179-BCBDFC9CAA50"
         },
         "item": {
@@ -7212,21 +6692,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q50368843-B6E32612-CFA2-4731-88DF-714961981952"
+          "value": "http://www.wikidata.org/entity/statement/Q50329880-E59C30B9-D3C3-4D92-B054-4B69C18B1EBC"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q50368843"
+          "value": "http://www.wikidata.org/entity/Q50329880"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Zaib-un-Nisa"
+          "value": "Yasir Zafar Sandhu"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "زیب انساء"
+          "value": "مسٹر یاسر ظفر سندھو"
         },
         "party": {
           "type": "uri",
@@ -7244,12 +6724,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59210902"
+          "value": "http://www.wikidata.org/entity/Q59207387"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "reserved seats for women in the provincial assembly of Punjab"
+          "value": "PP-73 Sargodha-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-73"
         },
         "role": {
           "type": "uri",
@@ -7311,21 +6796,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55819719-09F4607D-1ED3-4989-B998-CDDD4BB385BC"
+          "value": "http://www.wikidata.org/entity/statement/Q50368843-B6E32612-CFA2-4731-88DF-714961981952"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55819719"
+          "value": "http://www.wikidata.org/entity/Q50368843"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Zaheer Iqbal"
+          "value": "Zaib-un-Nisa"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "ظہیر اقبال"
+          "value": "زیب انساء"
         },
         "party": {
           "type": "uri",
@@ -7343,17 +6828,12 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207606"
+          "value": "http://www.wikidata.org/entity/Q59210902"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-245 Bahawalpur-I"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-245"
+          "value": "reserved seats for women in the provincial assembly of Punjab"
         },
         "role": {
           "type": "uri",
@@ -11783,6 +11263,734 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820135-8F3A850D-DA48-4CF2-AE06-DCDCDC63EE52"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820135"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muhammad Muneeb Sultan Cheema"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر محمد منیب سلطان چیمہ"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207391"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-75 Sargodha-IV"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-75"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820137-6FE08D7B-AF4A-48B9-9D73-361C80D2FE94"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820137"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ansar Majeed Khan Niazi"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر انصار مجید خان نیازی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207394"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-78 Sargodha-VII"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-78"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820138-2F7F4100-E5FF-44C8-A8B8-9FF2148170F8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820138"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ghulam Ali Asghar Khan Lahry"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "غلام علی اصغر خان لہری"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207396"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-80 Sargodha-VIX"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-80"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820145-E5EDA488-08A2-4920-84FE-CB3387A75896"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820145"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fateh Khaliq"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر فتح خالق"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207398"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-82 Khushab-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-82"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820152-905AA5D1-8C1A-432C-8CD6-7496F6686CE1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820152"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Malik Ghulam Rasool Sangha"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ملک غلام رسول سنگہ"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207400"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-83 Khushab-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-83"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820157-65A34B14-0305-47CB-A24D-A9662E9974AD"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820157"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Abdul Rehman Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر عبدالرحمان خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207402"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-85 Mianwali-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-85"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55820162-ABCFD745-EC6B-440B-8D76-82CB6250872A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55820162"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amin Ullah Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسٹر امین اللہ خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207403"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-86 Mianwali-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-86"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q55820172-0282F4DB-5FCC-49D7-ADB7-F226A328FD70"
         },
         "item": {
@@ -11826,526 +12034,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-95"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822189-940F9153-4E02-4289-89DB-7C5EF058FD29"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822189"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Malik Nadeem Abbas"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ملک ندیم عباس"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207496"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-161 Lahore-XVIII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-161"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822195-3EA06C6F-4192-4909-9270-6417CCD2B981"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822195"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Yasin Amir"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر محمدیاسین عامر"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207497"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-162 Lahore-XIX"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-162"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822199-57A60344-DFB1-4A1B-9CE1-2B4B65F3F5AB"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822199"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Nazir Ahmad Chohan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر نذیر احمد چوہان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207503"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-167 Lahore-XXIV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-167"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822207-02754F8C-18C4-4E99-BB38-33A12E714AC6"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822207"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Akhtar Hussain"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر اخترحسین"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207506"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-169 Lahore-XXVI"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-169"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822212-761AA72B-8AF6-48CA-9316-5B7119F7EFEE"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822212"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Amin Zulqarnain"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر محمد امین ذوالقرنین"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207507"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-170 Lahore-XXVII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-170"
         },
         "role": {
           "type": "uri",
@@ -12511,21 +12199,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822225-8B1E26D3-3857-4174-AA7A-30AE22CA1EB3"
+          "value": "http://www.wikidata.org/entity/statement/Q55822287-BEDB587A-6658-4C9F-AD22-CBBCC96CFECA"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822225"
+          "value": "http://www.wikidata.org/entity/Q55822287"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Muhammad Mirza Javed"
+          "value": "Rana Riaz Ahmad"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر محمد مرزا جاوید"
+          "value": "رانا ریاص احمد"
         },
         "party": {
           "type": "uri",
@@ -12543,17 +12231,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207510"
+          "value": "http://www.wikidata.org/entity/Q59207548"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-172 Lahore-XXIX"
+          "value": "PP-200 Sahiwal-V"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-172"
+          "value": "پی پی-200"
         },
         "role": {
           "type": "uri",
@@ -12615,21 +12303,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822230-16A7061C-1079-4FA4-97FC-D2E02E6FBC5B"
+          "value": "http://www.wikidata.org/entity/statement/Q55822510-6FEBD6CD-59D3-4BF0-B9E7-E7DC7C6DF686"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822230"
+          "value": "http://www.wikidata.org/entity/Q55822510"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Sarfraz Hussain"
+          "value": "Nawabzada Mansoor Ahmed Khan"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر سرفرازحسین"
+          "value": "نوابزادہ منصوراحمد خان"
         },
         "party": {
           "type": "uri",
@@ -12647,1265 +12335,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207513"
+          "value": "http://www.wikidata.org/entity/Q59207638"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-173 Lahore-XXX"
+          "value": "PP-271 Muzaffargarh-IV"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-173"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822236-AAC0C243-60A8-4215-BB9B-7CB18402CAFC"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822236"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Hashim Dogar"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "محمد هاشم ڈوگر"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207517"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-177 Kasur-IV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-177"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822240-FBF25C50-7C1F-43EB-ACCC-AB5FF240A3DA"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822240"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Malik Mukhtar Ahmad"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ملک مختار احمد"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207519"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-179 Kasur-VI"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-179"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822247-24FCD6AA-0F3A-48B4-BB10-538C227AEDF5"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822247"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Ilyas Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر محمد الیاس خان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207522"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-182 Kasur-IX"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-182"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822252-0B8E587F-E02F-4836-99D9-D4A094C2B229"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822252"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Syeda Maimanat Mohsin"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سید میمنات محسن"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q327591"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "independent politician"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "آزاد"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207524"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-184 Okara-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-184"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822257-D9920526-1AC4-459E-BE27-559F2A2AC031"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822257"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Noor ul Amin Wattoo"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر نورالامین وٹو"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207527"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-186 Okara-IV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-186"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822262-103BE8CD-9AFF-4966-A47F-2C2F9CF7292F"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822262"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muneeb-ul-Haq"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر منیب الحق"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207530"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-189 Okara-VII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-189"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822270-53460782-68FA-455B-8FBF-3EEE1C43DA21"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822270"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Ghulam Raza"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹر غلام رضا"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207531"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-190 Okara-VIII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-190"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822274-CFD1585A-1467-4C06-B931-2C2414619E37"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822274"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mian Muhammad Farrukh Mumtaz Maneka"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "میاں محمد فرخ ممتاز"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207536"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-191 Pakpatan-I"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-191"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822323-F1482436-1411-4317-A48F-F71E56D11D4D"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822323"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammd Saleem Akhtar"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مسٹرمحمد سلیم اختر"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207563"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-212 Multan-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-212"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822418-D4ACEAAC-6A9C-4EE2-9876-F3B4DDBB7AA4"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822418"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Ehsan-ul-Haque"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "احسان الحق"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q864345"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (Q)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ ق"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207612"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-249 Bahawalpur-V"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-249"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822446-A5306B95-2D24-47B3-AFFD-3999CE420D8A"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822446"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Ch Masood Ahmad"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "چودھری مسعود احمد"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207623"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-257 Rahim Yar Khan-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-257"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55822506-9B26D2B9-7595-44F5-9F47-60DDE67022A3"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55822506"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Abdul Haye Dasti"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "عبدلحئی دستی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207637"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-270 Muzaffargarh-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-270"
+          "value": "پی پی-271"
         },
         "role": {
           "type": "uri",
@@ -14175,21 +12615,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55825149-9D66B8F5-B3E2-4936-AFD8-3FD214059F27"
+          "value": "http://www.wikidata.org/entity/statement/Q55825184-D086256C-E810-4A41-A9FD-A2F10873402B"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55825149"
+          "value": "http://www.wikidata.org/entity/Q55825184"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Adil Pervaiz"
+          "value": "Khayal Ahmad"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر عادل پرویز"
+          "value": "مسٹر خیال احمد"
         },
         "party": {
           "type": "uri",
@@ -14207,17 +12647,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207421"
+          "value": "http://www.wikidata.org/entity/Q59207430"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-102 Faisalabad-VI"
+          "value": "PP-110 Faisalabad-XIV"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-102"
+          "value": "پی پی-110"
         },
         "role": {
           "type": "uri",
@@ -14279,21 +12719,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55825171-356506FB-DBC8-4280-8DB9-935BE5299FE7"
+          "value": "http://www.wikidata.org/entity/statement/Q55825226-DE6457C8-B3CC-42EA-A944-0ECB0F3581C7"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55825171"
+          "value": "http://www.wikidata.org/entity/Q55825226"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Umar Farooq"
+          "value": "Muhammad Taimoor Khan"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر عمر فاروق"
+          "value": "مسٹر محمد تیمورخان"
         },
         "party": {
           "type": "uri",
@@ -14311,17 +12751,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207425"
+          "value": "http://www.wikidata.org/entity/Q59207448"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-106 Faisalabad-X"
+          "value": "PP-124 Jhang-I"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-106"
+          "value": "پی پی-124"
         },
         "role": {
           "type": "uri",
@@ -14383,21 +12823,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55825202-1D667685-1D28-45A6-B098-C8F92CD4D46F"
+          "value": "http://www.wikidata.org/entity/statement/Q55825262-7EB208D4-C413-4189-8BD3-9DB145528FE6"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55825202"
+          "value": "http://www.wikidata.org/entity/Q55825262"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Muhammad Waris Aziz"
+          "value": "Shahbaz Ahmad"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "مسٹر محمد وارث عزیز"
+          "value": "مسٹرشہبازاحمد"
         },
         "party": {
           "type": "uri",
@@ -14415,121 +12855,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207433"
+          "value": "http://www.wikidata.org/entity/Q59207456"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-113 Faisalabad-XVII"
+          "value": "PP-130 Jhang-VII"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-113"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55825242-4B53DEC6-FF84-4A00-B679-E926AFE23D55"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55825242"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mehar Muhammad Aslam"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "مہر محمداسلم"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207451"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-127 Jhang-IV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-127"
+          "value": "پی پی-130"
         },
         "role": {
           "type": "uri",
@@ -15878,21 +14214,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q56065394-290E8411-F011-4829-B693-349456C4FD3B"
+          "value": "http://www.wikidata.org/entity/statement/Q56065397-6E82F1AB-7828-4941-A163-DB403DE761C4"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q56065394"
+          "value": "http://www.wikidata.org/entity/Q56065397"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Uzma Kardar"
+          "value": "Rashida Khanam"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "عظمی کاردار"
+          "value": "رشیدہ خانم"
         },
         "party": {
           "type": "uri",
@@ -17665,6 +16001,110 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q56275286-382564A6-D33A-40DD-AFA7-830C596ADE12"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56275286"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chaudhary Iftikhar Hussain"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "چودھری افتخار حسین"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207397"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-81 Sargodha-X"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-81"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q56277498-742064B1-8477-48E8-859A-28E20D4BC259"
         },
         "item": {
@@ -17967,6 +16407,110 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q57339519-9B55D095-2479-4B70-B249-5ABB1A1053B0"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57339519"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Qasim Abbas Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "قاسم عباس خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q327591"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "independent politician"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "آزاد"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207577"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PP-222 Multan-XII"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی پی-222"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55808168"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of the Punjab"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن پنجاب صوبائی اسمبلی"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-15T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q975150"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Punjab Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پنجاب کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4478"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "371"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q57585222-18AB73D9-5E41-4337-97ED-3DD77D4B8916"
         },
         "item": {
@@ -18071,21 +16615,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q6827611-3989DCEC-1663-4CAB-A7E1-25DC3E3FFB7F"
+          "value": "http://www.wikidata.org/entity/statement/Q6001594-356DB1B1-FC19-41E2-8AB7-E5572842E2F4"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6827611"
+          "value": "http://www.wikidata.org/entity/Q6001594"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Mian Yawar Zaman"
+          "value": "Muhammad Ilyas"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "میاں یاورزمان"
+          "value": "مسٹر محمد الیاس"
         },
         "party": {
           "type": "uri",
@@ -18103,17 +16647,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207529"
+          "value": "http://www.wikidata.org/entity/Q59207411"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PP-188 Okara-VI"
+          "value": "PP-94 Chiniot-II"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی پی-188"
+          "value": "پی پی-94"
         },
         "role": {
           "type": "uri",
@@ -18279,110 +16823,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q6935503-86ECB9DD-4175-4B7F-88BF-47DE72D2682F"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6935503"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mumtaz Ali"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ممتاز علی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207633"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-266 Rahim Yar Khan-XII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-266"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q7285495-B3A03E4E-6550-40E1-A734-AE6942AE4499"
         },
         "item": {
@@ -18426,214 +16866,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی پی-14"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q7290648-565DBF4D-38F2-4134-9647-E11FC15EE402"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7290648"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Rana Mohammad Iqbal Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رانا محمد اقبال خان"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207521"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-181 Kasur-VIII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-181"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55808168"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of the Punjab"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پنجاب صوبائی اسمبلی"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-15T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q975150"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Punjab Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پنجاب کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q4478"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "371"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q7423705-A5170257-CF59-44F6-BD9C-1F0B267150FB"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7423705"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Sardar Muhammad Asif Nakai"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سردار محمد آصف نکائی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q284454"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Tehreek-e-Insaf"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان تحریک انصاف"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207520"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PP-180 Kasur-VII"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی پی-180"
         },
         "role": {
           "type": "uri",
