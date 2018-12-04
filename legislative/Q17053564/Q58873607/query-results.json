@@ -32,6 +32,105 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q59309197-BA26AD74-C2ED-482B-A890-4410FC2B20AF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59309197"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jafferullah Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "جعفراللہ خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q799577"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Muslim League (N)"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان مسلم لیگ (ن)"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207192"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "GBLA-1 Gilgit-1"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "جی بی ایل اے-1"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873760"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Gilgit-Baltistan Legislative Assembly"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-25T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17053564"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gilgit-Baltistan Legislative Assembly"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "گلگت بلتستان کی قانون ساز اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200697"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "33"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q59309198-F30DCAC2-CBD9-4683-8B62-BE9131F10BF8"
         },
         "item": {
@@ -329,21 +428,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q59309220-CA1E093D-7783-490B-BD3C-FF3731827B69"
+          "value": "http://www.wikidata.org/entity/statement/Q59309217-CF9DE201-00FE-4685-B79F-3680F8BBEE13"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59309220"
+          "value": "http://www.wikidata.org/entity/Q59309217"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Fida Khan"
+          "value": "Muhammad Wakeel"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "فدا خان"
+          "value": "محمد وکیل"
         },
         "party": {
           "type": "uri",
@@ -361,304 +460,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207220"
+          "value": "http://www.wikidata.org/entity/Q59207218"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "GBLA-20 Ghizer-II"
+          "value": "GBLA-18 Diamer-IV"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "جی بی ایل اے-20"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58873760"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Gilgit-Baltistan Legislative Assembly"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2015-06-25T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q17053564"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Gilgit-Baltistan Legislative Assembly"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "گلگت بلتستان کی قانون ساز اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q200697"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "33"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q59309230-C96BBADC-1FE8-47A1-B915-24BC6C44B464"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59309230"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mohammad Shafique"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "محمد شفیق"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207227"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "GBLA-24 Ghanche-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "جی بی ایل اے -24"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58873760"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Gilgit-Baltistan Legislative Assembly"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2015-06-25T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q17053564"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Gilgit-Baltistan Legislative Assembly"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "گلگت بلتستان کی قانون ساز اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q200697"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "33"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q59309242-413CBD73-B2EE-4E6A-A118-52E9B1D8FFCA"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59309242"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Rani Atiqa Ghazanfar"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رانی عتیقہ غصنفر"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Muslim League (N)"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59210889"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "reserved seats for women in the legislative assembly of Gilgit Baltistan"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58873760"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Gilgit-Baltistan Legislative Assembly"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2015-06-25T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q17053564"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Gilgit-Baltistan Legislative Assembly"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "گلگت بلتستان کی قانون ساز اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q200697"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "33"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q59309246-C4E9D848-63E6-45B7-A953-EE909C91EEA2"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59309246"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Rehana Ibadi"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ریحانہ عبادی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7694916"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Tehrik-e-Jafaria"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "تحریک جعفریہ"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59210889"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "reserved seats for women in the legislative assembly of Gilgit Baltistan"
+          "value": "جی بی ایل اے-18"
         },
         "role": {
           "type": "uri",

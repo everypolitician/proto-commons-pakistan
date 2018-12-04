@@ -32,110 +32,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18764049-35D5FEFC-EE4C-4F30-B54D-1107676D2393"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18764049"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Faqir Sher Muhammad Bilalani"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "فقیر شیر محمد بلالانی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207743"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-56 Tharparkar-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-56"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q19517916-F857690D-98E0-491D-9620-BBF91F8B7000"
         },
         "item": {
@@ -1182,6 +1078,20 @@
           "type": "literal",
           "value": "سعید احمد"
         },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
         "district": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q59207840"
@@ -1360,21 +1270,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47388277-A3342057-C5F6-4BCC-B1D8-EA030B9776C9"
+          "value": "http://www.wikidata.org/entity/statement/Q47388604-F331432B-8CD2-4CD6-AC5B-73110BD91939"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47388277"
+          "value": "http://www.wikidata.org/entity/Q47388604"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Syed Ali Mardan Shah"
+          "value": "Bashir Ahmed"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "سید علی مردان شاہ"
+          "value": "بشیر احمد"
         },
         "party": {
           "type": "uri",
@@ -1392,17 +1302,225 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207738"
+          "value": "http://www.wikidata.org/entity/Q59207765"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "PS-52 Umerkot-II"
+          "value": "PS-70 Badin-I"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پی ایس-52"
+          "value": "پی ایس-70"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47388613-D5772F9B-926C-473E-93FD-F1F5E91655B2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47388613"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Syed Owais Qadir Shah"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سید اویس قادر شاہ"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207698"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-23 Sukkur-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-23"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47388936-1CF160A1-2FF2-4DF3-AD95-4E8AAE1D7F24"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47388936"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Faraz"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "فراز"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207727"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-44 Sanghar-IV"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-44"
         },
         "role": {
           "type": "uri",
@@ -1644,110 +1762,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47389627-FDAEF306-22A4-4F9A-A809-5DDDE17542B7"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47389627"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Ghulam Qadir Chandio"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "غلام قادر چانڈیو"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207722"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-39 Shaheed Benazirabadr-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-39"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47389958-19E2E131-4836-41C7-B6FD-1DE8D2702CCF"
         },
         "item": {
@@ -1791,110 +1805,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی ایس-7"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47389965-F25831F7-7B2C-429E-AD00-7C5B251384CA"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47389965"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Imdad Ali Pitafi"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "امداد علی پتافی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207750"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-61 Tando Allahyar-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-61"
         },
         "role": {
           "type": "uri",
@@ -2925,214 +2835,6 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Non-Muslim reserved seats in the provincial assembly of Sindh"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47545618-99041397-08F5-4FBC-B594-DD75FED415DE"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47545618"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Abdul Karim Soomro"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "عبدالکریم سومرو"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207764"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-69 Tando Muhammad Khan-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-69"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47546767-B202A971-1654-4AA4-9A90-2E69186C51FC"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47546767"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Syed Murad Ali Shah"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سید مراد علی شاہ"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7125678"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Pakistan Peoples Party Parliamentarians"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207713"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-34 Naushahro Feroz-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-34"
         },
         "role": {
           "type": "uri",
@@ -5185,6 +4887,422 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "عبدالباری پتافی"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55955825-D3D8A418-D0D0-4C8E-BC98-2BA45A3D6F78"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55955825"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Makhdoom Mehboob-uz-Zaman"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مخدوم محبوب الززمان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207747"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-58 Matiari-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-58"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55955837-4CFC0EAE-804E-4731-9AD1-CA3B3968F21F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55955837"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Riaz Hussain Shah Shirazi"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ریاض حسین شاہ شیرازی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207776"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-77 Thatta-I"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-77"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55955839-CB5DAEC5-94F7-4B1D-ABB8-CE0EDDE381C5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55955839"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ali Hassan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "علی حسن"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207777"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-78 Thatta-II"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-78"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55955845-8D6C769C-4411-4336-A0C9-0903C2642D33"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55955845"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mehmood Alam Jamote"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "محمود عالم جموٹی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207797"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-91 Malir-V"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-91"
         },
         "role": {
           "type": "uri",
@@ -10441,110 +10559,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی ایس-73"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q6935503-6DF77B60-8E29-4F58-843E-4E1BD59B3335"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6935503"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Mumtaz Ali"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ممتاز علی"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q327591"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "independent politician"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "آزاد"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207714"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-35 Naushahro Feroz-III"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-35"
         },
         "role": {
           "type": "uri",
