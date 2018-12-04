@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Faqir Sher Muhammad Bilalani",
-        "lang:ur": "فقیر شیر محمد بلالانی"
-      },
-      "id": "Q18764049",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q18764049"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Mir Shabbir Ali Bijarani",
         "lang:ur": "میر شبیر علی بجرانی"
       },
@@ -210,14 +194,46 @@
     },
     {
       "name": {
-        "lang:en": "Syed Ali Mardan Shah",
-        "lang:ur": "سید علی مردان شاہ"
+        "lang:en": "Bashir Ahmed",
+        "lang:ur": "بشیر احمد"
       },
-      "id": "Q47388277",
+      "id": "Q47388604",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q47388277"
+          "identifier": "Q47388604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Owais Qadir Shah",
+        "lang:ur": "سید اویس قادر شاہ"
+      },
+      "id": "Q47388613",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47388613"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faraz",
+        "lang:ur": "فراز"
+      },
+      "id": "Q47388936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47388936"
         }
       ],
       "links": [
@@ -258,22 +274,6 @@
     },
     {
       "name": {
-        "lang:en": "Ghulam Qadir Chandio",
-        "lang:ur": "غلام قادر چانڈیو"
-      },
-      "id": "Q47389627",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47389627"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Imtaiz Ahmad Shaikh",
         "lang:ur": "امتیاز احمد شیخ"
       },
@@ -282,22 +282,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47389958"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Imdad Ali Pitafi",
-        "lang:ur": "امداد علی پتافی"
-      },
-      "id": "Q47389965",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47389965"
         }
       ],
       "links": [
@@ -458,38 +442,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47501328"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Abdul Karim Soomro",
-        "lang:ur": "عبدالکریم سومرو"
-      },
-      "id": "Q47545618",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47545618"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Syed Murad Ali Shah",
-        "lang:ur": "سید مراد علی شاہ"
-      },
-      "id": "Q47546767",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47546767"
         }
       ],
       "links": [
@@ -810,6 +762,70 @@
         {
           "scheme": "wikidata",
           "identifier": "Q55955803"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Makhdoom Mehboob-uz-Zaman",
+        "lang:ur": "مخدوم محبوب الززمان"
+      },
+      "id": "Q55955825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55955825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Riaz Hussain Shah Shirazi",
+        "lang:ur": "ریاض حسین شاہ شیرازی"
+      },
+      "id": "Q55955837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55955837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ali Hassan",
+        "lang:ur": "علی حسن"
+      },
+      "id": "Q55955839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55955839"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehmood Alam Jamote",
+        "lang:ur": "محمود عالم جموٹی"
+      },
+      "id": "Q55955845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55955845"
         }
       ],
       "links": [
@@ -1618,22 +1634,6 @@
     },
     {
       "name": {
-        "lang:en": "Mumtaz Ali",
-        "lang:ur": "ممتاز علی"
-      },
-      "id": "Q6935503",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6935503"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Syeda Shehla Raza",
         "lang:ur": "سیدہ شہلا رضا"
       },
@@ -1728,20 +1728,6 @@
     },
     {
       "name": {
-        "lang:en": "independent politician",
-        "lang:ur": "آزاد"
-      },
-      "id": "Q327591",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q327591"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Tehreek-e-Labbaik Pakistan",
         "lang:ur": "تحریک لبیک پاکستان"
       },
@@ -1787,24 +1773,6 @@
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q18764049-35D5FEFC-EE4C-4F30-B54D-1107676D2393",
-      "person_id": "Q18764049",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207743",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q19517916-F857690D-98E0-491D-9620-BBF91F8B7000",
       "person_id": "Q19517916",
@@ -1988,6 +1956,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4695453-37BA420C-DE8C-4121-8886-555748E0C55A",
       "person_id": "Q4695453",
+      "on_behalf_of_id": "Q284454",
       "organization_id": "Q2867119",
       "area_id": "Q59207840",
       "start_date": "2018-08-13",
@@ -2021,11 +1990,47 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47388277-A3342057-C5F6-4BCC-B1D8-EA030B9776C9",
-      "person_id": "Q47388277",
+      "id": "http://www.wikidata.org/entity/statement/Q47388604-F331432B-8CD2-4CD6-AC5B-73110BD91939",
+      "person_id": "Q47388604",
       "on_behalf_of_id": "Q7125678",
       "organization_id": "Q2867119",
-      "area_id": "Q59207738",
+      "area_id": "Q59207765",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47388613-D5772F9B-926C-473E-93FD-F1F5E91655B2",
+      "person_id": "Q47388613",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207698",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47388936-1CF160A1-2FF2-4DF3-AD95-4E8AAE1D7F24",
+      "person_id": "Q47388936",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207727",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -2073,47 +2078,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47389627-FDAEF306-22A4-4F9A-A809-5DDDE17542B7",
-      "person_id": "Q47389627",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207722",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47389958-19E2E131-4836-41C7-B6FD-1DE8D2702CCF",
       "person_id": "Q47389958",
       "on_behalf_of_id": "Q7125678",
       "organization_id": "Q2867119",
       "area_id": "Q59207679",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47389965-F25831F7-7B2C-429E-AD00-7C5B251384CA",
-      "person_id": "Q47389965",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207750",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -2294,42 +2263,6 @@
       "on_behalf_of_id": "Q55757446",
       "organization_id": "Q2867119",
       "area_id": "Q59210881",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47545618-99041397-08F5-4FBC-B594-DD75FED415DE",
-      "person_id": "Q47545618",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207764",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47546767-B202A971-1654-4AA4-9A90-2E69186C51FC",
-      "person_id": "Q47546767",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207713",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -2688,6 +2621,78 @@
       "id": "http://www.wikidata.org/entity/statement/Q55955803-a9371f31-4fc8-c3ed-fc25-b45ba1a4a7b2",
       "person_id": "Q55955803",
       "organization_id": "Q2867119",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55955825-D3D8A418-D0D0-4C8E-BC98-2BA45A3D6F78",
+      "person_id": "Q55955825",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207747",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55955837-4CFC0EAE-804E-4731-9AD1-CA3B3968F21F",
+      "person_id": "Q55955837",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207776",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55955839-CB5DAEC5-94F7-4B1D-ABB8-CE0EDDE381C5",
+      "person_id": "Q55955839",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207777",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55955845-8D6C769C-4411-4336-A0C9-0903C2642D33",
+      "person_id": "Q55955845",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207797",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -3604,24 +3609,6 @@
       "on_behalf_of_id": "Q7125678",
       "organization_id": "Q2867119",
       "area_id": "Q59207769",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6935503-6DF77B60-8E29-4F58-843E-4E1BD59B3335",
-      "person_id": "Q6935503",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207714",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {

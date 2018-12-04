@@ -95,22 +95,6 @@
     },
     {
       "name": {
-        "lang:en": "Muhammad Azam Khan Swati",
-        "lang:ur": "محمد اعظم خان سواتی"
-      },
-      "id": "Q16187331",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16187331"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Humayun Khan Mandokhel"
       },
       "id": "Q16194672",
@@ -149,22 +133,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16196352"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Haroon Khan",
-        "lang:ur": "ہارون خان"
-      },
-      "id": "Q16226954",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16226954"
         }
       ],
       "links": [
@@ -510,22 +478,6 @@
     },
     {
       "name": {
-        "lang:en": "Syed Shibli Faraz",
-        "lang:ur": "سید شبلی فراز"
-      },
-      "id": "Q19662586",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19662586"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Muhammad Daud Khan Achakzai"
       },
       "id": "Q19665714",
@@ -631,22 +583,6 @@
     },
     {
       "name": {
-        "lang:en": "Nuzhat Sadiq",
-        "lang:ur": "نزہت صادق"
-      },
-      "id": "Q22582994",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q22582994"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Nehal Hashmi"
       },
       "id": "Q23762868",
@@ -693,22 +629,6 @@
     },
     {
       "name": {
-        "lang:en": "Brig. (R) John Kenneth Williams",
-        "lang:ur": "بریگیڈیر (آر) جان کینتہ ولیمز"
-      },
-      "id": "Q26703099",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703099"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Chaudhary Tanvir Khan",
         "lang:ur": "چوہدری تنویر خان"
       },
@@ -717,22 +637,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703100"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Dr. Jehanzeb Jamaldini",
-        "lang:ur": "ڈاکٹر جہانزیب جمالدینی"
-      },
-      "id": "Q26703101",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703101"
         }
       ],
       "links": [
@@ -757,54 +661,6 @@
     },
     {
       "name": {
-        "lang:en": "Gul Bashra",
-        "lang:ur": "گل بشرا"
-      },
-      "id": "Q26703104",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703104"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Haji Momin Khan Afridi",
-        "lang:ur": "حاجی مومن خان آفریدی"
-      },
-      "id": "Q26703105",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703105"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Hillal Ur Rehman",
-        "lang:ur": "ہلال الرحمان"
-      },
-      "id": "Q26703107",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703107"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Islamuddin Shaikh",
         "lang:ur": "اسلام الدین شیخ"
       },
@@ -813,22 +669,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703109"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Khushbakht Shujat",
-        "lang:ur": "خوشبخت شجاعت"
-      },
-      "id": "Q26703111",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703111"
         }
       ],
       "links": [
@@ -861,22 +701,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703113"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Mian Muhammad Ateeq Shaikh",
-        "lang:ur": "میاں محمد عتیق شیخ"
-      },
-      "id": "Q26703116",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703116"
         }
       ],
       "links": [
@@ -981,22 +805,6 @@
     },
     {
       "name": {
-        "lang:en": "Muhammad Usman Khan Kakar",
-        "lang:ur": "محمد عثمان خان کاکڑ"
-      },
-      "id": "Q26703129",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703129"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Najma Hameed",
         "lang:ur": "نجمہ حمید"
       },
@@ -1005,22 +813,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703132"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Nauman Wazir Khattak",
-        "lang:ur": "نعمان وزیر خٹک"
-      },
-      "id": "Q26703134",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703134"
         }
       ],
       "links": [
@@ -1093,22 +885,6 @@
     },
     {
       "name": {
-        "lang:en": "Samina Saeed",
-        "lang:ur": "ثمینہ سعید"
-      },
-      "id": "Q26703146",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703146"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Sardar Muhammad Azam Khan Musakhel",
         "lang:ur": "سردار محمد اعظم خان موسی خیل"
       },
@@ -1117,22 +893,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q26703148"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Sitara Ayaz",
-        "lang:ur": "ستارہ ایاز"
-      },
-      "id": "Q26703151",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q26703151"
         }
       ],
       "links": [
@@ -1414,22 +1174,6 @@
     },
     {
       "name": {
-        "lang:en": "Prof. Dr. Mehr Taj Roghani",
-        "lang:ur": "پروفیسر ڈاکٹر مہرا تاج روغانی"
-      },
-      "id": "Q42328675",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q42328675"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Dr. Sikandar Mandhro",
         "lang:ur": "ڈاکٹر سکندر میندرو"
       },
@@ -1580,22 +1324,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q4837519"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Dr. Asad Ashraf",
-        "lang:ur": "ڈاکٹر اسد اشرف"
-      },
-      "id": "Q50286919",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q50286919"
         }
       ],
       "links": [
@@ -2089,22 +1817,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5431074"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Dr. Muhammad Farogh Naseem",
-        "lang:ur": "ڈاکٹر محمد فروغ نسیم"
-      },
-      "id": "Q5436115",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5436115"
         }
       ],
       "links": [
@@ -2704,22 +2416,6 @@
     },
     {
       "name": {
-        "lang:en": "Saleem Mandviwalla",
-        "lang:ur": "سلیم مانڈوی والا"
-      },
-      "id": "Q7403854",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7403854"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Sanaullah Baloch",
         "lang:ur": "ثناءاللہ بلوچ"
       },
@@ -2963,20 +2659,6 @@
     },
     {
       "name": {
-        "lang:en": "Balochistan National Party",
-        "lang:ur": "بلوچستان نیشنل پارٹی"
-      },
-      "id": "Q3130105",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3130105"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "independent politician",
         "lang:ur": "آزاد"
       },
@@ -2986,20 +2668,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q327591"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Awami National Party",
-        "lang:ur": "عوامی نیشنل پارٹی"
-      },
-      "id": "Q659854",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q659854"
         }
       ]
     },
@@ -3145,45 +2813,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16187331-9EC3E01E-6A2E-47FC-AB48-C97A0683B411",
-      "person_id": "Q16187331",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16194672-FF46EC40-6C6B-469B-B0B1-D7FB64C68F3E",
       "person_id": "Q16194672",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16194716-4FF896CF-4B29-486C-9833-9F3DF8D3480F",
-      "person_id": "Q16194716",
-      "on_behalf_of_id": "Q13211655",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -3214,24 +2846,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q16196352-EE062726-3324-4BB9-895C-4B5A90B04ADC",
       "person_id": "Q16196352",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16226954-EDA01F5B-2607-4E4B-B59B-1C5E549C9DE8",
-      "person_id": "Q16226954",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -3634,24 +3248,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q19662586-43820B88-2848-4726-BB43-B97BEF469EA7",
-      "person_id": "Q19662586",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q19665714-222A47EE-939A-44D2-AE26-A9AE4AE339B0",
       "person_id": "Q19665714",
       "organization_id": "Q2571392",
@@ -3757,24 +3353,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22582994-EBA2CF5A-F8C7-4D74-B70B-72FCB76ABD07",
-      "person_id": "Q22582994",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q23762868-0E3554AF-3807-40EB-9C66-CC5919018DB9",
       "person_id": "Q23762868",
       "organization_id": "Q2571392",
@@ -3820,47 +3398,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q26703099-3A0130DA-6BAA-4491-8807-864F877D574F",
-      "person_id": "Q26703099",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q26703100-8B7A7731-72BE-4EE3-8CFF-9509FF304170",
       "person_id": "Q26703100",
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q2571392",
       "area_id": "Q58781031",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703101-9E68678C-16D5-41F9-B2E5-B8A06C02574B",
-      "person_id": "Q26703101",
-      "on_behalf_of_id": "Q3130105",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
       "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -3892,81 +3434,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q26703104-0E89FCF4-B603-407D-B1A8-2EB1DB881B96",
-      "person_id": "Q26703104",
-      "on_behalf_of_id": "Q13212022",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703105-38C65F25-BE8A-490F-9171-B3279981DD23",
-      "person_id": "Q26703105",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781044",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703107-FBD8A019-AF8A-4B43-9591-374DA10E69D9",
-      "person_id": "Q26703107",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781044",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q26703109-53F00BEE-2A62-4089-8BEB-2607E2B4B37F",
       "person_id": "Q26703109",
       "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781026",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703111-7C9EC007-FC48-4EE1-A35A-69BA369C8F83",
-      "person_id": "Q26703111",
-      "on_behalf_of_id": "Q1265113",
       "organization_id": "Q2571392",
       "area_id": "Q58781026",
       "start_date": "2015-03-12",
@@ -4005,24 +3475,6 @@
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q2571392",
       "area_id": "Q58781030",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703116-3376432D-4D78-4DA9-B83D-DEB0AEFF88BE",
-      "person_id": "Q26703116",
-      "on_behalf_of_id": "Q1265113",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781026",
       "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -4142,47 +3594,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q26703129-8A0EE9B1-96D2-4D20-A56E-DD51F597DEBF",
-      "person_id": "Q26703129",
-      "on_behalf_of_id": "Q13212022",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q26703132-541BC10A-9B2A-493A-8F8C-A09D7181FE97",
       "person_id": "Q26703132",
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q2571392",
       "area_id": "Q58781031",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703134-36EA258A-362E-48C6-BA16-2936FF73C271",
-      "person_id": "Q26703134",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
       "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -4268,47 +3684,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q26703146-E61705F6-3B9A-468E-8CAB-A68029889B95",
-      "person_id": "Q26703146",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q26703148-8EA3089E-295B-45FB-AE85-64BB1E6A712E",
       "person_id": "Q26703148",
       "on_behalf_of_id": "Q13212022",
       "organization_id": "Q2571392",
       "area_id": "Q58781025",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q26703151-18ADCCE5-5AA4-486E-8E7C-10CD428F9CD5",
-      "person_id": "Q26703151",
-      "on_behalf_of_id": "Q659854",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
       "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
@@ -4616,24 +3996,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q42328675-26DC7C38-F427-4FA3-B819-C93A141DC1BE",
-      "person_id": "Q42328675",
-      "on_behalf_of_id": "Q284454",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q42781134-4192D850-6125-4372-96D8-1F2B3F4039BE",
       "person_id": "Q42781134",
       "on_behalf_of_id": "Q7125678",
@@ -4700,45 +4062,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q45316228-D8C9C9F5-1C7D-4E85-98F2-021BE1FB42F5",
-      "person_id": "Q45316228",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q4665329-82565A65-5649-4B26-96B1-B58847A21806",
       "person_id": "Q4665329",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4665329-B430D64C-BC94-43F9-9F88-19D73CDEA6D9",
-      "person_id": "Q4665329",
-      "on_behalf_of_id": "Q13211655",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -4829,24 +4155,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q50286919-3C84A553-BAF7-4F2E-91EF-EE8EC4507633",
-      "person_id": "Q50286919",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2015-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q50320458-7b6915dc-7a68-4cf9-b561-02ac65cf8715",
       "person_id": "Q50320458",
       "organization_id": "Q2571392",
@@ -4898,24 +4206,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q50320528-9cab88b5-9408-48da-8538-d1ff88efa0ce",
       "person_id": "Q50320528",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50320528-ADA25C5F-73B5-4D15-B89C-920AD81F962E",
-      "person_id": "Q50320528",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781044",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -5073,24 +4363,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q50320650-E1740118-EA82-407B-82C8-DF3831A00EB5",
-      "person_id": "Q50320650",
-      "on_behalf_of_id": "Q13211655",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q50320882-2D0A5F31-B14D-47F4-AA8E-012E3CC60826",
       "person_id": "Q50320882",
       "on_behalf_of_id": "Q7125678",
@@ -5142,24 +4414,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q50320886-244f38ea-8acd-4e6c-b75c-a164f7f1d73d",
       "person_id": "Q50320886",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50320886-CB04AE71-093C-45D1-A8F5-C146A80D4BF0",
-      "person_id": "Q50320886",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -5268,45 +4522,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q50320964-80424CAC-B021-4FBD-8566-62D0DE2577D4",
-      "person_id": "Q50320964",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q50320964-d209cb5e-00f2-4e7f-b60b-5a594ac38d7f",
       "person_id": "Q50320964",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50320965-8DCC53BA-C608-49DF-BF89-1CE3982A332E",
-      "person_id": "Q50320965",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -5337,24 +4555,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q50320968-0e316704-c2b9-4307-8616-9b69d2c0d171",
       "person_id": "Q50320968",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50320968-7DE6DF59-7EFB-468D-90B4-75C12F72F15D",
-      "person_id": "Q50320968",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -5544,45 +4744,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q50326319-D88A3601-46F3-4970-A8DB-8671B8C12F72",
-      "person_id": "Q50326319",
-      "on_behalf_of_id": "Q1475103",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781030",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q50331593-c18fb2a8-e65d-4956-b93a-4617aca24638",
       "person_id": "Q50331593",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50345548-B377D520-C879-4016-8C14-EB5A798A9776",
-      "person_id": "Q50345548",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -5673,24 +4837,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5436115-E2D93213-3C6A-40FB-AC99-C21047EF9C84",
-      "person_id": "Q5436115",
-      "on_behalf_of_id": "Q1265113",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781026",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q54614162-fdad4858-d060-4765-95fa-110a810b5bfb",
       "person_id": "Q54614162",
       "organization_id": "Q2571392",
@@ -5724,24 +4870,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q55603361-43d0bb89-7ddb-44f4-80ca-855a67949c71",
       "person_id": "Q55603361",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q55603361-CE5A55D3-CFD7-4F89-B389-DE2D3624E621",
-      "person_id": "Q55603361",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781025",
-      "start_date": "2018-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
@@ -6096,24 +5224,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6359612-B9CEE080-39F4-4051-9FB5-ECBC0CA27993",
-      "person_id": "Q6359612",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781031",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6359612-DD5E7E6D-EBEC-46CE-82FF-0EE9E17DA1B2",
       "person_id": "Q6359612",
       "organization_id": "Q2571392",
@@ -6258,24 +5368,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6941231-985C944A-92E9-433F-92B1-19F91231E19C",
-      "person_id": "Q6941231",
-      "on_behalf_of_id": "Q799577",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781038",
-      "start_date": "2018-03-12",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6941231-A76DE1B9-6364-4484-9D28-E5796DC57EE8",
       "person_id": "Q6941231",
       "organization_id": "Q2571392",
@@ -6405,24 +5497,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q7398422-11CDBD7B-19FD-43B2-8D99-382795628DEA",
       "person_id": "Q7398422",
       "organization_id": "Q2571392",
-      "role_superclass_code": "Q15686806",
-      "role_superclass": {
-        "lang:en": "senator",
-        "lang:ur": "سینیٹر"
-      },
-      "role_code": "Q20081441",
-      "role": {
-        "lang:en": "Senator",
-        "lang:ur": "سینٹر"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7403854-901C488D-17AE-43AB-BA8E-F2373EB763AD",
-      "person_id": "Q7403854",
-      "on_behalf_of_id": "Q7125678",
-      "organization_id": "Q2571392",
-      "area_id": "Q58781026",
-      "start_date": "2015-03-12",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:en": "senator",
