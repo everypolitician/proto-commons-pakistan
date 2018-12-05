@@ -11,5 +11,141 @@
     "name_columns": {
       "lang:en": "NAME_EN"
     }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q15058985",
+    "associations": [
+      {
+        "comment": "chief minister of balochistan",
+        "position_item_id": "Q3695530"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:ba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q15058985",
+    "associations": [
+      {
+        "comment": "chief minister of sindh",
+        "position_item_id": "Q28169441"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:sd",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q15058985",
+    "associations": [
+      {
+        "comment": "chief minister of punjab",
+        "position_item_id": "Q1837955"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:pb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q270496",
+    "associations": [
+      {
+        "comment": "chief minister of gilgit-baltistan",
+        "position_item_id": "Q8135012"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/administrative-territory:gb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q270496",
+    "associations": [
+      {
+        "comment": "mayor of islamabad",
+        "position_item_id": "Q28172635"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/boundary:is",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q270496",
+    "associations": [
+      {
+        "comment": "governor",
+        "position_item_id": "Q132050"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/tribal-region:ta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q270496",
+    "associations": [
+      {
+        "comment": "prime minister of azad kashmir",
+        "position_item_id": "Q25548295"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/administrative-territory:jk",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q15058985",
+    "associations": [
+      {
+        "comment": "chief minister of khyber pakhtunkhwa",
+        "position_item_id": "Q5096852"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:kp",
+      "column": "MS_FB"
+    }
   }
 ]
