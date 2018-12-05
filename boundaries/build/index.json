@@ -1,3 +1,15 @@
 [
-
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q3624078",
+    "associations": [
+      {
+        "comment": "prime minister of pakistan",
+        "position_item_id": "Q735575"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    }
+  }
 ]
