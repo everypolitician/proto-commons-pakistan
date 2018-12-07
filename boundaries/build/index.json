@@ -292,5 +292,107 @@
       "match": "country:pk/boundary:is",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q59147678",
+    "associations": [
+      {
+        "comment": "member of provincial assembly of the balochistan",
+        "position_item_id": "Q58873596"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:ba",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q59147846",
+    "associations": [
+      {
+        "comment": "member of the provincial assembly of sindh",
+        "position_item_id": "Q51876984"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:sd",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q59147545",
+    "associations": [
+      {
+        "comment": "member of the provincial assembly of the punjab",
+        "position_item_id": "Q55808168"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:pb",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q58781643",
+    "associations": [
+      {
+        "comment": "member of the gilgit-baltistan legislative assembly",
+        "position_item_id": "Q58873760"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/administrative-territory:gb",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q59147908",
+    "associations": [
+      {
+        "comment": "member of the azad jammu & kashmir legislative assembly (mla)",
+        "position_item_id": "Q58873603"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/administrative-territory:jk",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "reserved-seats-provincial-assemblies",
+    "area_type_wikidata_item_id": "Q59147732",
+    "associations": [
+      {
+        "comment": "member of provincial assembly of the khyber pakhtunkhwa",
+        "position_item_id": "Q58873753"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/province:kp",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
