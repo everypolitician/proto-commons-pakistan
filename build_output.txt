@@ -1141,14 +1141,3 @@ WARNING: the district PP-152 Lahore-IX (Q59207483) wasn't found in the boundary 
 WARNING: the district PP-181 Kasur-VIII (Q59207521) wasn't found in the boundary data for position Member of the Provincial Assembly of the Punjab (Q55808168)
 WARNING: the district PP-180 Kasur-VII (Q59207520) wasn't found in the boundary data for position Member of the Provincial Assembly of the Punjab (Q55808168)
 WARNING: the district PP-148 Lahore-V (Q59207479) wasn't found in the boundary data for position Member of the Provincial Assembly of the Punjab (Q55808168)
-WARNING: Position Chief Minister of Gilgit-Baltistan (Q8135012) not in boundary associated_wikidata_positions
-WARNING: Position Prime Minister of Azad Kashmir (Q25548295) not in boundary associated_wikidata_positions
-WARNING: Position Chief Minister of Balochistan (Q3695530) not in boundary associated_wikidata_positions
-WARNING: Position Chief Minister of Khyber Pakhtunkhwa (Q5096852) not in boundary associated_wikidata_positions
-WARNING: the district Khyber Pakhtunkhwa (Q183314) wasn't found in the boundary data for position Chief Minister of Khyber Pakhtunkhwa (Q5096852)
-WARNING: Position Chief Minister of Punjab (Q1837955) not in boundary associated_wikidata_positions
-WARNING: the district Punjab (Q4478) wasn't found in the boundary data for position Chief Minister of Punjab (Q1837955)
-WARNING: the district Punjab (Q4478) wasn't found in the boundary data for position Chief Minister of Punjab (Q1837955)
-WARNING: the district Punjab (Q4478) wasn't found in the boundary data for position Chief Minister of Punjab (Q1837955)
-WARNING: the district Punjab (Q4478) wasn't found in the boundary data for position Chief Minister of Punjab (Q1837955)
-WARNING: Position Chief Minister of Sindh (Q28169441) not in boundary associated_wikidata_positions
