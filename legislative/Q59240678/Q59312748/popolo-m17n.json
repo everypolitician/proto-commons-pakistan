@@ -1,6 +1,165 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Salma Zehra",
+        "lang:ur": "سلمہ زہرہ"
+      },
+      "id": "Q59626743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626743"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tayyabia Aziz Chochan",
+        "lang:ur": "طیبہ عزیز چوہان"
+      },
+      "id": "Q59626745",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626745"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zahida Khatoon Qureshi",
+        "lang:ur": "زاہدہ خاتون قریشی"
+      },
+      "id": "Q59626746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626746"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samina Sarwar",
+        "lang:ur": "سمینہ سرور"
+      },
+      "id": "Q59626748",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626748"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalid Bilal Sikhani",
+        "lang:ur": "خالد بلال سکھانی"
+      },
+      "id": "Q59626749",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626749"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sheikh Muhammad Imran Hameed Qureshi",
+        "lang:ur": "شیخ محمد عمران حمید قریشی"
+      },
+      "id": "Q59626750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarmad Saleem",
+        "lang:ur": "سرمد سلیم"
+      },
+      "id": "Q59626751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Muhammad Imran",
+        "lang:ur": "سید محمد عمران"
+      },
+      "id": "Q59626753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626753"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hafiz Ahmad Hassan Shahid",
+        "lang:ur": "حافظ احمد حسن شاہد"
+      },
+      "id": "Q59626754",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626754"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saleem Ilyas",
+        "lang:ur": "سلیم الیاس"
+      },
+      "id": "Q59626759",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626759"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +185,145 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626743-ECEBE0CB-FA47-47BB-B124-3AFD70FD8B2B",
+      "person_id": "Q59626743",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626745-D8A85D88-AD05-4DD1-812E-AE32C3F195A6",
+      "person_id": "Q59626745",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626746-1399382F-59D8-444F-B49D-FB1507242320",
+      "person_id": "Q59626746",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626748-04A442F4-3B53-4D61-93D2-B13CBB8C7F73",
+      "person_id": "Q59626748",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626749-350C9B19-129F-4CCD-970F-F1BBAC8A133A",
+      "person_id": "Q59626749",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626750-44ABE893-D54F-4D03-B0C8-F7113090451E",
+      "person_id": "Q59626750",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626751-DEB4D590-258A-4215-A5EF-6A38CEE468D5",
+      "person_id": "Q59626751",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626753-85B90A96-78D9-4ED2-9FF8-5A3358B76B49",
+      "person_id": "Q59626753",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626754-DEFB374F-D2AC-4AE8-BF74-85C6219E267E",
+      "person_id": "Q59626754",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626759-F375D8E4-29EA-44E9-A160-B513F350750A",
+      "person_id": "Q59626759",
+      "organization_id": "Q59240678",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241668",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Dera Ghazi Khan"
+      }
+    }
   ]
 }

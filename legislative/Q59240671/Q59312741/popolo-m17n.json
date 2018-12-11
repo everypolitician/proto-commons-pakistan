@@ -1,6 +1,165 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Samina Ghulam Muhammad",
+        "lang:ur": "ثمینہ غلام محمد"
+      },
+      "id": "Q59626420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626420"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalida Parveen",
+        "lang:ur": "خالدہ پروین"
+      },
+      "id": "Q59626421",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626421"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Tahira Yaseen",
+        "lang:ur": "ڈاکٹر طاہرہ یاسین"
+      },
+      "id": "Q59626422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626422"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shehnaz Ashraf",
+        "lang:ur": "شہناز اشرف"
+      },
+      "id": "Q59626423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626423"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nasreen Ashraf",
+        "lang:ur": "نصرین اشرف"
+      },
+      "id": "Q59626424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Muhammad Yamin",
+        "lang:ur": "میاں محمد یامین"
+      },
+      "id": "Q59626426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626426"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saeed Ahmed Khan Niazi",
+        "lang:ur": "سعید احمد خان نیازی"
+      },
+      "id": "Q59626427",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Atif Khan",
+        "lang:ur": "عاطف خان"
+      },
+      "id": "Q59626429",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626429"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarmad Talal",
+        "lang:ur": "سرمد طلال"
+      },
+      "id": "Q59626431",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626431"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Javed Masih",
+        "lang:ur": "جاوید مسیح"
+      },
+      "id": "Q59626432",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626432"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +185,145 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626420-44502823-FDB1-4C46-B20F-40075A5A0591",
+      "person_id": "Q59626420",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626421-B2E01773-1FA8-4432-AD03-A42D6391909D",
+      "person_id": "Q59626421",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626422-A9DA178D-3C71-4DCF-A42D-88D004A5D9E5",
+      "person_id": "Q59626422",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626423-17E3C575-B6F7-41C2-B440-438705897FB2",
+      "person_id": "Q59626423",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626424-2262059F-6724-461A-9A3A-A8E209FF88F0",
+      "person_id": "Q59626424",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626426-686C00EF-C0A1-4D5F-A9CD-F5451AF699A3",
+      "person_id": "Q59626426",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626427-85C68E6E-7D36-4C02-A3DA-C5CD9B485B0F",
+      "person_id": "Q59626427",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626429-8A31F424-9B45-4F12-A1EE-4BBA4ECF1CDE",
+      "person_id": "Q59626429",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626431-85A1FEE5-06CF-4BDF-AD97-E6B589B6C6BD",
+      "person_id": "Q59626431",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626432-F5A03143-B860-4EB8-B9B7-7005F7A6D774",
+      "person_id": "Q59626432",
+      "organization_id": "Q59240671",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241660",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sargodha"
+      }
+    }
   ]
 }

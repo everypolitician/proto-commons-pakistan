@@ -2,6 +2,54 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Hafiz Hafeez ur Rehman",
+        "lang:ur": "حافظ حفیظ الرحمان"
+      },
+      "id": "Q20724398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20724398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fida Muhammad Nashad",
+        "lang:ur": "فدا محمد ناشاد"
+      },
+      "id": "Q57585456",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57585456"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jafferullah Khan",
+        "lang:ur": "جعفراللہ خان"
+      },
+      "id": "Q59309197",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Mohammad Iqbal",
         "lang:ur": "ڈاکٹر محمد اقبال"
       },
@@ -10,6 +58,38 @@
         {
           "scheme": "wikidata",
           "identifier": "Q59309198"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Javed Hussain",
+        "lang:ur": "جاوید حسین"
+      },
+      "id": "Q59309200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rizwan Ali",
+        "lang:ur": "رضوان علی"
+      },
+      "id": "Q59309201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309201"
         }
       ],
       "links": [
@@ -50,6 +130,182 @@
     },
     {
       "name": {
+        "lang:en": "Imtiaz Haider Khan",
+        "lang:ur": "امتیاز حیدر خان"
+      },
+      "id": "Q59309204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309204"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohammad Sikandar Ali",
+        "lang:ur": "محمد سکندر علی"
+      },
+      "id": "Q59309205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309205"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Iqbal Hassan",
+        "lang:ur": "اقبال حسن"
+      },
+      "id": "Q59309206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309206"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Nadeem",
+        "lang:ur": "عمران ندیم"
+      },
+      "id": "Q59309210",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309210"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Farman Ali",
+        "lang:ur": "فرمان علی"
+      },
+      "id": "Q59309211",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309211"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Barkat Jamil",
+        "lang:ur": "برکت جمیل"
+      },
+      "id": "Q59309212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shah Baig",
+        "lang:ur": "شاہ بیگ"
+      },
+      "id": "Q59309213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Janbaz Khan",
+        "lang:ur": "جانباز خان"
+      },
+      "id": "Q59309214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309214"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haji Haider Khan",
+        "lang:ur": "حاجی حیدر خان"
+      },
+      "id": "Q59309215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309215"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Wakeel",
+        "lang:ur": "محمد وکیل"
+      },
+      "id": "Q59309217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nawaz Khan Naji",
+        "lang:ur": "نواز خان نجی"
+      },
+      "id": "Q59309219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Fida Khan",
         "lang:ur": "فدا خان"
       },
@@ -58,6 +314,54 @@
         {
           "scheme": "wikidata",
           "identifier": "Q59309220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jahanzeb Khan",
+        "lang:ur": "جہانزیب خان"
+      },
+      "id": "Q59309224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309224"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ibrahim Sanai",
+        "lang:ur": "محمد ابراہیم سنائی"
+      },
+      "id": "Q59309226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghulam Hussain",
+        "lang:ur": "غلام حسین"
+      },
+      "id": "Q59309227",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309227"
         }
       ],
       "links": [
@@ -82,6 +386,70 @@
     },
     {
       "name": {
+        "lang:en": "Maj (R) Mohammad Amin",
+        "lang:ur": "میجر(ر)محمد امین"
+      },
+      "id": "Q59309233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309233"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Capt (R) Mohammad Shafi",
+        "lang:ur": "کپٹن(ر)محمد شفیع"
+      },
+      "id": "Q59309234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309234"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shireen Akhtar",
+        "lang:ur": "شرین اختر"
+      },
+      "id": "Q59309235",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309235"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nasreen Bano",
+        "lang:ur": "نصرین بانو"
+      },
+      "id": "Q59309237",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309237"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Rani Atiqa Ghazanfar",
         "lang:ur": "رانی عتیقہ غصنفر"
       },
@@ -90,6 +458,38 @@
         {
           "scheme": "wikidata",
           "identifier": "Q59309242"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sobia Jabeen Muqadam",
+        "lang:ur": "ثوبیہ جبین مقدم"
+      },
+      "id": "Q59309243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309243"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bibi Salima",
+        "lang:ur": "بی بی سلیمہ"
+      },
+      "id": "Q59309244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59309244"
         }
       ],
       "links": [
@@ -134,6 +534,89 @@
     },
     {
       "name": {
+        "lang:en": "Jamiat Ulema-e-Islam",
+        "lang:ur": "جمیعت علمائے اسلام"
+      },
+      "id": "Q13211655",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13211655"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Majlis Wahdat-e-Muslimeen",
+        "lang:ur": "مجلس وحدت مسلمین"
+      },
+      "id": "Q15711639",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15711639"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Balawaristan National Front"
+      },
+      "id": "Q4076239",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4076239"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party Parliamentarians",
+        "lang:ur": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+      },
+      "id": "Q7125678",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125678"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Tehrik-e-Jafaria",
         "lang:ur": "تحریک جعفریہ"
       },
@@ -166,11 +649,96 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q20724398-BBA4B4BC-97D1-49B7-94D7-9198A23FE728",
+      "person_id": "Q20724398",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207193",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57585456-34E44C9A-1B66-420C-BA64-E95A4EE59799",
+      "person_id": "Q57585456",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207205",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309197-BA26AD74-C2ED-482B-A890-4410FC2B20AF",
+      "person_id": "Q59309197",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207192",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q59309198-F30DCAC2-CBD9-4683-8B62-BE9131F10BF8",
       "person_id": "Q59309198",
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q17053564",
       "area_id": "Q59207195",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309200-B4720D77-FDED-4704-8D07-EB5EF70241E3",
+      "person_id": "Q59309200",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207196",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309201-348246EB-CB6A-4B7F-A510-E73FE841727D",
+      "person_id": "Q59309201",
+      "on_behalf_of_id": "Q15711639",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207200",
       "start_date": "2015-06-25",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -217,11 +785,249 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q59309204-DADABCFD-A5DD-428D-B131-DB62560D6463",
+      "person_id": "Q59309204",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207204",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309205-CCE9406A-0DB8-489E-B4EE-B8815DADF831",
+      "person_id": "Q59309205",
+      "on_behalf_of_id": "Q7694916",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207206",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309206-6EA7D327-AF90-40B5-BE4E-CBA8A0EDBB21",
+      "person_id": "Q59309206",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207207",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309210-46D1BF9A-3D0E-4947-83B8-1FFBD67EA6E3",
+      "person_id": "Q59309210",
+      "on_behalf_of_id": "Q7125678",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207209",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309211-36C6D021-4F9E-4BE8-B49E-2CD2E6E627E0",
+      "person_id": "Q59309211",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207210",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309212-D4CD9053-C49D-449A-93BB-00A6C48925CE",
+      "person_id": "Q59309212",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207212",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309213-28466B5A-8BBD-41A7-9EF5-69B84E021E90",
+      "person_id": "Q59309213",
+      "on_behalf_of_id": "Q13211655",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207214",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309214-1A4990BE-E5AE-4E47-8A54-3F9F781305E5",
+      "person_id": "Q59309214",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207216",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309215-524D086B-99C7-4186-8F05-1D2F889A1FBE",
+      "person_id": "Q59309215",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207217",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309217-CF9DE201-00FE-4685-B79F-3680F8BBEE13",
+      "person_id": "Q59309217",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207218",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309219-4F22B71C-E0E7-4FD6-807C-62BAC1E01946",
+      "person_id": "Q59309219",
+      "on_behalf_of_id": "Q4076239",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207219",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q59309220-CA1E093D-7783-490B-BD3C-FF3731827B69",
       "person_id": "Q59309220",
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q17053564",
       "area_id": "Q59207220",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309224-2C11CE2F-55A7-4FEB-BA65-2F4E1E5F6D5D",
+      "person_id": "Q59309224",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207222",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309226-3BB68E40-9673-41FB-B872-2D65F5324FAD",
+      "person_id": "Q59309226",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207223",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309227-460B67A4-E11C-4ADC-B03D-749CF9E2AFCF",
+      "person_id": "Q59309227",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59207226",
       "start_date": "2015-06-25",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -251,9 +1057,111 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q59309233-4204CC1E-364F-4029-86AD-165034AF83BA",
+      "person_id": "Q59309233",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210886",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309234-80F9E0F6-2023-4F44-B0F8-A1F7FEBE5C33",
+      "person_id": "Q59309234",
+      "on_behalf_of_id": "Q7694916",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210886",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309235-3D6239E5-BFCB-4915-9C39-081E21321515",
+      "person_id": "Q59309235",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210889",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309237-23F5AB9D-F997-4716-A21A-E751714BF530",
+      "person_id": "Q59309237",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210889",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q59309242-413CBD73-B2EE-4E6A-A118-52E9B1D8FFCA",
       "person_id": "Q59309242",
       "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210889",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309243-9849C2DC-B042-4F5D-8563-EE1A692BC2CA",
+      "person_id": "Q59309243",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q17053564",
+      "area_id": "Q59210889",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q58873760",
+      "role": {
+        "lang:en": "Member of the Gilgit-Baltistan Legislative Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59309244-F2901384-C40B-49E5-967D-1F64D1D3195C",
+      "person_id": "Q59309244",
+      "on_behalf_of_id": "Q15711639",
       "organization_id": "Q17053564",
       "area_id": "Q59210889",
       "start_date": "2015-06-25",

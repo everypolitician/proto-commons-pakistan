@@ -1,6 +1,1285 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Ijaz Rajwana",
+        "lang:ur": "اعجاز رجوانہ"
+      },
+      "id": "Q59602134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602134"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asim Kalro",
+        "lang:ur": "عاصم کلرو"
+      },
+      "id": "Q59602135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602135"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zarar Khan",
+        "lang:ur": "ضرار خان"
+      },
+      "id": "Q59602136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rao Mazhar-ul-Islam",
+        "lang:ur": "راو مظہر الاسلام"
+      },
+      "id": "Q59602137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Qaisar Mahmood Gujar",
+        "lang:ur": "قیصر محمود گجر"
+      },
+      "id": "Q59602138",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602138"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sh. Fiaz Ahmad",
+        "lang:ur": "فیاض احمد"
+      },
+      "id": "Q59602139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akbar Anaari",
+        "lang:ur": "اکبر انصاری"
+      },
+      "id": "Q59602140",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602140"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhamamd Nadeen",
+        "lang:ur": "محمد ندیم"
+      },
+      "id": "Q59602142",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602142"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Amjad Ali",
+        "lang:ur": "رانا امجد علی"
+      },
+      "id": "Q59602143",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602143"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Arif",
+        "lang:ur": "رانا عارف"
+      },
+      "id": "Q59602145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mahmood Ahmad Qureshi",
+        "lang:ur": "محمود احمد قریشی"
+      },
+      "id": "Q59602147",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602147"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Babar Shah",
+        "lang:ur": "بابر شاہ"
+      },
+      "id": "Q59602150",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602150"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rafiq Ahmad",
+        "lang:ur": "رفیق احمد"
+      },
+      "id": "Q59602152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602152"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Hamid Arain",
+        "lang:ur": "چودھری حامد آرائیں/ باؤ عبدالمجید"
+      },
+      "id": "Q59602155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602155"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amjad Ansari",
+        "lang:ur": "امجد انصاری"
+      },
+      "id": "Q59602156",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602156"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shakeel Sakhawat Ansari",
+        "lang:ur": "شکیل سخاوت انصاری"
+      },
+      "id": "Q59602157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602157"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aseed Iqbal Ansari",
+        "lang:ur": "اسید اقبال انصاری"
+      },
+      "id": "Q59602158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602158"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Arshad",
+        "lang:ur": "عمران ارشد"
+      },
+      "id": "Q59602159",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602159"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tahir Abbas",
+        "lang:ur": "طاہر عباس"
+      },
+      "id": "Q59602161",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602161"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalil Ansari",
+        "lang:ur": "خلیل انصاری"
+      },
+      "id": "Q59602162",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602162"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Rasheed",
+        "lang:ur": "عمران رشید"
+      },
+      "id": "Q59602163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Aslam Dogar",
+        "lang:ur": "چودھری اسلم ڈوگر"
+      },
+      "id": "Q59602164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saeed Ansari",
+        "lang:ur": "سعید انصاری"
+      },
+      "id": "Q59602166",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602166"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Siddiq Ansari",
+        "lang:ur": "صدیق انصاری"
+      },
+      "id": "Q59602167",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602167"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khawaja Suleman Siddiqui",
+        "lang:ur": "خواجہ سلیمان صدیقی"
+      },
+      "id": "Q59602168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602168"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Naeem Ahmad",
+        "lang:ur": "رانا نعیم احمد"
+      },
+      "id": "Q59602170",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602170"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Qaswar Bhatti",
+        "lang:ur": "قصور بھٹی"
+      },
+      "id": "Q59602171",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602171"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zahid Adnan Guddoo",
+        "lang:ur": "زاہد عدنان گڈو"
+      },
+      "id": "Q59602174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adnan Dogar",
+        "lang:ur": "عدنان ڈوگر"
+      },
+      "id": "Q59602175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602175"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudhry Ejaz Fakahr",
+        "lang:ur": "چودھری اعجاز فخر"
+      },
+      "id": "Q59602176",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602176"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jaleel Khan Babar",
+        "lang:ur": "جلیل خان بابر"
+      },
+      "id": "Q59602177",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602177"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saleem ullah Khan",
+        "lang:ur": "سلیم اللہ خان"
+      },
+      "id": "Q59602178",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602178"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Risalat Sherwani",
+        "lang:ur": "رسالت شنواری"
+      },
+      "id": "Q59602179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602179"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rehmat Ali Rehmani",
+        "lang:ur": "رحمت علی رحمانی"
+      },
+      "id": "Q59602180",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602180"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sajid Nawaz",
+        "lang:ur": "ساجد نواز"
+      },
+      "id": "Q59602181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602181"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Munawar Ali Qureshi",
+        "lang:ur": "منور علی قریشی"
+      },
+      "id": "Q59602182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602182"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shabbir Ansari",
+        "lang:ur": "شبیر انصاری"
+      },
+      "id": "Q59602185",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602185"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Abbas",
+        "lang:ur": "محمد عباس"
+      },
+      "id": "Q59602186",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602186"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Nasir",
+        "lang:ur": "ملک ناصر"
+      },
+      "id": "Q59602187",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602187"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zahoor Bhutta",
+        "lang:ur": "ظہور بھٹہ"
+      },
+      "id": "Q59602188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602188"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Iftikhar Akhtar",
+        "lang:ur": "افتخار اختر"
+      },
+      "id": "Q59602189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602189"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Latif",
+        "lang:ur": "ملک لطیف"
+      },
+      "id": "Q59602190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tahir Qureshi",
+        "lang:ur": "طاہر قریشی"
+      },
+      "id": "Q59602191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602191"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghulam Shabbir",
+        "lang:ur": "غلام شبیر"
+      },
+      "id": "Q59602192",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602192"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tufail Ishaq",
+        "lang:ur": "طفیل اسحاق"
+      },
+      "id": "Q59602193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Ashraf Taj",
+        "lang:ur": "رانا اشرف تاج"
+      },
+      "id": "Q59602194",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602194"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarfaraz Baig",
+        "lang:ur": "سرفراز بیگ"
+      },
+      "id": "Q59602195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naveed Arain",
+        "lang:ur": "نوید آرائیں"
+      },
+      "id": "Q59602197",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602197"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Sajjad",
+        "lang:ur": "رانا سجاد"
+      },
+      "id": "Q59602198",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602198"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sardar Ejaz",
+        "lang:ur": "سردار اعجاز"
+      },
+      "id": "Q59602200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zahid Bashir",
+        "lang:ur": "زاہد بشیر"
+      },
+      "id": "Q59602201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akhtar Alam Qureshi",
+        "lang:ur": "اختر عالم قریشی"
+      },
+      "id": "Q59602202",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602202"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Munawwar Ihsan Qureshi",
+        "lang:ur": "منور احسان قریشی"
+      },
+      "id": "Q59602203",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602203"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Akbar Lal",
+        "lang:ur": "اکبر لال"
+      },
+      "id": "Q59602204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602204"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Raheem",
+        "lang:ur": "عبد الرحیم"
+      },
+      "id": "Q59602206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602206"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Azhar Chawan",
+        "lang:ur": "اظہر چوان"
+      },
+      "id": "Q59602207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarwar Ansari",
+        "lang:ur": "سرور انصاری"
+      },
+      "id": "Q59602208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Bukhsh",
+        "lang:ur": "محمد بخش"
+      },
+      "id": "Q59602211",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602211"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sahkeel Babar",
+        "lang:ur": "شکیل بابر"
+      },
+      "id": "Q59602212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muzaffar Yaseen",
+        "lang:ur": "مظفر یاسین"
+      },
+      "id": "Q59602213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asima Ishaq",
+        "lang:ur": "عاصمہ اسحاق"
+      },
+      "id": "Q59602215",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602215"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarwat Mehmood",
+        "lang:ur": "ثروت محمود"
+      },
+      "id": "Q59602216",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602216"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saeeda Naseem",
+        "lang:ur": "سعیدہ نسیم"
+      },
+      "id": "Q59602217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Qurban Fatima",
+        "lang:ur": "قربان فاطمہ"
+      },
+      "id": "Q59602219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehnaz Aslam",
+        "lang:ur": "مہناز اسلم"
+      },
+      "id": "Q59602221",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602221"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nadia",
+        "lang:ur": "نادیہ"
+      },
+      "id": "Q59602222",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602222"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nargis Majeed",
+        "lang:ur": "نرگس مجید"
+      },
+      "id": "Q59602223",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602223"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naseem Jameel",
+        "lang:ur": "نسیم جمیل"
+      },
+      "id": "Q59602224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602224"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Afshan Rasheed",
+        "lang:ur": "افشن رشید"
+      },
+      "id": "Q59602225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tehseen Javed",
+        "lang:ur": "تحسین جاوید"
+      },
+      "id": "Q59602226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602226"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hina Shahid",
+        "lang:ur": "حنا شاہد"
+      },
+      "id": "Q59602227",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602227"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rubina Shaheen",
+        "lang:ur": "روبینہ شاہین"
+      },
+      "id": "Q59602228",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602228"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fahmeeda Ahmad",
+        "lang:ur": "فہیمہ احمد"
+      },
+      "id": "Q59602229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Wahid",
+        "lang:ur": "عبدالواحد"
+      },
+      "id": "Q59602230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602230"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Bilal Khan",
+        "lang:ur": "محمد بلال خان"
+      },
+      "id": "Q59602231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Rizwan Ali",
+        "lang:ur": "محمد رضوان علی"
+      },
+      "id": "Q59602232",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602232"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jahanzeb",
+        "lang:ur": "جہانزیب"
+      },
+      "id": "Q59602233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602233"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shahbaz Nazim",
+        "lang:ur": "شہباز ناظم"
+      },
+      "id": "Q59602236",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602236"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shaukat Masih",
+        "lang:ur": "شوکت مسیح"
+      },
+      "id": "Q59602237",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602237"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saqib Dil Awaiz",
+        "lang:ur": "ثافب دل نواز"
+      },
+      "id": "Q59602238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59602238"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +1305,1125 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602134-6720A655-0E79-40C5-AE67-1B9CE726BE1D",
+      "person_id": "Q59602134",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602135-EB83106E-9121-466F-8465-780C429542D4",
+      "person_id": "Q59602135",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602136-DFF42B26-5282-46F9-B7EB-BF59E586DAE8",
+      "person_id": "Q59602136",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602137-BBE397C5-3EF8-4AA8-8C94-055FC5032C2A",
+      "person_id": "Q59602137",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602138-5EA1C2D3-99D0-4F4A-A2E5-DD38D35A604A",
+      "person_id": "Q59602138",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602139-4F1029AA-F70A-42AD-98A5-FA33555A312D",
+      "person_id": "Q59602139",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602140-8A39DECE-4B7A-4744-9E73-61824C1F95DB",
+      "person_id": "Q59602140",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602142-50096DE6-9D13-4284-AFED-D600D7F5EE87",
+      "person_id": "Q59602142",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602143-40E691BB-B53E-45FE-99A2-D74DFAA298A4",
+      "person_id": "Q59602143",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602145-C88977A8-DE13-4C62-B7E1-7DD2A0FCA687",
+      "person_id": "Q59602145",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602147-981EAE0B-DA02-4125-B768-3D83F190B0CC",
+      "person_id": "Q59602147",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602150-404D5B52-5E37-4D40-988D-ADDC40B3A959",
+      "person_id": "Q59602150",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602152-DA22922D-611C-4F4B-B422-6BDB6DF18AE6",
+      "person_id": "Q59602152",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602155-C706C555-0D47-4ACA-9579-4060130C4161",
+      "person_id": "Q59602155",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602156-506E562E-6B4B-4C75-8000-CB3624BAC54F",
+      "person_id": "Q59602156",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602157-EF0C95DD-B9F1-4A79-947F-0497C5CB5F65",
+      "person_id": "Q59602157",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602158-E9E8B100-09DF-44DB-8953-4BEBE17DB836",
+      "person_id": "Q59602158",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602159-8004E3D2-6308-477E-9400-F21EFDDF44D6",
+      "person_id": "Q59602159",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602161-8E9F9798-810B-4F7C-80D3-44641EB32B53",
+      "person_id": "Q59602161",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602162-BFD8C2F9-2931-4CDF-B7A6-CAF709D97AA1",
+      "person_id": "Q59602162",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602163-9A2C902C-58CB-4AD2-AC36-1B913D9E5287",
+      "person_id": "Q59602163",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602164-69D02858-48EE-4411-BEBD-77428BBBF53F",
+      "person_id": "Q59602164",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602166-D73E2F27-2DCD-4A37-8ED1-C24A7DC56AE3",
+      "person_id": "Q59602166",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602167-43D9E99F-0120-4776-854C-C2226F0D669E",
+      "person_id": "Q59602167",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602168-93B9FB8E-6E1F-45C5-9196-8AA824DFB4BC",
+      "person_id": "Q59602168",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602170-0B8E8EDD-7D5F-4778-BE8E-159EFE5A8AC8",
+      "person_id": "Q59602170",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602171-9D982466-F032-4AE3-8EE7-839F9724B454",
+      "person_id": "Q59602171",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602174-D83398F9-8B97-43E6-BC36-CF7817153297",
+      "person_id": "Q59602174",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602175-0E9A323B-3803-4D74-86EB-4461A84AC261",
+      "person_id": "Q59602175",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602176-6304AD40-20D9-4ABA-9B56-A4EC4B56E5AD",
+      "person_id": "Q59602176",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602177-6CC9AAD4-4B67-4378-9E2B-A039F1D39E3F",
+      "person_id": "Q59602177",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602178-E2700A63-62CE-42F8-A9EF-1287C264464D",
+      "person_id": "Q59602178",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602179-095635D1-E22C-4E9E-9462-63C24340D7CB",
+      "person_id": "Q59602179",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602180-CA753D3F-1FB4-429C-AB8E-0D93D45ADA28",
+      "person_id": "Q59602180",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602181-C6D6993B-1981-43CA-B323-C4484F95FC68",
+      "person_id": "Q59602181",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602182-08B931F5-5A88-4CD4-8336-88813E7A6BD1",
+      "person_id": "Q59602182",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602185-9A7C939C-0E51-45BF-9B1C-6904373873D1",
+      "person_id": "Q59602185",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602186-9D074783-6B4D-4A7B-8E1F-C35566A878F2",
+      "person_id": "Q59602186",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602187-74F6115B-BF59-4E07-B1F0-C43FB2740AF9",
+      "person_id": "Q59602187",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602188-C7132147-A7C6-419D-AA18-8486C840B2B6",
+      "person_id": "Q59602188",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602189-F7307A4B-AB02-4DD2-877F-94D69094A932",
+      "person_id": "Q59602189",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602190-459D8708-BCCC-4E5C-BD5C-B4B4E8A97A3B",
+      "person_id": "Q59602190",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602191-841DB9AB-A5FF-441C-B27D-ADD1A980D005",
+      "person_id": "Q59602191",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602192-ECFB06FF-0843-475F-8A2E-37CB8331A8A4",
+      "person_id": "Q59602192",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602193-9E88D60B-8E77-44F1-BCFA-A873682BC066",
+      "person_id": "Q59602193",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602194-C88FBA57-80F3-4737-8636-C6D541E5D164",
+      "person_id": "Q59602194",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602195-C1237276-AD72-4C26-B7EF-EB42F66EFB00",
+      "person_id": "Q59602195",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602197-94B98F1D-E38E-4D7F-9CB9-E547B78F8976",
+      "person_id": "Q59602197",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602198-9035523A-4606-4D65-8D0F-5A5CFF124500",
+      "person_id": "Q59602198",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602200-79BE3B66-01C4-4EA1-B614-AB351AF29A2B",
+      "person_id": "Q59602200",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602201-6386ABDF-5111-433A-880E-10E44350F919",
+      "person_id": "Q59602201",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602202-CEB46907-83FF-4211-94BA-53F99A3AC3FE",
+      "person_id": "Q59602202",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602203-8A06BE67-3161-4D5B-8DE9-6A50F0A4BDEE",
+      "person_id": "Q59602203",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602204-4F02AE6A-DDE5-480B-A188-E65B13DE461C",
+      "person_id": "Q59602204",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602206-BAE243FF-F856-4366-B3F7-BF296B64E1F4",
+      "person_id": "Q59602206",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602207-A82CC593-D4DB-4FA2-A9EC-BFB7C17ED21E",
+      "person_id": "Q59602207",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602208-4E6F47D9-D0DE-466A-A5A8-E7386C0962C2",
+      "person_id": "Q59602208",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602211-1D1220AC-40FE-4038-BD7D-4DD16140889D",
+      "person_id": "Q59602211",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602212-DF648A3E-4FF1-497B-91E3-FA8D97F3796E",
+      "person_id": "Q59602212",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602213-C1AA832F-AAB0-444D-BF57-A4AB2B8A89EB",
+      "person_id": "Q59602213",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602215-2D81F5BF-C39D-4EEE-9FC7-BF39106F7292",
+      "person_id": "Q59602215",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602216-4FDDFF80-8778-4D34-81E4-31F8B9C86841",
+      "person_id": "Q59602216",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602217-4011201B-F7F2-4293-9064-F719443DAE36",
+      "person_id": "Q59602217",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602219-2D523313-C096-4AAE-B7D8-15271EA93FE8",
+      "person_id": "Q59602219",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602221-8177971E-BE91-4CF8-8A0E-C55F28667BCF",
+      "person_id": "Q59602221",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602222-C41D7D74-541B-4AD4-B052-D569BA3C8AE3",
+      "person_id": "Q59602222",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602223-00C3D207-5950-4042-B401-7D5EAD8573A1",
+      "person_id": "Q59602223",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602224-22594494-6D2C-4413-8F45-8DB69510957B",
+      "person_id": "Q59602224",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602225-509A1976-092A-4A92-9C01-0466252C25CE",
+      "person_id": "Q59602225",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602226-0B5C5F42-0280-4B5E-98B6-676616DA4399",
+      "person_id": "Q59602226",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602227-885DC9C9-ECF7-4A8F-AB78-9DD8F51DCFB7",
+      "person_id": "Q59602227",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602228-D27024BA-8BAD-4141-9CE9-69C8D7811441",
+      "person_id": "Q59602228",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602229-510B4813-F02E-41EF-9AC9-76153DD1DF6C",
+      "person_id": "Q59602229",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602230-30B8375F-8B8B-46CF-9CDB-5647E38E5B43",
+      "person_id": "Q59602230",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602231-030874A1-3F36-42BA-902B-3F45039B83BA",
+      "person_id": "Q59602231",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602232-39EEDC31-3673-49D6-92FA-98C625F3B356",
+      "person_id": "Q59602232",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602233-80B97A4E-3C02-4BA4-95E9-B358AA792912",
+      "person_id": "Q59602233",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602236-99E44978-79C5-43A6-83B2-AC10FA55F4BC",
+      "person_id": "Q59602236",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602237-E53CB9D1-8E2C-4D88-B722-6E8B56CD1CE0",
+      "person_id": "Q59602237",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59602238-5888D51E-EE08-44BA-A572-F149147F94AB",
+      "person_id": "Q59602238",
+      "organization_id": "Q58873622",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873779",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Multan"
+      }
+    }
   ]
 }

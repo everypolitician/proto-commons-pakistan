@@ -1,6 +1,341 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Shazia Jamshaid",
+        "lang:ur": "شازیہ جمشید"
+      },
+      "id": "Q59545736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545736"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samra Butt",
+        "lang:ur": "ثمرہ بٹ"
+      },
+      "id": "Q59545738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shugufta Parveen",
+        "lang:ur": "شگفتہ پروین"
+      },
+      "id": "Q59545739",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545739"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sobia Asghar",
+        "lang:ur": "ثوبیہ اصغر"
+      },
+      "id": "Q59545741",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545741"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nasreen Ishfaq",
+        "lang:ur": "نصرین اشفاق"
+      },
+      "id": "Q59545743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545743"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nisha Zahid",
+        "lang:ur": "نشاء زاہد"
+      },
+      "id": "Q59545745",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545745"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Habiba Asim",
+        "lang:ur": "حبیبہ عاصم"
+      },
+      "id": "Q59545746",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545746"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rani Yasmeen",
+        "lang:ur": "رانی یاسمین"
+      },
+      "id": "Q59545749",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545749"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naveeda Yousaf",
+        "lang:ur": "نویدہ یوسف"
+      },
+      "id": "Q59545750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Neelum Tufail",
+        "lang:ur": "نیلم طفیل"
+      },
+      "id": "Q59545751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Begum Zahida Ehsan Chaudary",
+        "lang:ur": "بیگم زاہدہ احسان چودھری"
+      },
+      "id": "Q59545752",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545752"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sughran Begum",
+        "lang:ur": "صغرن بیگم"
+      },
+      "id": "Q59545754",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545754"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Humaira Kashif",
+        "lang:ur": "حمیرہ کاشف"
+      },
+      "id": "Q59545755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545755"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rukhsar Musaddiq",
+        "lang:ur": "رخسار مصدق"
+      },
+      "id": "Q59545757",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545757"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shahida Iqbal",
+        "lang:ur": "شاہدہ اقبال"
+      },
+      "id": "Q59545759",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545759"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Muhammad Waseem",
+        "lang:ur": "سید محمد وسیم"
+      },
+      "id": "Q59545762",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545762"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kaleem Ahmad Bhathi",
+        "lang:ur": "کلیم احمد بھٹی"
+      },
+      "id": "Q59545765",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545765"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Babar Bashir Butt",
+        "lang:ur": "بابر بشیر بٹ"
+      },
+      "id": "Q59545766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545766"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ashraf Gill",
+        "lang:ur": "اشرف گل"
+      },
+      "id": "Q59545769",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545769"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Atif Aziz",
+        "lang:ur": "عاطف عزیز"
+      },
+      "id": "Q59545771",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545771"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yousaf Kamal",
+        "lang:ur": "یوسف کمال"
+      },
+      "id": "Q59545774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59545774"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +361,299 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545736-5484EBA2-64DC-4C48-86B6-1F286B3A37A6",
+      "person_id": "Q59545736",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545738-E91C4B51-408D-4F7F-BEFC-3CB3739812F8",
+      "person_id": "Q59545738",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545739-D588840C-893B-44CE-9C2C-F0C120E52F7D",
+      "person_id": "Q59545739",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545741-2EB8CBEC-DA3C-4CF1-A26A-0547AE5F4A43",
+      "person_id": "Q59545741",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545743-AF44891C-4CC0-4BE1-BDFF-2FBB24950F5F",
+      "person_id": "Q59545743",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545745-E60B50D5-3C85-438A-9E19-D518B397CDAC",
+      "person_id": "Q59545745",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545746-2608E7C2-7C35-4AEB-9787-8BFBB9435B72",
+      "person_id": "Q59545746",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545749-37DE8B14-D6AC-440D-80A7-6FF9BD392318",
+      "person_id": "Q59545749",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545750-62760476-C690-4827-ADDE-03D92345AA4A",
+      "person_id": "Q59545750",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545751-A96D5A6F-5CE7-45C6-88CB-DA562C9C8178",
+      "person_id": "Q59545751",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545752-CE701FE6-D594-45B6-A4DE-0230B4C1D836",
+      "person_id": "Q59545752",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545754-73DF3817-EE16-42E4-B5F3-316D12421C25",
+      "person_id": "Q59545754",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545755-C9A56C94-39D6-47DF-AE46-EEC6E58A79EB",
+      "person_id": "Q59545755",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545757-5840DFC9-34B2-4CCC-BDD1-CE53FD013F2B",
+      "person_id": "Q59545757",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545759-7FAFC9E1-957C-4BA2-9663-4F35D55739A2",
+      "person_id": "Q59545759",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545762-386413CF-F7F8-4689-801A-C406A63D7ABA",
+      "person_id": "Q59545762",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545765-622B1668-95C1-49EC-BC8B-6824D8A1AB6C",
+      "person_id": "Q59545765",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545766-00B57D9A-A4B8-49FC-A946-1D03CC7F4A0F",
+      "person_id": "Q59545766",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545769-C87C97E0-F647-4E46-B09B-5FB27FF7A29F",
+      "person_id": "Q59545769",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545771-E7B42FD6-EFCE-4BF4-B58E-E55B6C6B5663",
+      "person_id": "Q59545771",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59545774-F01D776B-6EF6-4FAC-A621-BE9F91E1DA36",
+      "person_id": "Q59545774",
+      "organization_id": "Q58873615",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873772",
+      "role": {
+        "lang:en": "Member of the Municipal Corporation Gujranwala"
+      }
+    }
   ]
 }

@@ -1,6 +1,181 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Balqees Bano Rani",
+        "lang:ur": "بلقیس بانو رانی"
+      },
+      "id": "Q59626823",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626823"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tehreem Altaf Rana Advocate",
+        "lang:ur": "تہریم الطاف رانا ایڈوکیٹ"
+      },
+      "id": "Q59626824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seema Jabeen",
+        "lang:ur": "سیمہ جبین"
+      },
+      "id": "Q59626825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shauqia Shabaz",
+        "lang:ur": "شوقیہ شہباز"
+      },
+      "id": "Q59626826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nusrat Jamshaid",
+        "lang:ur": "نصرت جمشید"
+      },
+      "id": "Q59626828",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626828"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mian Abdul Shakoor",
+        "lang:ur": "میاں عبدالشکور"
+      },
+      "id": "Q59626829",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626829"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shamas Ahmed",
+        "lang:ur": "شماس احمد"
+      },
+      "id": "Q59626830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626830"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Waleed",
+        "lang:ur": "محمد ولید"
+      },
+      "id": "Q59626831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dr. Abbas Ali Khokhar",
+        "lang:ur": "ڈاکٹر عباس علی کوکھر"
+      },
+      "id": "Q59626833",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626833"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohsin Naeem",
+        "lang:ur": "محسن نعیم"
+      },
+      "id": "Q59626840",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626840"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vijay Kamar",
+        "lang:ur": "وجے کمر"
+      },
+      "id": "Q59626841",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59626841"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +201,159 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626823-A44CBC2C-4B1F-481F-8FA5-13AE189D0A21",
+      "person_id": "Q59626823",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626824-FF7DCC20-459A-41EF-9A6C-FC583E3D88EA",
+      "person_id": "Q59626824",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626825-7F68C758-616A-4C7E-A073-467E8613DDA9",
+      "person_id": "Q59626825",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626826-CE0010B8-CB0D-4351-B8B2-B353C9500F68",
+      "person_id": "Q59626826",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626828-2B661EDD-5A41-4937-9DFA-5CF012BB39BE",
+      "person_id": "Q59626828",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626829-C68385C8-6EAF-4A6B-A4B5-F3CDF349DB12",
+      "person_id": "Q59626829",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626830-EA2A94B2-52A8-45DD-8177-EE323A4FCD82",
+      "person_id": "Q59626830",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626831-374B08ED-583F-4BDA-AB93-C2D1E9072BBE",
+      "person_id": "Q59626831",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626833-7478CAC1-3FC5-4EE6-AD7B-BEA11D15A8A6",
+      "person_id": "Q59626833",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626840-28450A9B-238F-4D05-B857-B80BF3BB447B",
+      "person_id": "Q59626840",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59626841-F5B3FBE7-4CD8-48C5-9B63-8645C80B103C",
+      "person_id": "Q59626841",
+      "organization_id": "Q59240672",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241661",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Sialkot"
+      }
+    }
   ]
 }

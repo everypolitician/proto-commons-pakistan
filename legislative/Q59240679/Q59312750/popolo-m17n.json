@@ -1,6 +1,149 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Seema Azeem Janjua",
+        "lang:ur": "سیما عظیم جنجوعہ"
+      },
+      "id": "Q59627040",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627040"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fozia Akram Bhatti",
+        "lang:ur": "فوزیہ اکرم بھٹی"
+      },
+      "id": "Q59627042",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627042"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nighat Iqbal Qureshi Advocate",
+        "lang:ur": "نگہت اقبال قریشی ایڈوکیٹ"
+      },
+      "id": "Q59627043",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627043"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mirza Zeeshan Baig",
+        "lang:ur": "مرزا ذیشان بیگ"
+      },
+      "id": "Q59627044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehr Muhammad Shoaib",
+        "lang:ur": "مہر محمد شعیب"
+      },
+      "id": "Q59627045",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627045"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Sultan Mehmood Warraich",
+        "lang:ur": "محمد سلطان محمود وڑائچ"
+      },
+      "id": "Q59627047",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ch. Bilal Hussain",
+        "lang:ur": "چودھری بلال حسین"
+      },
+      "id": "Q59627048",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627048"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Altamash Hameed Butt",
+        "lang:ur": "التمش حمید بٹ"
+      },
+      "id": "Q59627049",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627049"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Emanuel Masih",
+        "lang:ur": "ایمانل مسیح"
+      },
+      "id": "Q59627051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59627051"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +169,131 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627040-7208BF9A-DE64-4C92-8EA8-6065B09140C9",
+      "person_id": "Q59627040",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627042-C6943477-75A6-4FEF-B94E-67BFDF290740",
+      "person_id": "Q59627042",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627043-F716A3E3-05CC-44BE-A30D-FC3B452CC3EB",
+      "person_id": "Q59627043",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627044-A9ECA273-7859-4877-B786-377139948FAB",
+      "person_id": "Q59627044",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627045-A7F4E748-332A-4D6E-ACB4-470EB97E1873",
+      "person_id": "Q59627045",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627047-B9ED4D90-F8E3-4441-A00B-29E499BCAAA3",
+      "person_id": "Q59627047",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627048-7E82405C-7ACE-446B-A8F2-3E15580BA8FB",
+      "person_id": "Q59627048",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627049-D1934F22-6B46-41DC-9173-1274914A8656",
+      "person_id": "Q59627049",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59627051-74FCF62B-5F79-4D46-9494-60F371BB58B6",
+      "person_id": "Q59627051",
+      "organization_id": "Q59240679",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q59241672",
+      "role": {
+        "lang:en": "councillor in the municipal corporation of Gujrat"
+      }
+    }
   ]
 }

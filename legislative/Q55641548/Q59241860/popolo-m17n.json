@@ -1,6 +1,277 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Robina Shafique",
+        "lang:ur": "روبینہ شفیق"
+      },
+      "id": "Q59547467",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547467"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zubaida Begum",
+        "lang:ur": "زبیدہ بیگم"
+      },
+      "id": "Q59547474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547474"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sajida Athar",
+        "lang:ur": "ساجدہ اطہر"
+      },
+      "id": "Q59547476",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547476"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Saliqa Begum",
+        "lang:ur": "سالقہ بیگم"
+      },
+      "id": "Q59547479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shazia Rizwan",
+        "lang:ur": "شازیہ رضوان"
+      },
+      "id": "Q59547482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547482"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shaheen Akhtar",
+        "lang:ur": "شاہین اختر"
+      },
+      "id": "Q59547485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehfooz Akhtar",
+        "lang:ur": "محفوظ اختر"
+      },
+      "id": "Q59547489",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547489"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nadia Kalsoom",
+        "lang:ur": "نادیہ کلثوم"
+      },
+      "id": "Q59547493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Noreen Kausar Advocate",
+        "lang:ur": "نورین کوثر ایڈوکیٹ"
+      },
+      "id": "Q59547496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547496"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yasmeen Tahir Malik",
+        "lang:ur": "یاسمین طاہر ملک"
+      },
+      "id": "Q59547500",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547500"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudary Khurram Razaq",
+        "lang:ur": "چودھری خرم رزاق"
+      },
+      "id": "Q59547502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Hafeez Awan",
+        "lang:ur": "محمد حفیظ اعوان"
+      },
+      "id": "Q59547505",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547505"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Faizan Ali",
+        "lang:ur": "سید فیضان علی"
+      },
+      "id": "Q59547508",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547508"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Javed Anwar Mughal",
+        "lang:ur": "جاوید انور مغل"
+      },
+      "id": "Q59547511",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547511"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chaudary Afzal Mehmod Advocate",
+        "lang:ur": "چودھری افضل محمود ایڈوکیٹ"
+      },
+      "id": "Q59547514",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547514"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rafique Gill",
+        "lang:ur": "رفیق گل"
+      },
+      "id": "Q59547516",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547516"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samuel Mal",
+        "lang:ur": "سیمیول مل"
+      },
+      "id": "Q59547519",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59547519"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +297,243 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547467-5FAFCC5F-E13F-4944-A098-95926ADC5BF2",
+      "person_id": "Q59547467",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547474-37137D02-E7AA-453B-AD79-BC1CF7149FCF",
+      "person_id": "Q59547474",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547476-878B362C-08B9-461D-A9EA-E38EFC7284B4",
+      "person_id": "Q59547476",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547479-1611EF2F-6785-4B60-A508-4F67C6247201",
+      "person_id": "Q59547479",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547482-76555371-549A-40D3-B3E7-482B62E055F2",
+      "person_id": "Q59547482",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547485-3C03E878-28F3-4A53-8504-317FE0A1BF82",
+      "person_id": "Q59547485",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547489-761C6360-6772-47B4-A9A9-F0B429EFB99B",
+      "person_id": "Q59547489",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547493-0CD8380F-F6E0-4319-96EA-183DB82D232D",
+      "person_id": "Q59547493",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547496-81C9FC13-C1A4-4499-88AB-4935C2D17104",
+      "person_id": "Q59547496",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547500-C4556114-2A33-4B56-8A30-98481099AF61",
+      "person_id": "Q59547500",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547502-216F5F55-8F96-41C2-A1BD-1445FF969EE0",
+      "person_id": "Q59547502",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547505-67ED59F6-B567-4EC2-A2D8-93B792926E85",
+      "person_id": "Q59547505",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547508-4C6AF4AB-B124-4CDA-9E8E-F1256A762F4E",
+      "person_id": "Q59547508",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547511-F1EE06C1-A12E-4560-8A06-E55EC219A54D",
+      "person_id": "Q59547511",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547514-8D81A03D-C84E-4577-BD0C-B027F80DE0FA",
+      "person_id": "Q59547514",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547516-E5D82865-367E-4A0D-8739-4DC282285386",
+      "person_id": "Q59547516",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59547519-AAACFAD6-8C78-464B-9982-8E36270ED052",
+      "person_id": "Q59547519",
+      "organization_id": "Q55641548",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873770",
+      "role": {
+        "lang:en": "Member of the Rawalpindi Municipal Corporation"
+      }
+    }
   ]
 }

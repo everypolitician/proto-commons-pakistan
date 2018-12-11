@@ -1,6 +1,1237 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Hassan Ali",
+        "lang:ur": "حسن علی"
+      },
+      "id": "Q59601271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601271"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Usman",
+        "lang:ur": "محمد عثمان"
+      },
+      "id": "Q59601272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Manthar Ali Jatoi",
+        "lang:ur": "منتھر علی جتوئی"
+      },
+      "id": "Q59601273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601273"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rana Rashid Hameed",
+        "lang:ur": "رانا راشد حمید"
+      },
+      "id": "Q59601274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Haq",
+        "lang:ur": "عبدالحق"
+      },
+      "id": "Q59601275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mujahid Hussain",
+        "lang:ur": "مجاہد حسین"
+      },
+      "id": "Q59601277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601277"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Haroon",
+        "lang:ur": "محمد ہارون"
+      },
+      "id": "Q59601278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hasnain Hikmat",
+        "lang:ur": "حسنین حکمت"
+      },
+      "id": "Q59601279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arshaid Malik",
+        "lang:ur": "ارشد ملک"
+      },
+      "id": "Q59601280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shaikh Muhammad",
+        "lang:ur": "شیخ محمد"
+      },
+      "id": "Q59601284",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601284"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Athar",
+        "lang:ur": "سید اطہر"
+      },
+      "id": "Q59601285",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601285"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mir Balach Ali Khan",
+        "lang:ur": "میر بالاچ علی خان"
+      },
+      "id": "Q59601288",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601288"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sirajuddin Rajput",
+        "lang:ur": "سراج الددین راجپوت"
+      },
+      "id": "Q59601289",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601289"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kamaluddin",
+        "lang:ur": "کمال الددین"
+      },
+      "id": "Q59601290",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601290"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Haq Qureshi",
+        "lang:ur": "عبد الحق قریشی"
+      },
+      "id": "Q59601291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abid Hussain Sandh",
+        "lang:ur": "عابد حسین سندھ"
+      },
+      "id": "Q59601293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Salah u Din",
+        "lang:ur": "صلاح الددین"
+      },
+      "id": "Q59601295",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601295"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rashid Anjum",
+        "lang:ur": "راشد انجم"
+      },
+      "id": "Q59601298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Faisal",
+        "lang:ur": "محمد فیصل"
+      },
+      "id": "Q59601300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Majid Khan",
+        "lang:ur": "ماجد خان"
+      },
+      "id": "Q59601302",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601302"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Faisal Farooq",
+        "lang:ur": "فیصل فاروق"
+      },
+      "id": "Q59601303",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601303"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Ashfaque Ali",
+        "lang:ur": "سید اشفاق علی"
+      },
+      "id": "Q59601306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zafar Ali Rajput",
+        "lang:ur": "ظفر علی راجپوت"
+      },
+      "id": "Q59601308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jameel Ahmed",
+        "lang:ur": "جمیل احمد"
+      },
+      "id": "Q59601312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Irfan",
+        "lang:ur": "محمد عرفان"
+      },
+      "id": "Q59601313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nadeem Siraj",
+        "lang:ur": "ندیم سراج"
+      },
+      "id": "Q59601314",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601314"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zubairuddin Siddiqui",
+        "lang:ur": "زبیر الددین صدیقی"
+      },
+      "id": "Q59601317",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601317"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kashif Ahmed",
+        "lang:ur": "کاشف احمد"
+      },
+      "id": "Q59601319",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601319"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ayaz Ahmed Arain",
+        "lang:ur": "ایاز احمد آرائیں"
+      },
+      "id": "Q59601320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghulam Muhammad Qureshi",
+        "lang:ur": "غلام محمد قریشی"
+      },
+      "id": "Q59601321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zaheer Ahmed",
+        "lang:ur": "ظہیر احمد"
+      },
+      "id": "Q59601322",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Aziz",
+        "lang:ur": "عبد العزیز"
+      },
+      "id": "Q59601323",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601323"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Waseem Ahmed Qureshi",
+        "lang:ur": "مسیم احمد قریشی"
+      },
+      "id": "Q59601324",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601324"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asif",
+        "lang:ur": "آصف"
+      },
+      "id": "Q59601325",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601325"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Asif Memon",
+        "lang:ur": "محمد آصف میمن"
+      },
+      "id": "Q59601326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muahammad Farooq Qureshi",
+        "lang:ur": "محمد فاروق قریشی"
+      },
+      "id": "Q59601328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ehsan Qureshi",
+        "lang:ur": "محمداحسان قریشی"
+      },
+      "id": "Q59601329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601329"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Allah Bux Pasha",
+        "lang:ur": "اللہ بخش پاشا"
+      },
+      "id": "Q59601330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Adil",
+        "lang:ur": "محمد عادل"
+      },
+      "id": "Q59601331",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601331"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mazhar Jameel",
+        "lang:ur": "مظہر جمیل"
+      },
+      "id": "Q59601335",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601335"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Abid Noorani",
+        "lang:ur": "محمد عابد نورانی"
+      },
+      "id": "Q59601336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601336"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehboob Khan Jat",
+        "lang:ur": "محبوب خان جٹ"
+      },
+      "id": "Q59601338",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601338"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Waseem Khan",
+        "lang:ur": "وسیم خان"
+      },
+      "id": "Q59601339",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601339"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aslam Parwaiz Khan",
+        "lang:ur": "اسلم پرویز خان"
+      },
+      "id": "Q59601342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mir Zulfiqar Ali Tajpur",
+        "lang:ur": "میر ذوالفقار علی تالپور"
+      },
+      "id": "Q59601343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Raees",
+        "lang:ur": "محمد رئیس"
+      },
+      "id": "Q59601345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601345"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Hafeez Farooqi",
+        "lang:ur": "عبد الحفیظ فاروقی"
+      },
+      "id": "Q59601346",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601346"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehboob Alam Khan",
+        "lang:ur": "محبوب عالم خان"
+      },
+      "id": "Q59601378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601378"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zahid Ahmed Khan",
+        "lang:ur": "زاہد احمد خان"
+      },
+      "id": "Q59601379",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601379"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Khalid Ahmed Siddiqui",
+        "lang:ur": "خالد احمد صدیقی"
+      },
+      "id": "Q59601380",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601380"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Ahmed",
+        "lang:ur": "عمران احمد"
+      },
+      "id": "Q59601381",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601381"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Shakeel",
+        "lang:ur": "محمد شکیل"
+      },
+      "id": "Q59601382",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601382"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ashraf Khan",
+        "lang:ur": "اشرف خان"
+      },
+      "id": "Q59601383",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601383"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shahzada Saleem Ahmed",
+        "lang:ur": "صاحبزادہ سلیم احمد"
+      },
+      "id": "Q59601384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Alauddin",
+        "lang:ur": "ملک علاؤالددین"
+      },
+      "id": "Q59601385",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601385"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aslam Siddique Khan",
+        "lang:ur": "اسلم صدیق خان"
+      },
+      "id": "Q59601386",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601386"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Suhail Ahmed",
+        "lang:ur": "سہیل احمد"
+      },
+      "id": "Q59601387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Adnan Baig",
+        "lang:ur": "عدنان بیگ"
+      },
+      "id": "Q59601388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Suhail Mehmud",
+        "lang:ur": "سید سہیل محمود"
+      },
+      "id": "Q59601389",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601389"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abid Khan Ghouri",
+        "lang:ur": "عابد خان غوری"
+      },
+      "id": "Q59601391",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601391"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Asif ul Hassan",
+        "lang:ur": "آصف الحسن"
+      },
+      "id": "Q59601392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601392"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Tayyab Hussain",
+        "lang:ur": "سید طیب حسین"
+      },
+      "id": "Q59601393",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601393"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Fayaz Hussain",
+        "lang:ur": "محمد فیاض حسین"
+      },
+      "id": "Q59601394",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601394"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nadeem Mazhar",
+        "lang:ur": "ندیم مظہر"
+      },
+      "id": "Q59601398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Qadeer Shaikh",
+        "lang:ur": "عبدالقدیر شیخ"
+      },
+      "id": "Q59601399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mehfooz Khan",
+        "lang:ur": "محفوظ خان"
+      },
+      "id": "Q59601401",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601401"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nawab Ali",
+        "lang:ur": "نواب علی"
+      },
+      "id": "Q59601402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Parvez Qureshi",
+        "lang:ur": "محمد پرویز قریشی"
+      },
+      "id": "Q59601403",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601403"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Iqbal Shah",
+        "lang:ur": "اقبال شاہ"
+      },
+      "id": "Q59601404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arsalan Haider Bhatti",
+        "lang:ur": "ارسلان حیدر بھٹی"
+      },
+      "id": "Q59601405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601405"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Rasheed Khan",
+        "lang:ur": "عبد الرشید خان"
+      },
+      "id": "Q59601406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601406"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malik Abdul Rasheed",
+        "lang:ur": "ملک عبد الرشید"
+      },
+      "id": "Q59601407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601407"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ashfaque Hussain Bhatti",
+        "lang:ur": "اشفاق حسین بھٹی"
+      },
+      "id": "Q59601408",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601408"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shabir Ahmed",
+        "lang:ur": "شبیر احمد"
+      },
+      "id": "Q59601409",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601409"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Siddiq",
+        "lang:ur": "محمد صدیق"
+      },
+      "id": "Q59601413",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601413"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ghulam Haider",
+        "lang:ur": "غلام حیدر"
+      },
+      "id": "Q59601414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdul Rehman",
+        "lang:ur": "عبدالرحمان"
+      },
+      "id": "Q59601415",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59601415"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -26,6 +1257,1083 @@
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601271-57929C65-1190-4CF8-80BC-233D483039D6",
+      "person_id": "Q59601271",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601272-CD399A3C-215F-4CB8-9837-253EB7A9867C",
+      "person_id": "Q59601272",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601273-0C8F61AB-6849-406B-BC05-64AAB02623A7",
+      "person_id": "Q59601273",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601274-C6C5FED8-C697-4258-B34A-0A2B3B723665",
+      "person_id": "Q59601274",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601275-D7E3E994-4F7F-4C5E-8FD3-0364A950A124",
+      "person_id": "Q59601275",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601277-A9F0BC5F-BE82-4EC4-9921-4EDDAED93924",
+      "person_id": "Q59601277",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601278-99624BFC-9DD4-4EA0-B7EF-49B8E0134A02",
+      "person_id": "Q59601278",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601279-A2F4F809-8311-4D2A-B751-1C1A56AE9489",
+      "person_id": "Q59601279",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601280-67638B1E-79D9-4F7D-9C0C-31B12A07778F",
+      "person_id": "Q59601280",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601284-FAAAC999-7314-4EC4-87A6-7B1798271795",
+      "person_id": "Q59601284",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601285-CD8D8553-6C4E-4600-BF0A-08FB0245EAE0",
+      "person_id": "Q59601285",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601288-2D289CC8-ED0F-4016-A0C1-C69A2B0B3F39",
+      "person_id": "Q59601288",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601289-D4316DD8-1AFC-4CFE-9A95-70B72A81ACBF",
+      "person_id": "Q59601289",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601290-58EE6AD9-DB8E-4D7E-AFDE-41DA6E397BD1",
+      "person_id": "Q59601290",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601291-68D1BAB2-8AAE-4F50-B289-D87E5F7D61CD",
+      "person_id": "Q59601291",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601293-0D479EE7-B259-414A-A9D1-03AEDC69EC03",
+      "person_id": "Q59601293",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601295-1BA8A640-7ADB-441D-B2B0-4DC67644A452",
+      "person_id": "Q59601295",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601298-C7B087D4-6F0C-4C3A-A70F-B1AE05A9DAB0",
+      "person_id": "Q59601298",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601300-4CCCED67-CEE6-4493-9800-0006E70EFE0B",
+      "person_id": "Q59601300",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601302-0BA372E1-7137-4165-80FB-63C5C9532B84",
+      "person_id": "Q59601302",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601303-4C17C30A-3910-45F9-BF23-2E1ED7F84FB5",
+      "person_id": "Q59601303",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601306-717952CD-D007-4930-9268-68AC627D0D9C",
+      "person_id": "Q59601306",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601308-4A11BA3C-CF71-420A-8DC6-5580BBF7E41C",
+      "person_id": "Q59601308",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601312-4BAA07EB-3BAB-4BE3-8EA6-55BA9920CBC3",
+      "person_id": "Q59601312",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601313-5189107F-EA22-4ABC-9B0B-A6FF4B40882B",
+      "person_id": "Q59601313",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601314-09D40564-C0BC-4215-869A-91F5C699D05E",
+      "person_id": "Q59601314",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601317-466EC297-F88E-4D42-84A3-132B2E05350F",
+      "person_id": "Q59601317",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601319-5D1E50C6-F53F-4FE0-8DD6-7254A05BF65E",
+      "person_id": "Q59601319",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601320-D5008579-A82B-455B-ADD8-E1915594A7E7",
+      "person_id": "Q59601320",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601321-280BAC7F-9733-464E-AE3F-95289D1B79D3",
+      "person_id": "Q59601321",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601322-42F3C4C5-B81A-4BC8-87F8-CFD7FB1297D9",
+      "person_id": "Q59601322",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601323-A9FB79FC-4DF2-44EB-A893-25BEB6817763",
+      "person_id": "Q59601323",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601324-26192147-7630-4CDB-9DB3-2C4FC03F10EF",
+      "person_id": "Q59601324",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601325-5236EB7A-46FF-4FA3-AA07-B5D7BDDBDC9B",
+      "person_id": "Q59601325",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601326-A2E0AE02-128F-487D-9B75-8A0E921D3601",
+      "person_id": "Q59601326",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601328-46900CA3-1F02-4641-A8C5-138019E06C5C",
+      "person_id": "Q59601328",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601329-77429729-B6BA-46A5-BD63-B78F9CA7B707",
+      "person_id": "Q59601329",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601330-9D84ECD3-B299-4024-B82F-5988EDE060A1",
+      "person_id": "Q59601330",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601331-48B676AC-62E6-44F9-A0D8-BE5B248C3E03",
+      "person_id": "Q59601331",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601335-883422E5-331F-4F25-9BD5-8B175A9C1DD2",
+      "person_id": "Q59601335",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601336-AE8861BC-7839-43DE-8E1F-8C004AD79D77",
+      "person_id": "Q59601336",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601338-0FF7297E-F8C3-40F5-9C6A-718404B8FA8E",
+      "person_id": "Q59601338",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601339-5C94AE84-7888-4473-BEF9-547CA40012B9",
+      "person_id": "Q59601339",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601342-73EB7F40-6955-46E7-A79D-B64A69D98DEE",
+      "person_id": "Q59601342",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601343-47DD9259-A7E4-47FE-AEFF-F5A81C11C76F",
+      "person_id": "Q59601343",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601345-B993E4E1-9A10-4760-8BCA-393E83E51CDB",
+      "person_id": "Q59601345",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601346-0B96A692-9C70-4BCC-9418-FA6897491B8F",
+      "person_id": "Q59601346",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601378-424E35B0-90A4-4C9B-BAE4-FE5F400180FD",
+      "person_id": "Q59601378",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601379-D9D1CD00-4EAE-4920-8DE6-6FEA9E134089",
+      "person_id": "Q59601379",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601380-44D3B1C4-460F-4D96-A9E5-978CFB6DA1D2",
+      "person_id": "Q59601380",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601381-42634C6E-7547-494D-BF4C-0B4169E21D14",
+      "person_id": "Q59601381",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601382-73A42E6D-4149-4A04-8F98-01261D365F84",
+      "person_id": "Q59601382",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601383-0D179B66-184E-4E83-8A16-500C4CE2EC95",
+      "person_id": "Q59601383",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601384-8BFC462B-16C8-41C6-8D25-21A1C7BFB6FC",
+      "person_id": "Q59601384",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601385-8B79840C-15B1-4CBB-88CF-F7433A4379ED",
+      "person_id": "Q59601385",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601386-1078EA10-5465-42C6-832C-57ED1B116D0B",
+      "person_id": "Q59601386",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601387-DC19788D-4C43-470E-8ADF-466C6398991E",
+      "person_id": "Q59601387",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601388-215D6EE7-C2CB-4B29-A1D2-E9986B1E6D5B",
+      "person_id": "Q59601388",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601389-5679089C-F71F-400A-BBB5-B60416B29591",
+      "person_id": "Q59601389",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601391-57D27AE0-38F4-471D-B964-87F53C05181A",
+      "person_id": "Q59601391",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601392-2C0754B0-FB09-4571-8AD1-A5AFF4E36AC9",
+      "person_id": "Q59601392",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601393-13C56CDB-AADC-4B86-A08E-BFB218DCC930",
+      "person_id": "Q59601393",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601394-1F6717F3-DE5D-4A34-A57F-942B9A093D30",
+      "person_id": "Q59601394",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601398-8A6D3020-3345-4CA9-9447-1C14431C027A",
+      "person_id": "Q59601398",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601399-7DE28403-3937-4D31-A3E0-CC476B6320B2",
+      "person_id": "Q59601399",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601401-13019D91-EAB4-409D-99B0-855C58E33280",
+      "person_id": "Q59601401",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601402-40FA4CD9-EEBF-48DE-89DF-C4639113DAE7",
+      "person_id": "Q59601402",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601403-D331966C-59A5-484F-8A44-90C8FB311C3A",
+      "person_id": "Q59601403",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601404-2086DCEF-F034-4413-9751-58FE506524CE",
+      "person_id": "Q59601404",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601405-E6461A72-81FC-46A5-985F-13E716422045",
+      "person_id": "Q59601405",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601406-095AC933-055A-4ECA-9502-1A926CCCF1C6",
+      "person_id": "Q59601406",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601407-AF5BFB09-E961-4896-8935-8A6A4F16B6A1",
+      "person_id": "Q59601407",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601408-B7D13A9E-2B4A-4E1D-9197-94AF12656C04",
+      "person_id": "Q59601408",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601409-9E7BB658-6720-4F5B-94CC-420BB8542A35",
+      "person_id": "Q59601409",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601413-AEBC5F9B-5C6E-46CE-93ED-AA14A3211379",
+      "person_id": "Q59601413",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601414-5A02796A-6B5C-4DCC-98A6-B37C90598225",
+      "person_id": "Q59601414",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59601415-2D414710-F38E-40EB-BC70-2F9429FE44AB",
+      "person_id": "Q59601415",
+      "organization_id": "Q28223529",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873780",
+      "role": {
+        "lang:en": "Member of the Hyderabad Municipal Corporation"
+      }
+    }
   ]
 }
