@@ -1184,7 +1184,1226 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q163239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q163239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3695530"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Balochistan"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q59207228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-1 Musakhail-cum-Sherani"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-2 Zhob"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-3 Killa Saifullah"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-4 Loralai"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-5 Duki"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-6 Ziarat-Cum-Harnai"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-7 Sibi-cum-Lehri"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-8 Barkhan"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-9 Kohlu"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-10 Dera Bugti"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-11 Nasirabad-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-12 Nasirabad-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-13 Jaffarabad-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-14 Jaffarabad-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-15 Sohbat Pur"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-16 Jhall Magsi-cum-Kachhi"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-17 Kachhi-cum-Mastung"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-18 Pishin-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-19 Pishin-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-20 Pishin-III"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-21 Killa Abdullah-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-22 Killa Abdullah-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-23 Killa Abdullah-III"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-24 Quetta-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-25 Quetta-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-26 Quetta-III"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-27 Quetta-IV"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-28 Quetta-V"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-29 Quetta-VI"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-30 Quetta-VII"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-31 Quetta-VIII"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-32 Quetta-IX"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-33 Nushki"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-34 Chagai"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-35 Mustung"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-36 Shaheed Sikandarabad"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-37 Kalat"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-38 Khuzdar-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-39 Khuzdar-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-40 Khuzdar-III"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-41 Washuk"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-42 Kharan"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-43 Panjgur"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-44 Awaran-Cum-Pajgur"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-45 Kech-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-46 Kech-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-47 Kech-III"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-48 Kech-IV"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-49 Lasbela-I"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-50 Lasbela-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59207300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-constituency:pb-51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "PB-51 Gawadar"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

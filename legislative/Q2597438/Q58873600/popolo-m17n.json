@@ -1994,7 +1994,2330 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q17069395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17069395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-16 Lower Dir-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q183314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q183314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5096852"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Khyber Pakhtunkhwa"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q19600820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-66 Peshawar-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-11 Upper Dir-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-12 Upper Dir-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-13 Lower Dir-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-14 Lower Dir-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-15 Lower Dir-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-17 Lower Dir-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-23 Shangla-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-30 Mansehra-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-97 Dera Ismail Khan-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q19600912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19600912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-1 Chitral"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-2 Swat-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-3 Swat-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk--4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-4 Swat-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-5 Swat-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-6 Swat-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-7 Swat-VI"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-8 Swat-VII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-9 Swat-VIII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-10 Upper Dir-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-18 Malakand Protected Area-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-19 Malakand Protected Area-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-20 Buner-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-21 Buner-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-22 Buner-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-24 Shangla-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-25 Kohistan"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-26 Kohistan Lower"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-27 Kolai Palas Kohistan"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-28 Battagram-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-29 Battagram-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-31 Mansehra-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-32 Mansehra-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-33 Mansehra-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-34 Mansehra-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-35 Tor Ghar"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-36 Abbottabad-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-37 Abbottabad-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-38 Abbottabad-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-39 Abbottabad-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-40 Haripur-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-41 Haripur-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-42 Haripur-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-43 Swabi-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-44 Swabi-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk--45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-45 Swabi-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-46 Swabi-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-47 Swabi-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-48 Mardan-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-49 Mardan-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-50 Mardan-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-51 Mardan-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-52 Mardan-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-53 Mardan-VI"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-54 Mardan-VII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-55 Mardan-VIII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-56 Charsadda-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-57 Charsadda-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk--58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-58 Charsadda-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-59 Charsadda-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-60 Charsadda-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-61 Nowshera-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-62 Nowshera-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-63 Nowshera-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-64 Nowshera-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-65 Nowshera-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-67 Peshawar-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-68 Peshawar-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-69 Peshawar-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-70 Peshawar-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-71 Peshawar-VI"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-72 Peshawar-VII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-73 Peshawar-VIII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-74 Peshawar-IX"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-75 Peshawar-X"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-76 Peshawar-XI"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-77 Peshawar-XII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-78 Peshawar-XIII"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-79 Peshawar-XIV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-80 Kohat-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-81 Kohat-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-82 Kohat-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-83 Hangu-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-84 Hangu-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-85 Karak-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-86 Karak-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-87 Bannu-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-88 Bannu-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-89 Bannu-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk--90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-90 Bannu-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-91 Lakki Marwat-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-92 Lakki Marwat-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-93 Lakki Marwat-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-94 Tank"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-95 Dera Ismail Khan-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-96 Dera Ismail Khan-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-98 Dera Ismail Khan-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-constituency:pk-99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "PK-99 Dera Ismail Khan-V"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

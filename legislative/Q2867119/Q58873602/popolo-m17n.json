@@ -2792,7 +2792,3043 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q37211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28169441"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q59207671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-1 Jacobabad-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-2 Jacobabad-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-3 Jacobabad-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-4 Kashmore-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-5 Kashmore-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-6 Kashmore-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-7 Shikarpur-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-8 Shikarpur-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-9 Shikarpur-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-10 Larkana-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-11 Larkana-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-12 Larkana-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-13 Larkana-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-14 Kamber Shahdadkot-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-15 Kamber Shahdadkot-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-16 Kamber Shahdadkot-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-17 Kamber Shahdadkot-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-18 Ghotki-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-19 Ghotki-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-20 Ghotki-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-21 Ghotki-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-22 Sukkur-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-23 Sukkur-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-24 Sukkur-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-25 Sukkur-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-26 Khairpur-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-27 Khairpur-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-28 Khairpur-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-29 Khairpur-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-30 Khairpur-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-31 Khairpur-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-32 Khairpur-VII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-33 Naushahro Feroz-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-34 Naushahro Feroz-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-35 Naushahro Feroz-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-36 Naushahro Feroz-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-37 Shaheed Benazirabadr-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-38 Shaheed Benazirabadr-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-39 Shaheed Benazirabadr-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-40 Shaheed Benazirabadr-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-41 Sanghar-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-42 Sanghar-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-43 Sanghar-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-44 Sanghar-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-45 Sanghar-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-46 Sanghar-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207730",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207730"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-47 Mirpurkhas-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-48 Mirpurkhas-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-49 Mirpurkhas-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-50 Mirpurkhas-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-51 Umerkot-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-52 Umerkot-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-53 Umerkot-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-54 Tharparkar-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-55 Tharparkar-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-56 Tharparkar-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-57 Tharparkar-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-58 Matiari-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-59 Matiari-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-60 Tando Allahyar-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-61 Tando Allahyar-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-62 Hyderabad-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-63 Hyderabad-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-64 Hyderabad-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-65 Hyderabad-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-66 Hyderabad-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-67 Hyderabad-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-68 Tando Muhammad Khan-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-69 Tando Muhammad Khan-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207765",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207765"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-70 Badin-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-71 Badin-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-72 Badin-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-73 Badin-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-74 Badin-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-75 Sujawal-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-76 Sujawal-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-77 Thatta-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-78 Thatta-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-79 Thatta-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-80 Jamshoro-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-81 Jamshoro-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-82 Jamshoro-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-83 Dadu-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-84 Dadu-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-85 Dadu-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-86 Dadu-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-87 Malir-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-88 Malir-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-89 Malir-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-90 Malir-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-91 Malir-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-92 Korangi Karachi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-93 Korangi Karachi-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-94 Korangi Karachi-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-95 Korangi Karachi-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-96 Korangi Karachi-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-97 Korangi Karachi-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-98 Korangi Karachi-VII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-99 Karachi East-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-100 Karachi East-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-101 Karachi East-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-102 Karachi East-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-103 Karachi East-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-104 Karachi East-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-105 Karachi East-VII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-106 Karachi East-VIII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-107 Karachi South-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-108 Karachi South-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-109 Karachi South-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-110 Karachi South-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-111 Karachi South-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-112 Karachi west-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-113 Karachi west-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-114 Karachi west-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-115 Karachi west-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-116 Karachi west-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-117 Karachi west-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-118 Karachi west-VII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-119 Karachi west-VIII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-120 Karachi west-IX"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-121 Karachi west-X"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-122 Karachi west-XI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-123 Karachi Central-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-124 Karachi Central-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-125 Karachi Central-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-126 Karachi Central-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-127 Karachi Central-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-128 Karachi Central-VI"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-129 Karachi Central-VII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59207856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-constituency:ps-130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "PS-130 Karachi Central-VIII"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
