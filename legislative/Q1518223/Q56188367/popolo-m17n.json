@@ -3812,7 +3812,150 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q33513308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/national-assembly-reserved-seat:minorities"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33513308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "reserved seats for minorities"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58899089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/national-assembly-reserved-seat:women-khyber-pukhtunkhwa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58899089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "reserved seats for Women in the National Assembly (Khyber Pukhtunkhwa)"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58899189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/national-assembly-reserved-seat:women-punjab"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58899189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "reserved seat for Women in the National Assembly (Punjab)"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58899207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/national-assembly-reserved-seat:women-sindh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58899207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "reserved seat for Women in National Assembly (Sindh)"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58899303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/national-assembly-reserved-seat:women-balochistan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58899303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "reserved seat for Women in the National Assembly (Balochistan)"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
