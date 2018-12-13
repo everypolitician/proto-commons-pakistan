@@ -874,7 +874,146 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q200130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q200130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q25548295"
+      ],
+      "type": {
+        "lang:en": "administrative territorial entity of Pakistan",
+        "lang:ur": "پاکستان کی انتظامی تقسیم"
+      },
+      "name": {
+        "lang:en": "Azad Jammu and Kashmir"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q59210883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-assembly-reserved-seat:j-k-nationals-abroad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "reserved seats for Jammu and Kashmir nationals residing abroad in the Azad Jammu & Kashmir legislative assembly"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59210884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-assembly-reserved-seat:technocrats"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "reserved seats for technocrats in the Azad Jammu & Kashmir legislative assembly"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59210885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-assembly-reserved-seat:ulema-community"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "reserved seats for Ulema community in the Azad Jammu & Kashmir legislative assembly"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59210887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-assembly-reserved-seat:women"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "reserved seats for women in the Azad Jammu & Kashmir legislative assembly"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
