@@ -14,6 +14,23 @@
   },
   {
     "directory": "flacs",
+    "area_type_wikidata_item_id": "Q1062177",
+    "associations": [
+      {
+        "comment": "Mayor of Islamabad",
+        "position_item_id": "Q28172635"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN"
+    },
+    "filter": {
+      "match": "country:pk/federal-territory:is",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
     "area_type_wikidata_item_id": "Q15058985",
     "associations": [
       {
