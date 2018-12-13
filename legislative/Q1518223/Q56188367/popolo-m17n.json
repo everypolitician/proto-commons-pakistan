@@ -3813,6 +3813,76 @@
   ],
   "areas": [
     {
+      "id": "Q12857272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12857272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "Constituency NA-194"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q163239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q163239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3695530"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Balochistan"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q183314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q183314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5096852"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Khyber Pakhtunkhwa"
+      },
+      "parent_id": "Q843"
+    },
+    {
       "id": "Q33513308",
       "identifiers": [
         {
@@ -3835,6 +3905,6556 @@
         "lang:en": "reserved seats for minorities"
       },
       "parent_id": "Q843"
+    },
+    {
+      "id": "Q37211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28169441"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q55624342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-128 (Lahore-VI)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-130 (Lahore-VIII)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-131 (Lahore-IX)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-132 (Lahore-X)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-134 (Lahore-XII)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-135 (Lahore-XIII)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-136 (Lahore-XIV)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-140 (Kasur-IV)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-141 (Okara-I)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-142 (Okara-II)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-143 (Okara-III)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-144 (Okara-IV)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-181 (Muzaffargarh-I)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-182 (Muzaffargarh-II)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-183 (Muzaffargarh-III)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-195 (Rajanpur-III)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55624388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-200 (Larkana-I)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q55624389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-201 (Larkana-II)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q55624392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-237 (Malir-II)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q55624393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-238 (Malir-III)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q55624395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-243 (Karachi East-II)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q55624402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-261 (Jafarabad-cum-Sohbatpur)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-262 (Pishin)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-264 (Quetta-I)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-266 (Quetta-III)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-271 (Kech)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-272 (Lasbela-cum-Gwadar)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q55624424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-37 (Tank)"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q55624426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-4 (Swat-III)"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q55624429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55624429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-87 (Hafizabad)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55641181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55641181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-139 (Kasur-III)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q55641184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55641184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-245 (Karachi East-IV)"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58400818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-56 Attock-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-152 Khanewal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-153 Khanewal-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-154 Multan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-156 Multan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-157 Multan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-172 Bahawalpur-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-177 (Rahim Yar Khan-III)"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58400833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-213 Shaheed Benazirabad-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58400844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-214 Shaheed Benazirabad-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58400846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-247 South Karachi-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58400849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-269 (Khuzdar)"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58400851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-29 Peshawar-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58400853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58400853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-31 (Peshawar-V)"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-55 Attock-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-57 Rawalpindi-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-58 Rawalpindi-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-59 Rawalpindi-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-60 Rawalpindi-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-61 Rawalpindi-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-62 Rawalpindi-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-63 Rawalpindi-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-64 Chakwal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-65 Chakwal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-66 Jehlum-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-67 Jhelum-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-68 Gujrat-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-69 Gujrat-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-70 Gujrat-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-71 Gujrat-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-72 Sialkot-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-73 Sialkot-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-74 Sialkot-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-75 Sialkot-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-76 Sialkot-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-77 Narowal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-78 Narowal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-79 Gujranwala-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-80 Gujranwala-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-81 Gujranwala-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-82 Gujranwala-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-83 Gujranwala-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-84 Gujranwala-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-85 MBD-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-86 MBD-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-88 Sargodha-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-89 Sargodha-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-90 Sargodha-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-91 Sargodha-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-92 Sargodha-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-93 Khushab-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-94 Khushab-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-95 Mianwali-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-96 Mianwali-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-97 Bhakkar-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-98 Bhakkar-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-99 Chiniot-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-100 Chiniot-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-101 Faisalabad-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-102 Faisalabad-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-103 Faisalabad-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-104 Faisalabad-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-105 Faisalabad-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-106 Faisalabad-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-107 Faisalabad-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-108 Faisalabad-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-109 Faisalabad-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-110 Faisalabad-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-111 Toba Tek Singh-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-112 Toba Tek Singh-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-113 Toba Tek Singh-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-114 Jhang-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-115 Jhang-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-116 Jhang-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-117 Nankana Sahib-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-118 Nankana Sahib-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-119 Sheikhupura-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-120 Sheikhupura-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-121 Sheikhupura-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-122 Sheikhupura-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-123 Lahore-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-124 Lahore-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-125 Lahore-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-126 Lahore-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-127 Lahore-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-129 Lahore-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-133 Lahore-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-137 Kasur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-138 Kasur-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-145 Pakpattan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-146 Pakpattan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-147 Sahiwal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-148 Sahiwal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-149 Sahiwal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-150 Khanewal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-151 Khanewal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-155 Multan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-158 Multan-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-159 Multan-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-160 Lodhran-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-161 Lodhran-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-162 Vehari-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-163 Vehari-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-164 Vehari-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-165 Vehari-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-166 Bahawalnagar-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-167 Bahawalnagar-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-168 Bahawalnagar-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-169 Bahawalnagar-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-170 Bahawalpur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-171 Bahawalpur-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-173 Bahawalpur-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-174 Bahawalpur-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-175 RYK-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-176 RYK-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-178 RYK-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-179 RYK-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-180 RYK-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-184 Muzaffargarh-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-185 Muzaffargarh-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-186 Muzafargarh-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-187 Layyah-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-188 Layyah-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-189 DG Khan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-190 DG Khan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-191 DG Khan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-192 DG Khan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/national-assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-193 Rajanpur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q58401471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-196 Jacobabad"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-197 Kashmor"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-198 Shikarpur-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-199 Shikarpur-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-202 Kambar Shahdadkot-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-203 Kambar Shahdadkot-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-204 Ghotki-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-205 Ghotki-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-206 Sukher-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-207 Sukher-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-208 Khairpur-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-209 Khairpur-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-210 Khairpur-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-211 Naushahro Feroz-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-212 Naushahro Feroz-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-215 Sangarh-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-216 Sangarh-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-217 Sangarh-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-218 Mirpur Khas-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-219 Mirpur Khas-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-220 Umarkot"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-221 Tharparkar-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-222 Tharparkar-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-223 Matiari"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-224 Tando Alahyar"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-225 Hyderabad-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-226 Hyderabad-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-227 Hyderabad-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-228 Tando Muhammad Khan"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-229 Badin-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-230 Badin-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-231 Sajawal"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-232 Thatta"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-233 Jamshoro"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-234 Dadu-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-235 Dadu-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-236 Malir-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-239 Korangi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-240 Korangi-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-241 Korangi-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-242 East Karachi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-244 East Karachi-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-246 South Karachi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-248 West Karachi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-249 West Karachi-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-250 West Karachi-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-251 West Karachi-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-252 West Karachi-V"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-253 Central Karachi-I"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-254 Central Karachi-II"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-255 Central Karachi-III"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/national-assembly-constituency:256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-256 Central Karachi-IV"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q58401661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-257 Kila Saifullah-cum-zhob-cum-Sherani"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-258 Loralai-cum-Musakhel-cum-Ziarat-cum-Dukki-cum-Harnai"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-259 Dera Bhugti-cum-Kohlu-cum-Barkhan-cum-Sibi-cum-Lehri"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-260 Nasirabad-cum-kachi-cum-Jhal Magsi"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-263 Kila Abdullah"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-265 Quetta-II"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-267 Mastung-cum-Shahhed Sikandarabad-cum-Kalat"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-268 Chaghi-cum-Noshki-cum-Kharan"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/national-assembly-constituency:270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-270 Panjgorh-cum-Washuk-cum-Awaran"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q58401697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-1 Chitral"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-2 Swat-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-3 Swat-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-5 Upper Dir"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-6 Lower Dir-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-7 Lowe Dir-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-8 Malakand"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-9 Buner"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-10 Shangla"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-11 Kohistan"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-12 Batgram"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-13 Mansehra-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-14 Mansehra Tor Ghar"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-15 Abbotabad-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-16 Abbotabad-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-17 Haripur"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-18 Swabi-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-19 Swabi-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-20 Mardan-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-21 Mardan-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-22 Mardan-III"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-23 Charsada-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-24 Charsada-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-25 Nowshehra-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-26 Nowshehra-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-27 Peshawar-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-28 Peshawar-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-30 Peshawar-IV"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-32 Kohat"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-33 Hangu"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "[[NA-34 Karak"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-35 Bannu"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-36 Lucky Marwat"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-38 DI Khan-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA-39 DI Khan-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 40 Bajaur-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 41 Bajaur-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 42 Mohmand"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 43 Khyber-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 44 Khyber-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 45 Kurram-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 46 Kurram-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 47 Orakzai"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 48 North Wazirastan"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 49 South Wazirastan-I"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/national-assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 50 South Wazirastan-II"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q58401852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/tribal-region:ta/national-assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 51 FR Tribal Areas"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q58401853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/federal-territory:is/national-assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 52 Islamabad-I"
+      },
+      "parent_id": "Q848613"
+    },
+    {
+      "id": "Q58401855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/federal-territory:is/national-assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 53 Islamabad-II"
+      },
+      "parent_id": "Q848613"
+    },
+    {
+      "id": "Q58401858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/federal-territory:is/national-assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58401858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20760546"
+      ],
+      "type": {
+        "lang:en": "constituency of the National Assembly of Pakistan",
+        "lang:ur": "پاکستان کی قومی اسمبلی کا انتخابی حلقہ"
+      },
+      "name": {
+        "lang:en": "NA 54 Islamabad-III"
+      },
+      "parent_id": "Q848613"
     },
     {
       "id": "Q58899089",
@@ -3955,6 +10575,30 @@
         "lang:en": "Islamic Republic of Pakistan"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q848613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/federal-territory:is"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q848613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28172635"
+      ],
+      "type": {
+        "lang:en": "capital region",
+        "lang:ur": "دارالحکومت علاقہ"
+      },
+      "name": {
+        "lang:en": "Islamabad Capital Territory"
+      },
+      "parent_id": "Q843"
     }
   ],
   "memberships": [
