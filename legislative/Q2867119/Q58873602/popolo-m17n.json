@@ -2610,6 +2610,22 @@
     },
     {
       "name": {
+        "lang:en": "Mumtaz Ali",
+        "lang:ur": "ممتاز علی"
+      },
+      "id": "Q59638869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59638869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Muhammad Ismail Rahu",
         "lang:ur": "محمد اسماعیل رہو"
       },
@@ -2715,6 +2731,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:ur": "آزاد"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
         }
       ]
     },
@@ -5753,6 +5783,24 @@
       "on_behalf_of_id": "Q7125678",
       "organization_id": "Q2867119",
       "area_id": "Q59207769",
+      "start_date": "2018-08-13",
+      "role_superclass_code": "Q16259300",
+      "role_superclass": {
+        "lang:en": "Member of the Provincial Assembly",
+        "lang:ur": "رکن صوبائی اسمبلی"
+      },
+      "role_code": "Q51876984",
+      "role": {
+        "lang:en": "Member of the Provincial Assembly of Sindh",
+        "lang:ur": "رکن صوبائی اسمبلی سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59638869-CC4626B6-F2DD-4692-9029-50E6F2982069",
+      "person_id": "Q59638869",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2867119",
+      "area_id": "Q59207714",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {

@@ -5849,8 +5849,9 @@
       "person_id": "Q4790529",
       "on_behalf_of_id": "Q284454",
       "organization_id": "Q1518223",
-      "area_id": "Q12857471",
+      "area_id": "Q58400846",
       "start_date": "2018-08-13",
+      "end_date": "2018-09-06",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
