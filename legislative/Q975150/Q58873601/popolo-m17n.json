@@ -5885,7 +5885,6884 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q56173967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-286"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56173967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-286 Dera Ghazi Khan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-1 Attock-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-2 Attock-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-3 Attock-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-4 Attock-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-5 Attock-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-6 Rawalpindi-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-7 Rawalpindi-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-8 Rawalpindi-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-9 Rawalpindi-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-10 Rawalpindi-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-11 Rawalpindi-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-12 Rawalpindi-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-13 Rawalpindi-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-14 Rawalpindi-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-15 Rawalpindi-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-16 Rawalpindi-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-17 Rawalpindi-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-18 Rawalpindi-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-19 Rawalpindi-XIV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-20 Rawalpindi-XV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-21 Chakwal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-22 Chakwal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-23 Chakwal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-24 Chakwal-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-25 Jhelum-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-26 Jhelum-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-27 Jhelum-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-28 Gujrat-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-29 Gujrat-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-30 Gujrat-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-31 Gujrat-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-32 Gujrat-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-33 Gujrat-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-34 Gujrat-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-35 Sialkot-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-36 Sialkot-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-37 Sialkot-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-38 Sialkot-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-39 Sialkot-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-40 Sialkot-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-41 Sialkot-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-42 Sialkot-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-43 Sialkot-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-44 Sialkot-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-45 Sialkot-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-46 Narowal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-47 Narowal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-48 Narowal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-49 Narowal-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-50 Narowal-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-51 Gujranwala-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-52 Gujranwala-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-53 Gujranwala-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-54 Gujranwala-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-55 Gujranwala-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-56 Gujranwala-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-57 Gujranwala-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-58 Gujranwala-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-59 Gujranwala-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-60 Gujranwala-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-61 Gujranwala-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-62 Gujranwala-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-63 Gujranwala-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-64 Gujranwala-XIV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-65 MandiBahauddin-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-66 MandiBahauddin-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-67 MandiBahauddin-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-68 MandiBahauddin-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-69 Hafizabad-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-70 Hafizabad-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-71 Hafizabad-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-72 Sargodha-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-73 Sargodha-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-74 Sargodha-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-75 Sargodha-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-76 Sargodha-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-77 Sargodha-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-78 Sargodha-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-79 Sargodha-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-80 Sargodha-VIX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-81 Sargodha-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-82 Khushab-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-83 Khushab-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-84 Khushab-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-85 Mianwali-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-86 Mianwali-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-87 Mianwali-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-88 Mianwali-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-89 Bhakkar-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-90 Bhakkar-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-91 Bhakkar-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-92 Bhakkar-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-93 Chiniot-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-94 Chiniot-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-95 Chiniot-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-96 Chiniot-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-97 Faisalabad-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-98 Faisalabad-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-99 Faisalabad-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-100 Faisalabad-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-101 Faisalabad-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-102 Faisalabad-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-103 Faisalabad-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-104 Faisalabad-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-105 Faisalabad-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-106 Faisalabad-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-107 Faisalabad-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-108 Faisalabad-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-109 Faisalabad-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-110 Faisalabad-XIV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-111 Faisalabad-XV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-112 Faisalabad-XVI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-113 Faisalabad-XVII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-114 Faisalabad-XVIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-115 Faisalabad-XIX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-116 Faisalabad-XX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-117 Faisalabad-XXI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-118 Toba Tek Singh-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-119 Toba Tek Singh-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-120 Toba Tek Singh-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-121 Toba Tek Singh-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-122 Toba Tek Singh-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-123 Toba Tek Singh-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-124 Jhang-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-125 Jhang-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-126 Jhang-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-127 Jhang-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-128 Jhang-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-129 Jhang-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-130 Jhang-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-131 Nankana Sahib-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-132 Nankana Sahib-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-133 Nankana Sahib-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-134 Nankana Sahib-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-135 Sheikhupura-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-136 Sheikhupura-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-137 Sheikhupura-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-138 Sheikhupura-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-139 Sheikhupura-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-140 Sheikhupura-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-141 Sheikhupura-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-142 Sheikhupura-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-143 Sheikhupura-VIX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-144 Lahore-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-145 Lahore-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-146 Lahore-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-147 Lahore-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-148 Lahore-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-149 Lahore-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-150 Lahore-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-151 Lahore-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-152 Lahore-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-153 Lahore-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-154 Lahore-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-155 Lahore-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-156 Lahore-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-157 Lahore-XIV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-158 Lahore-XV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-159 Lahore-XVI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-160 Lahore-XVII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-161 Lahore-XVIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-162 Lahore-XIX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-163 Lahore-XX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-164 Lahore-XXI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-165 Lahore-XXII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-166 Lahore-XXIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-167 Lahore-XXIV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-168 Lahore-XXV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-169 Lahore-XXVI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-170 Lahore-XXVII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-171 Lahore-XXVIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-172 Lahore-XXIX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-173 Lahore-XXX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-174 Kasur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-175 Kasur-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-176 Kasur-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-177 Kasur-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-178 Kasur-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-179 Kasur-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-180 Kasur-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-181 Kasur-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-182 Kasur-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-183 Okara-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-184 Okara-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-185 Okara-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-186 Okara-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-187 Okara-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-188 Okara-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-189 Okara-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-190 Okara-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-191 Pakpatan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-192 Pakpatan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207539",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207539"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-193 Pakpatan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-194 Pakpatan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-195 Pakpatan-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-196 Sahiwal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-197 Sahiwal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-198 Sahiwal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-199 Sahiwal-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-200 Sahiwal-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-201 Sahiwal-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-202 Sahiwal-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-203 Khanewal-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-204 Khanewal-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-205 Khanewal-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-206 Khanewal-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-207 Khanewal-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-208 Khanewal-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-209 Khanewal-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-210 Khanewal-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-211 Multan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-212 Multan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-213 Multan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-214 Multan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-215 Multan-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-216 Multan-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-217 Multan-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-218 Multan-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-219 Multan-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-220 Multan-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-221 Multan-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-222 Multan-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-223 Multan-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-224 Lodhran-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-225 Lodhran-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-226 Lodhran-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-227 Lodhran-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-228 Lodhran-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-229 Vehari-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-230 Vehari-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-231 Vehari-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-232 Vehari-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-233 Vehari-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-234 Vehari-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-235 Vehari-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-236 Vehari-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-237 Bahawalnagar-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-238 Bahawalnagar-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-239 Bahawalnagar-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-240 Bahawalnagar-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-241 Bahawalnagar-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-242 Bahawalnagar-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-243 Bahawalnagar-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-244 Bahawalnagar-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-245 Bahawalpur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-246 Bahawalpur-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-247 Bahawalpur-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-248 Bahawalpur-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-249 Bahawalpur-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-250 Bahawalpur-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-251 Bahawalpur-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-252 Bahawalpur-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-253 Bahawalpur-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-254 Bahawalpur-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-255 Rahim Yar Khan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-256 Rahim Yar Khan-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-257 Rahim Yar Khan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-258 Rahim Yar Khan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-259 Rahim Yar Khan-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-260 Rahim Yar Khan-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-261 Rahim Yar Khan-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-262 Rahim Yar Khan-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-263 Rahim Yar Khan-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-264 Rahim Yar Khan-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-265 Rahim Yar Khan-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-266 Rahim Yar Khan-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-267 Rahim Yar Khan-XIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-268 Muzaffargarh-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-269 Muzaffargarh-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-270 Muzaffargarh-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-271 Muzaffargarh-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-272 Muzaffargarh-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-273 Muzaffargarh-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-274 Muzaffargarh-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-275 Muzaffargarh-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-276 Muzaffargarh-IX"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-277 Muzaffargarh-X"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-278 Muzaffargarh-XI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-279 Muzaffargarh-XII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-280 Layyah-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-281 Layyah-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-282 Layyah-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-283 Layyah-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-284 Layyah-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-285"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-285 Dera Ghazi Khan-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-287"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-287 Dera Ghazi Khan-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-288"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-288 Dera Ghazi Khan-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-289"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-289 Dera Ghazi Khan-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-290"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-290 Dera Ghazi Khan-VI"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-291"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-291 Dera Ghazi Khan-VII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-292"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-292 Dera Ghazi Khan-VIII"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-293"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-293 Rajan Pur-I"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-294"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-294 Rajan Pur-II"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-295"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-295 Rajan Pur-III"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-296"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-296 Rajan Pur-IV"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q59207670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/provincial-constituency:pp-297"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55808168"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Punjab Province"
+      },
+      "name": {
+        "lang:en": "PP-297 Rajan Pur-V"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "sovereign state",
+        "lang:ur": "خود مختار ریاست"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
