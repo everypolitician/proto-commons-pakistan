@@ -10820,17 +10820,17 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q12857471"
+          "value": "http://www.wikidata.org/entity/Q58400846"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "NA-250 (Karachi-XII)"
+          "value": "NA-247 South Karachi-II"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "حلقہ این اے۔247 (جنوبی کراچی-2)"
+          "value": "این اے-247 (کراچی جنوبی-2)"
         },
         "role": {
           "type": "uri",
@@ -10864,6 +10864,11 @@
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
           "value": "2018-08-13T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-09-06T00:00:00Z"
         },
         "org": {
           "type": "uri",

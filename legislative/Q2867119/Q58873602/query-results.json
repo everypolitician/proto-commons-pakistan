@@ -17276,6 +17276,110 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q59638869-CC4626B6-F2DD-4692-9029-50E6F2982069"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59638869"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mumtaz Ali"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ممتاز علی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q327591"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "independent politician"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "آزاد"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207714"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-35 Naushahro Feroz-III"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-35"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51876984"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly of Sindh"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی سندھ"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16259300"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Provincial Assembly"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "رکن صوبائی اسمبلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-13T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2867119"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Assembly of Sindh Province"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "سندھ کی صوبائی اسمبلی"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37211"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "168"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q6932538-B8EB37BA-DE3F-4FCF-B98F-96895C9FB4F1"
         },
         "item": {
