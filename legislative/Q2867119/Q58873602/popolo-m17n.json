@@ -5806,6 +5806,52 @@
       "parent_id": "Q37211"
     },
     {
+      "id": "Q59210881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-assembly-reserved-seat:non-muslim"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "reserved seats for Non-Muslims in the provincial assembly of Sindh"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q59210903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/provincial-assembly-reserved-seat:women"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51876984"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Sindh Province"
+      },
+      "name": {
+        "lang:en": "reserved seats for women in the provincial assembly of Sindh"
+      },
+      "parent_id": "Q37211"
+    },
+    {
       "id": "Q843",
       "identifiers": [
         {

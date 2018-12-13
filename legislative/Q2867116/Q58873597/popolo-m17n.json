@@ -2381,6 +2381,52 @@
       "parent_id": "Q163239"
     },
     {
+      "id": "Q59210879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-assembly-reserved-seat:non-muslim"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "reserved seats for Non-Muslims in the provincial assembly of Balochistan"
+      },
+      "parent_id": "Q163239"
+    },
+    {
+      "id": "Q59210900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:ba/provincial-assembly-reserved-seat:women"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873596"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Balochistan"
+      },
+      "name": {
+        "lang:en": "reserved seats for women in the provincial assembly of Balochistan"
+      },
+      "parent_id": "Q163239"
+    },
+    {
       "id": "Q843",
       "identifiers": [
         {

@@ -4295,6 +4295,52 @@
       "parent_id": "Q183314"
     },
     {
+      "id": "Q59210905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-assembly-reserved-seat:minorities"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "reserved seats for minorities in the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "parent_id": "Q183314"
+    },
+    {
+      "id": "Q59210906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:kp/provincial-assembly-reserved-seat:women"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59210906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873753"
+      ],
+      "type": {
+        "lang:en": "constituency of the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "name": {
+        "lang:en": "reserved seats for women in the provincial assembly of Khyber Pakhtunkhwa"
+      },
+      "parent_id": "Q183314"
+    },
+    {
       "id": "Q843",
       "identifiers": [
         {
