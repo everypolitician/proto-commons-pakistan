@@ -12002,22 +12002,6 @@
       "on_behalf_of_id": "Q799577",
       "organization_id": "Q1518223",
       "area_id": "Q55624365",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:ur": "رکن پارلیمان"
-      },
-      "role_code": "Q20760546",
-      "role": {
-        "lang:en": "Member of the National Assembly of Pakistan",
-        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q21244923-CA881BE2-B251-4C7E-91E8-D1FDD5A9A652",
-      "person_id": "Q21244923",
-      "organization_id": "Q1518223",
-      "area_id": "Q55624365",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -12099,9 +12083,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q254122-2560c5b8-44b5-be87-1eaf-f99e9f0dad5a",
+      "id": "http://www.wikidata.org/entity/statement/Q254122-999E1712-541B-4305-AE43-6BD1330CDF9A",
       "person_id": "Q254122",
+      "on_behalf_of_id": "Q7125678",
       "organization_id": "Q1518223",
+      "area_id": "Q58899189",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -13397,21 +13383,6 @@
       "on_behalf_of_id": "Q284454",
       "organization_id": "Q1518223",
       "area_id": "Q58401349",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:ur": "رکن پارلیمان"
-      },
-      "role_code": "Q20760546",
-      "role": {
-        "lang:en": "Member of the National Assembly of Pakistan",
-        "lang:ur": "(قومی اسمبلی کے رکن (ایم این اے"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q55767505-e8e86066-44e0-e33e-d913-859a79f8af9c",
-      "person_id": "Q55767505",
-      "organization_id": "Q1518223",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -13614,6 +13585,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q55956354-b5e407d4-4599-8609-7005-94bb65fdcd6d",
       "person_id": "Q55956354",
+      "on_behalf_of_id": "Q7125678",
       "organization_id": "Q1518223",
       "area_id": "Q55624381",
       "start_date": "2018-08-13",

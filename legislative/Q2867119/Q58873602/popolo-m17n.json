@@ -7496,22 +7496,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q55955803-a9371f31-4fc8-c3ed-fc25-b45ba1a4a7b2",
-      "person_id": "Q55955803",
-      "organization_id": "Q2867119",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q55955804-535285AD-B55B-431D-9123-20AA7A95E72B",
       "person_id": "Q55955804",
       "on_behalf_of_id": "Q7125678",
@@ -7661,24 +7645,6 @@
       "on_behalf_of_id": "Q55757446",
       "organization_id": "Q2867119",
       "area_id": "Q59207741",
-      "start_date": "2018-08-13",
-      "role_superclass_code": "Q16259300",
-      "role_superclass": {
-        "lang:en": "Member of the Provincial Assembly",
-        "lang:ur": "رکن صوبائی اسمبلی"
-      },
-      "role_code": "Q51876984",
-      "role": {
-        "lang:en": "Member of the Provincial Assembly of Sindh",
-        "lang:ur": "رکن صوبائی اسمبلی سندھ"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q55955823-0DD36599-A994-4E72-B89D-426010FF9DA3",
-      "person_id": "Q55955823",
-      "on_behalf_of_id": "Q43438671",
-      "organization_id": "Q2867119",
-      "area_id": "Q59207833",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {
@@ -8234,7 +8200,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q55955875-63eb7823-4f02-3416-1d93-d4879ce88945",
       "person_id": "Q55955875",
+      "on_behalf_of_id": "Q43438671",
       "organization_id": "Q2867119",
+      "area_id": "Q59207833",
       "start_date": "2018-08-13",
       "role_superclass_code": "Q16259300",
       "role_superclass": {

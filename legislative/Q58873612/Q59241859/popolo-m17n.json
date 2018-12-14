@@ -1807,6 +1807,118 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Zafar Iqbal",
+        "lang:ur": "ظفر اقبال"
+      },
+      "id": "Q59712166",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712166"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Ilyas",
+        "lang:ur": "محمد الیاس"
+      },
+      "id": "Q59712168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712168"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Arshad",
+        "lang:ur": "محمد ارشد"
+      },
+      "id": "Q59712169",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712169"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zulfiqar Ali",
+        "lang:ur": "ذوالفقار علی"
+      },
+      "id": "Q59712170",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712170"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Aslam",
+        "lang:ur": "محمد اسلم"
+      },
+      "id": "Q59712171",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712171"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Saleem",
+        "lang:ur": "محمد سلیم"
+      },
+      "id": "Q59712172",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712172"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Aslam",
+        "lang:ur": "محمد اسلم"
+      },
+      "id": "Q59712226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59712226"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -1827,6 +1939,34 @@
       "seat_counts": {
         "Q58873769": "182"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -3404,6 +3544,111 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q59552905-BD32E3EC-72D0-44F4-A4A1-042D80988DE9",
       "person_id": "Q59552905",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712166-04AD82AA-D99F-4B58-A4E7-215C218E90B3",
+      "person_id": "Q59712166",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712168-C4A0A35C-C00A-47A8-90D0-AF3C3A3ABAC4",
+      "person_id": "Q59712168",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712169-5BFC39F7-18B9-4B1B-BD70-B641457B9403",
+      "person_id": "Q59712169",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712170-6DD1788D-503B-478C-AB30-3BC91AA0A7FC",
+      "person_id": "Q59712170",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712171-96A2B5E8-BC04-41F6-BB08-FA2465A757CF",
+      "person_id": "Q59712171",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712172-C5D2DB62-647A-4E2F-9E2C-6E46D087A2A4",
+      "person_id": "Q59712172",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q58873612",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:ur": "کونسلر"
+      },
+      "role_code": "Q58873769",
+      "role": {
+        "lang:en": "Member of the Faisalabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59712226-03B35EB4-2D59-4EDA-B99B-9A08F219D529",
+      "person_id": "Q59712226",
+      "on_behalf_of_id": "Q284454",
       "organization_id": "Q58873612",
       "role_superclass_code": "Q708492",
       "role_superclass": {
