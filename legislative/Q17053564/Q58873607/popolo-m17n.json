@@ -670,6 +670,558 @@
       "parent_id": "Q843"
     },
     {
+      "id": "Q59207192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-1 Gilgit-1"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-2 Gilgit-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-3 Gilgit-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-4 Nagir-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-5 Nagir-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-6 Nagir-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-7 Skardu-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-8 Skardu-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-9 Skardu-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-10 Skardu-IV"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-11 Skardu-V"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-12 Skardu-VI"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-13 Astore-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-14 Astore-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-15 Diamer-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-16 Diamer-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-17 Diamer-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-18 Diamer-IV"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-19 Ghizer-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-20 Ghizer-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-21 Ghizer-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-22 Ghanche-I"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-23 Ghanche-II"
+      },
+      "parent_id": "Q200697"
+    },
+    {
+      "id": "Q59207227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:gb/provincial-constituency:GBLA-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gilgit Baltistan legislative assembly"
+      },
+      "name": {
+        "lang:en": "GBLA-24 Ghanche-III"
+      },
+      "parent_id": "Q200697"
+    },
+    {
       "id": "Q59210886",
       "identifiers": [
         {
@@ -731,8 +1283,8 @@
         "Q735575"
       ],
       "type": {
-        "lang:en": "sovereign state",
-        "lang:ur": "خود مختار ریاست"
+        "lang:en": "country",
+        "lang:ur": "ملک"
       },
       "name": {
         "lang:en": "Islamic Republic of Pakistan"
