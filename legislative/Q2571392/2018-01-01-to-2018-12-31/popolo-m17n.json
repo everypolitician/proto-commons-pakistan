@@ -3113,7 +3113,168 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q58781025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Balochistan"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58781026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58781030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:kp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Khyber Pakhtunkhwa"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58781031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58781038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:is"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Federal Capital"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q58781044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/senate-constituency:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58781044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20081441"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Pakistan"
+      },
+      "name": {
+        "lang:en": "Federally Administered Tribal Areas"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
