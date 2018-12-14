@@ -899,6 +899,949 @@
       "parent_id": "Q843"
     },
     {
+      "id": "Q59207134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-1 Dadyal"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-2 Chakswari/Islamgarh"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-3 Mirpur City"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-4 Khari Sharif"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-5 Barnala"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-6 Samahni"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-7 Bhimber City"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-8 Kotli City"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-9 Nakyal Dist Kotli"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-10 Sehnsa"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-11 Charhoi"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-12 Khoiratta"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-13 Dheerkot"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-14 Wasti Bagh"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-15 Sharqi Bagh"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-16 Forward Kahuta Haveli"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-17 Abbas Pur"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-18 Hajeera"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-19 Rawlakot"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-20 Thorar"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-21 Palandri Sudhnoti"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-22 Baloch Sadhnoti"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-23 Athmuqam Neelum"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-24 Pateeka"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-25 Lachrat"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-26 Muzaffarabad City"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-27 Khawra"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-28 Chukar Hattian Bala"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-29 Leepa"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-30 Jammu-1 Karachi/Punjab"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-31 Jammu-2 Gujranwala/Hafizabad"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-32 Jammu-3 Sialkot"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-33 Jammu-4 Narowal"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-34 Jammu-5 Gujrat/M.B.Din/Wazirabad"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-35 Jammu-6 Rawalpindi"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-36 Valley-1 Karachi"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-37 Valley-2 Lahore"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-38 Valley-3 Jhelum/Multan"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-39 Valley-4 Rawalpindi"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-40 Valley-5 Rawalpindi/Islamabad/Murree"
+      },
+      "parent_id": "Q200130"
+    },
+    {
+      "id": "Q59207191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/administrative-territory:jk/provincial-constituency:LA-41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59207191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58873603"
+      ],
+      "type": {
+        "lang:en": "constituency of the Azad Jammu & Kashmir legislative assembly"
+      },
+      "name": {
+        "lang:en": "LA-41 Valley-6 Peshawar/Mansehra (KPK)"
+      },
+      "parent_id": "Q200130"
+    },
+    {
       "id": "Q59210883",
       "identifiers": [
         {
@@ -1006,8 +1949,8 @@
         "Q735575"
       ],
       "type": {
-        "lang:en": "sovereign state",
-        "lang:ur": "خود مختار ریاست"
+        "lang:en": "country",
+        "lang:ur": "ملک"
       },
       "name": {
         "lang:en": "Islamic Republic of Pakistan"
