@@ -9240,82 +9240,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55955803-a9371f31-4fc8-c3ed-fc25-b45ba1a4a7b2"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55955803"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Abdul Bari Pitafi"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "عبدالباری پتافی"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q55955803-042B3E24-AD8E-44FB-94D8-7FD17DF11C30"
         },
         "item": {
@@ -10295,110 +10219,6 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "پی ایس-54"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q51876984"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly of Sindh"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی سندھ"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16259300"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Provincial Assembly"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن صوبائی اسمبلی"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2018-08-13T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2867119"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Assembly of Sindh Province"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کی صوبائی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "168"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55955823-0DD36599-A994-4E72-B89D-426010FF9DA3"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55955823"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Muhammad Qasim"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "محمد قاسم"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q43438671"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Tehreek-e-Labbaik Pakistan"
-        },
-        "party_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "تحریک لبیک پاکستان"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59207833"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "PS-115 Karachi west-IV"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "پی ایس-115"
         },
         "role": {
           "type": "uri",
@@ -13595,6 +13415,34 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "مفتی محمد قاسم"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43438671"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tehreek-e-Labbaik Pakistan"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "تحریک لبیک پاکستان"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59207833"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PS-115 Karachi west-IV"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پی ایس-115"
         },
         "role": {
           "type": "uri",

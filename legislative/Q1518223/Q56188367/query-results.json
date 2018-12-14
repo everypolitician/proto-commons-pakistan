@@ -8075,91 +8075,6 @@
           "type": "literal",
           "value": "رکن پارلیمان"
         },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1518223"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "National Assembly"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "قومی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q843"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "342"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q21244923-CA881BE2-B251-4C7E-91E8-D1FDD5A9A652"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q21244923"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Riaz Ul Haq"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "ریاض الحق"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55624365"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "NA-142 Okara-II"
-        },
-        "district_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "این اے-142 (اوکاڑا-2)"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20760546"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the National Assembly of Pakistan"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "(قومی اسمبلی کے رکن (ایم این اے"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q486839"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of parliament"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پارلیمان"
-        },
         "start": {
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
@@ -8588,7 +8503,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q254122-2560c5b8-44b5-be87-1eaf-f99e9f0dad5a"
+          "value": "http://www.wikidata.org/entity/statement/Q254122-999E1712-541B-4305-AE43-6BD1330CDF9A"
         },
         "item": {
           "type": "uri",
@@ -8603,6 +8518,34 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "حنا ربانی کھر"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58899189"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "reserved seat for Women in the National Assembly (Punjab)"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "خواتین کے لیے مخصوص نشست"
         },
         "role": {
           "type": "uri",
@@ -15962,77 +15905,6 @@
           "type": "literal",
           "value": "رکن پارلیمان"
         },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1518223"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "National Assembly"
-        },
-        "org_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "قومی اسمبلی"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q843"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "342"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q55767505-e8e86066-44e0-e33e-d913-859a79f8af9c"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q55767505"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Rai Muhammad Murtaza Iqbal"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رائے محمد مرتضی اقبال"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q20760546"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the National Assembly of Pakistan"
-        },
-        "role_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "(قومی اسمبلی کے رکن (ایم این اے"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q486839"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of parliament"
-        },
-        "role_superclass_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "رکن پارلیمان"
-        },
         "start": {
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
@@ -17139,6 +17011,20 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "رضا ربانی کھر"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7125678"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party Parliamentarians"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی پارلیمنٹیرینز"
         },
         "district": {
           "type": "uri",
