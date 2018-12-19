@@ -1,0 +1,100 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Sukkar",
+        "lang:ur": "میونسپل کارپوریشن سکھر"
+      },
+      "id": "Q59240673",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240673"
+        }
+      ],
+      "area_id": "Q868631"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q37211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28169441"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q868631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/city:sukkur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q868631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59240756",
+        "Q59241662"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Sukkur",
+        "lang:ur": "سکھر"
+      },
+      "parent_id": "Q37211"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

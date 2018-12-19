@@ -1,0 +1,100 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Larkana",
+        "lang:ur": "میونسپل کارپوریشن لاڑکانہ"
+      },
+      "id": "Q59240674",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240674"
+        }
+      ],
+      "area_id": "Q696605"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q37211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28169441"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q696605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/city:larkana"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q696605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59240757",
+        "Q59241664"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Larkana",
+        "lang:ur": "لاڑکانہ"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

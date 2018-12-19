@@ -1,0 +1,76 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Islamabad Metropolitan Corporation",
+        "lang:ur": "اسلام آباد میٹروپولیٹن کارپوریشن"
+      },
+      "id": "Q28172637",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28172637"
+        }
+      ],
+      "area_id": "Q848613"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q848613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/federal-territory:is"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q848613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28172635",
+        "Q58873781"
+      ],
+      "type": {
+        "lang:en": "capital region",
+        "lang:ur": "دارالحکومت علاقہ"
+      },
+      "name": {
+        "lang:en": "Islamabad Capital Territory"
+      },
+      "parent_id": "Q843"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
