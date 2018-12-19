@@ -294,7 +294,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q93230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/city:rawalpindi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q93230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28223520",
+        "Q58873770"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Rawalpindi",
+        "lang:ur": "راولپنڈی"
+      },
+      "parent_id": "Q4478"
+    }
   ],
   "memberships": [
     {
