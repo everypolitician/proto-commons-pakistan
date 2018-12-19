@@ -1,5 +1,16 @@
 [
   {
+    "comment": "Karachi Metropolitan Corporation",
+    "area_id": "Q8660",
+    "executive_item_id": "Q15982486",
+    "positions": [
+      {
+        "comment": "Mayor of Karachi",
+        "position_item_id": "Q6627562"
+      }
+    ]
+  },
+  {
     "comment": "Gilgit-Baltistan Council",
     "area_id": "Q200697",
     "executive_item_id": "Q16910253",
@@ -7,6 +18,105 @@
       {
         "comment": "Chief Minister of Gilgit-Baltistan",
         "position_item_id": "Q8135012"
+      }
+    ]
+  },
+  {
+    "comment": "Federal Cabinet of Pakistan",
+    "area_id": "Q843",
+    "executive_item_id": "Q2607174",
+    "positions": [
+      {
+        "comment": "Prime Minister of Pakistan",
+        "position_item_id": "Q735575"
+      }
+    ]
+  },
+  {
+    "comment": "Islamabad Metropolitan Corporation",
+    "area_id": "Q848613",
+    "executive_item_id": "Q28172637",
+    "positions": [
+      {
+        "comment": "Mayor of Islamabad",
+        "position_item_id": "Q28172635"
+      }
+    ]
+  },
+  {
+    "comment": "Hyderabad Municipal Corporation",
+    "area_id": "Q1640079",
+    "executive_item_id": "Q28223529",
+    "positions": [
+      {
+        "comment": "Mayor of Hyderabad",
+        "position_item_id": "Q28223493"
+      }
+    ]
+  },
+  {
+    "comment": "Rawalpindi Municipal Corporation",
+    "area_id": "Q93230",
+    "executive_item_id": "Q55641548",
+    "positions": [
+      {
+        "comment": "Mayor of Rawalpindi",
+        "position_item_id": "Q28223520"
+      }
+    ]
+  },
+  {
+    "comment": "Metropolitan Corporation Lahore",
+    "area_id": "Q11739",
+    "executive_item_id": "Q58873610",
+    "positions": [
+      {
+        "comment": "Mayor of Lahore",
+        "position_item_id": "Q28223500"
+      }
+    ]
+  },
+  {
+    "comment": "Faisalabad Municipal Corporation",
+    "area_id": "Q173985",
+    "executive_item_id": "Q58873612",
+    "positions": [
+      {
+        "comment": "Mayor of Faisalabad",
+        "position_item_id": "Q28223514"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation Gujranwala",
+    "area_id": "Q243322",
+    "executive_item_id": "Q58873615",
+    "positions": [
+      {
+        "comment": "Mayor of Gujranwala",
+        "position_item_id": "Q59137051"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation Multan",
+    "area_id": "Q185453",
+    "executive_item_id": "Q58873622",
+    "positions": [
+      {
+        "comment": "Mayor of Multan",
+        "position_item_id": "Q28223521"
+      }
+    ]
+  },
+  {
+    "comment": "Quetta Metropolitan Corporation",
+    "area_id": "Q185458",
+    "executive_item_id": "Q58873626",
+    "positions": [
+      {
+        "comment": "Mayor of Quetta",
+        "position_item_id": "Q28223501"
       }
     ]
   },
@@ -62,6 +172,72 @@
       {
         "comment": "Chief Minister of Sindh",
         "position_item_id": "Q28169441"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Sargodha",
+    "area_id": "Q855997",
+    "executive_item_id": "Q59240671",
+    "positions": [
+      {
+        "comment": "Mayor of Sargodha",
+        "position_item_id": "Q59240754"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Sialkot",
+    "area_id": "Q643883",
+    "executive_item_id": "Q59240672",
+    "positions": [
+      {
+        "comment": "Mayor of Sialkot",
+        "position_item_id": "Q59240755"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Sukkar",
+    "area_id": "Q868631",
+    "executive_item_id": "Q59240673",
+    "positions": [
+      {
+        "comment": "Mayor of Sukkar",
+        "position_item_id": "Q59240756"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Larkana",
+    "area_id": "Q696605",
+    "executive_item_id": "Q59240674",
+    "positions": [
+      {
+        "comment": "Mayor of Larkana",
+        "position_item_id": "Q59240757"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Dera Ghazi Khan",
+    "area_id": "Q999076",
+    "executive_item_id": "Q59240678",
+    "positions": [
+      {
+        "comment": "Mayor of Dera Ghazi Khan",
+        "position_item_id": "Q59240761"
+      }
+    ]
+  },
+  {
+    "comment": "Municipal Corporation of Gujrat",
+    "area_id": "Q929062",
+    "executive_item_id": "Q59240679",
+    "positions": [
+      {
+        "comment": "Mayor of Gujrat",
+        "position_item_id": "Q59240764"
       }
     ]
   }
