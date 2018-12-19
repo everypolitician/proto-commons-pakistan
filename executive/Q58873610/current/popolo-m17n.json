@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Metropolitan Corporation Lahore",
+        "lang:ur": "میٹروپولیٹن کارپوریشن لاہور"
+      },
+      "id": "Q58873610",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873610"
+        }
+      ],
+      "area_id": "Q11739"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

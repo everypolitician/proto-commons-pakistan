@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation Gujranwala",
+        "lang:ur": "ميونسپل کارپوریشن گوجرانوالہ"
+      },
+      "id": "Q58873615",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873615"
+        }
+      ],
+      "area_id": "Q243322"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

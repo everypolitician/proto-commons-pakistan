@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Quetta Metropolitan Corporation",
+        "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+      },
+      "id": "Q58873626",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58873626"
+        }
+      ],
+      "area_id": "Q185458"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

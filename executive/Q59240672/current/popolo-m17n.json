@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Sialkot",
+        "lang:ur": "میونسپل کارپوریشن سیالکوٹ"
+      },
+      "id": "Q59240672",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240672"
+        }
+      ],
+      "area_id": "Q643883"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

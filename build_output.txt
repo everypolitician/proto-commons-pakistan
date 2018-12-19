@@ -13,3 +13,17 @@ WARNING: Position councillor in the municipal corporation of Sukkar (Q59241662) 
 WARNING: Position councillor in the municipal corporation of Larkana (Q59241664) not in boundary associated_wikidata_positions
 WARNING: Position councillor in the municipal corporation of Dera Ghazi Khan (Q59241668) not in boundary associated_wikidata_positions
 WARNING: Position councillor in the municipal corporation of Gujrat (Q59241672) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Karachi (Q6627562) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Hyderabad (Q28223493) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Rawalpindi (Q28223520) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Lahore (Q28223500) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Faisalabad (Q28223514) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Gujranwala (Q59137051) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Multan (Q28223521) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Quetta (Q28223501) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Sargodha (Q59240754) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Sialkot (Q59240755) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Sukkar (Q59240756) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Larkana (Q59240757) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Dera Ghazi Khan (Q59240761) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Gujrat (Q59240764) not in boundary associated_wikidata_positions

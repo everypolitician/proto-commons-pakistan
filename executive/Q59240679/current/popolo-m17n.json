@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Gujrat",
+        "lang:ur": "میونسپل کارپوریشن گجرات"
+      },
+      "id": "Q59240679",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240679"
+        }
+      ],
+      "area_id": "Q929062"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

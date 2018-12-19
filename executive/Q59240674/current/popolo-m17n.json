@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Larkana",
+        "lang:ur": "میونسپل کارپوریشن لاڑکانہ"
+      },
+      "id": "Q59240674",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240674"
+        }
+      ],
+      "area_id": "Q696605"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Rawalpindi Municipal Corporation",
+        "lang:ur": "راولپنڈی مونسپل کارپوریشن"
+      },
+      "id": "Q55641548",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55641548"
+        }
+      ],
+      "area_id": "Q93230"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Dera Ghazi Khan",
+        "lang:ur": "میونسپل کارپوریشن ڈیرہ غازی خان"
+      },
+      "id": "Q59240678",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240678"
+        }
+      ],
+      "area_id": "Q999076"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
