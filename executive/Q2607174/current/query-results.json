@@ -1,0 +1,602 @@
+{
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_ur",
+      "party",
+      "party_name_en",
+      "party_name_ur",
+      "district",
+      "district_name_en",
+      "district_name_ur",
+      "role",
+      "role_en",
+      "role_ur",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_ur",
+      "org",
+      "org_en",
+      "org_ur",
+      "org_jurisdiction"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q152052-A4053DB7-21C9-44AA-9F47-40D3A5D3E376"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q152052"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yousaf Raza Gillani"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "یوسف رضا گیلانی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186591"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Peoples Party"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان پیپلز پارٹی"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q155164-1D2E5390-DD77-4268-9D99-2447FDD48721"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q155164"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Imran Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "عمران احمد خان نیازی"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-18T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1561693-009C7A89-999E-4C51-A8A8-AC0DDEACD65A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1561693"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Firoz Khan Nun"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ملک فیروز خان نون"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7314629"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Republican Party"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ریپبلکن پارٹی (پاکستان)"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2331419-7996B568-6388-4601-BAC9-3BF46817A99C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2331419"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ibrahim Ismail Chundrigar"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ابراہیم اسماعیل چندریگر"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223898"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "All India Muslim League"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "آل انڈیا مسلم لیگ"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2331419-7996B568-6388-4601-BAC9-3BF46817A99C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2331419"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ibrahim Ismail Chundrigar"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ابراہیم اسماعیل چندریگر"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6942926"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muslim League"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "مسلم لیگ"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q559952-E551845B-3742-497E-87FF-43C07E2DFF8E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q559952"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muhammad Khan Junejo"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "محمد خان جونیجو"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3322215"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Muslim League"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان مسلم لیگ"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q735575"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of Pakistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم پاکستان"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "وزیر اعظم"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2607174"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Federal Cabinet of Pakistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کابینہ پاکستان"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q843"
+        }
+      }
+    ]
+  }
+}
