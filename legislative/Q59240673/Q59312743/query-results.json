@@ -24,7 +24,8 @@
       "org_en",
       "org_ur",
       "org_jurisdiction",
-      "org_seat_count"
+      "org_seat_count",
+      "linkedToTerm"
     ]
   },
   "results": {
@@ -88,6 +89,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -149,6 +155,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -210,6 +221,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -271,6 +287,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -332,6 +353,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -393,6 +419,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -454,6 +485,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -515,6 +551,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -576,6 +617,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -637,6 +683,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -698,6 +749,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -759,6 +815,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -820,6 +881,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -881,6 +947,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -942,6 +1013,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1003,6 +1079,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1064,6 +1145,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1125,6 +1211,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1186,6 +1277,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1247,6 +1343,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1308,6 +1409,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       },
       {
@@ -1369,6 +1475,11 @@
         "org_jurisdiction": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q868631"
+        },
+        "linkedToTerm": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
         }
       }
     ]
