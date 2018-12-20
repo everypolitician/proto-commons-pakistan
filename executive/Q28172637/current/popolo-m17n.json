@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Sheikh Ansar Aziz",
+        "lang:ur": "شیخ انصر عزیز"
+      },
+      "id": "Q26923792",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26923792"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q848613"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -71,6 +100,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26923792-a84e7dac-4025-d8a4-b49e-9b71e5190997",
+      "person_id": "Q26923792",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q28172637",
+      "area_id": "Q848613",
+      "start_date": "2016-03-04",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
+      },
+      "role_code": "Q28172635",
+      "role": {
+        "lang:en": "Mayor of Islamabad",
+        "lang:ur": "اسلام آباد کا میئر"
+      }
+    }
   ]
 }

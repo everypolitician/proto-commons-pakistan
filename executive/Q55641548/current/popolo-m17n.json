@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Sardar Naseem"
+      },
+      "id": "Q59955917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59955917"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +31,20 @@
         }
       ],
       "area_id": "Q93230"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +123,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59955917-6856fd4e-407b-14dc-baa8-42c9d9781092",
+      "person_id": "Q59955917",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q55641548",
+      "area_id": "Q93230",
+      "start_date": "2016-12-10",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
+      },
+      "role_code": "Q28223520",
+      "role": {
+        "lang:en": "Mayor of Rawalpindi",
+        "lang:ur": "راولپنڈی کا میئر"
+      }
+    }
   ]
 }

@@ -226,6 +226,24 @@
     }
   },
   {
+    "role_id": "Q3694864",
+    "role_name": {
+      "lang:en": "Chief Minister of Sindh",
+      "lang:ur": "وزیر اعلیٰ سندھ"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137047",
+    "organization_name": {
+      "lang:en": "Provincial Cabinet of Sindh",
+      "lang:ur": "صوبائی کابینہ"
+    }
+  },
+  {
     "role_id": "Q3695530",
     "role_name": {
       "lang:en": "Chief Minister of Balochistan",

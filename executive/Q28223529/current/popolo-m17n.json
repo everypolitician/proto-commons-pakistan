@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Tayyab Hussain"
+      },
+      "id": "Q26923271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26923271"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +31,20 @@
         }
       ],
       "area_id": "Q1640079"
+    },
+    {
+      "name": {
+        "lang:en": "Muttahida Qaumi Movement",
+        "lang:ur": "متحدہ قومی موومنٹ"
+      },
+      "id": "Q1265113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265113"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +123,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26923271-b86a2d9f-462f-8187-15f6-4ec684aa3476",
+      "person_id": "Q26923271",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q28223529",
+      "area_id": "Q1640079",
+      "start_date": "2016-08-30",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
+      },
+      "role_code": "Q28223493",
+      "role": {
+        "lang:en": "Mayor of Hyderabad",
+        "lang:ur": "حیدر آباد کا میئر"
+      }
+    }
   ]
 }

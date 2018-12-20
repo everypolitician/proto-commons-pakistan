@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Waseem Akhtar",
+        "lang:ur": "وسیم اختر"
+      },
+      "id": "Q18816014",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18816014"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q8660"
+    },
+    {
+      "name": {
+        "lang:en": "Muttahida Qaumi Movement",
+        "lang:ur": "متحدہ قومی موومنٹ"
+      },
+      "id": "Q1265113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265113"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +124,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18816014-10ea753d-4091-ac11-61f3-07b92fa34d70",
+      "person_id": "Q18816014",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q15982486",
+      "area_id": "Q8660",
+      "start_date": "2016-08-30",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
+      },
+      "role_code": "Q6627562",
+      "role": {
+        "lang:en": "Mayor of Karachi",
+        "lang:ur": "کراچی کا میئر"
+      }
+    }
   ]
 }
