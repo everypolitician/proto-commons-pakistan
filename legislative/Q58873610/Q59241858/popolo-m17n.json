@@ -4854,7 +4854,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q11739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/city:lahore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28223500",
+        "Q58873767"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Lahore",
+        "lang:ur": "لاہور"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
