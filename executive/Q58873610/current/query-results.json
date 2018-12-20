@@ -31,21 +31,16 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18750287-5bc79547-4ee7-f9ef-b3fa-9875abf75dd7"
+          "value": "http://www.wikidata.org/entity/statement/Q59956311-a2b1427a-4ad4-f557-8c35-cdcd714e2cdd"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18750287"
+          "value": "http://www.wikidata.org/entity/Q59956311"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Jam Kamal Khan"
-        },
-        "name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "جام کمال خان"
+          "value": "Mubashir Javed"
         },
         "party": {
           "type": "uri",
@@ -63,63 +58,68 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q11739"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Balochistan"
+          "value": "Lahore"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان"
+          "value": "لاہور"
         },
         "role": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3695530"
+          "value": "http://www.wikidata.org/entity/Q28223500"
         },
         "role_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister of Balochistan"
+          "value": "Mayor of Lahore"
         },
         "role_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان کا وزیر اعلی"
+          "value": "لاہور کا میئر"
         },
         "start": {
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
-          "value": "2018-08-19T00:00:00Z"
+          "value": "2016-12-31T00:00:00Z"
         },
         "role_superclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16163440"
+          "value": "http://www.wikidata.org/entity/Q30185"
         },
         "role_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister"
+          "value": "mayor"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
         },
         "org": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59137043"
+          "value": "http://www.wikidata.org/entity/Q58873610"
         },
         "org_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Provincial Cabinet of Balochistan"
+          "value": "Metropolitan Corporation Lahore"
         },
         "org_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "صوبائی کابینہ"
+          "value": "میٹروپولیٹن کارپوریشن لاہور"
         },
         "org_jurisdiction": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q11739"
         }
       }
     ]

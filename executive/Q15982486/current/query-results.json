@@ -31,95 +31,100 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18750287-5bc79547-4ee7-f9ef-b3fa-9875abf75dd7"
+          "value": "http://www.wikidata.org/entity/statement/Q18816014-10ea753d-4091-ac11-61f3-07b92fa34d70"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18750287"
+          "value": "http://www.wikidata.org/entity/Q18816014"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Jam Kamal Khan"
+          "value": "Waseem Akhtar"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "جام کمال خان"
+          "value": "وسیم اختر"
         },
         "party": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q799577"
+          "value": "http://www.wikidata.org/entity/Q1265113"
         },
         "party_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Pakistan Muslim League (N)"
+          "value": "Muttahida Qaumi Movement"
         },
         "party_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "پاکستان مسلم لیگ (ن)"
+          "value": "متحدہ قومی موومنٹ"
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q8660"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Balochistan"
+          "value": "Karachi"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان"
+          "value": "کراچی"
         },
         "role": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3695530"
+          "value": "http://www.wikidata.org/entity/Q6627562"
         },
         "role_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister of Balochistan"
+          "value": "Mayor of Karachi"
         },
         "role_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان کا وزیر اعلی"
+          "value": "کراچی کا میئر"
         },
         "start": {
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
-          "value": "2018-08-19T00:00:00Z"
+          "value": "2016-08-30T00:00:00Z"
         },
         "role_superclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16163440"
+          "value": "http://www.wikidata.org/entity/Q30185"
         },
         "role_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister"
+          "value": "mayor"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
         },
         "org": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59137043"
+          "value": "http://www.wikidata.org/entity/Q15982486"
         },
         "org_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Provincial Cabinet of Balochistan"
+          "value": "Karachi Metropolitan Corporation"
         },
         "org_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "صوبائی کابینہ"
+          "value": "کراچی میٹروپولیٹن کارپوریشن"
         },
         "org_jurisdiction": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q8660"
         }
       }
     ]

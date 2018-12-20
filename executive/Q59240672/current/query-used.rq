@@ -8,9 +8,9 @@ SELECT DISTINCT
        ?role_superclass ?role_superclass_en ?role_superclass_ur
        ?org ?org_en ?org_ur ?org_jurisdiction
 WHERE {
-  VALUES ?role { wd:Q3694864 }
+  VALUES ?role { wd:Q59240755 }
   BIND(?role AS ?specific_role) .
-  BIND(wd:Q59137047 AS ?org) .
+  BIND(wd:Q59240672 AS ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_en
   FILTER(LANG(?org_en) = "en")

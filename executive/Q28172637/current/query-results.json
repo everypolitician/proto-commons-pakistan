@@ -31,21 +31,21 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18750287-5bc79547-4ee7-f9ef-b3fa-9875abf75dd7"
+          "value": "http://www.wikidata.org/entity/statement/Q26923792-a84e7dac-4025-d8a4-b49e-9b71e5190997"
         },
         "item": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18750287"
+          "value": "http://www.wikidata.org/entity/Q26923792"
         },
         "name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Jam Kamal Khan"
+          "value": "Sheikh Ansar Aziz"
         },
         "name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "جام کمال خان"
+          "value": "شیخ انصر عزیز"
         },
         "party": {
           "type": "uri",
@@ -63,63 +63,68 @@
         },
         "district": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q848613"
         },
         "district_name_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Balochistan"
+          "value": "Islamabad Capital Territory"
         },
         "district_name_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان"
+          "value": "اسلام آباد"
         },
         "role": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3695530"
+          "value": "http://www.wikidata.org/entity/Q28172635"
         },
         "role_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister of Balochistan"
+          "value": "Mayor of Islamabad"
         },
         "role_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "بلوچستان کا وزیر اعلی"
+          "value": "اسلام آباد کا میئر"
         },
         "start": {
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "type": "literal",
-          "value": "2018-08-19T00:00:00Z"
+          "value": "2016-03-04T00:00:00Z"
         },
         "role_superclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16163440"
+          "value": "http://www.wikidata.org/entity/Q30185"
         },
         "role_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister"
+          "value": "mayor"
+        },
+        "role_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
         },
         "org": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59137043"
+          "value": "http://www.wikidata.org/entity/Q28172637"
         },
         "org_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Provincial Cabinet of Balochistan"
+          "value": "Islamabad Metropolitan Corporation"
         },
         "org_ur": {
           "xml:lang": "ur",
           "type": "literal",
-          "value": "صوبائی کابینہ"
+          "value": "اسلام آباد میٹروپولیٹن کارپوریشن"
         },
         "org_jurisdiction": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q163239"
+          "value": "http://www.wikidata.org/entity/Q848613"
         }
       }
     ]
