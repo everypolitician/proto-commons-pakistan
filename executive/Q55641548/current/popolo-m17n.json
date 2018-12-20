@@ -2,14 +2,13 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Hafiz Hafeez ur Rehman",
-        "lang:ur": "حافظ حفیظ الرحمان"
+        "lang:en": "Sardar Naseem"
       },
-      "id": "Q20724398",
+      "id": "Q59955917",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q20724398"
+          "identifier": "Q59955917"
         }
       ],
       "links": [
@@ -20,18 +19,18 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Gilgit-Baltistan Council",
-        "lang:ur": "گلگت بلتستان کونسل"
+        "lang:en": "Rawalpindi Municipal Corporation",
+        "lang:ur": "راولپنڈی مونسپل کارپوریشن"
       },
-      "id": "Q16910253",
+      "id": "Q55641548",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16910253"
+          "identifier": "Q55641548"
         }
       ],
-      "area_id": "Q200697"
+      "area_id": "Q93230"
     },
     {
       "name": {
@@ -50,26 +49,25 @@
   ],
   "areas": [
     {
-      "id": "Q200697",
+      "id": "Q4478",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:pk/administrative-territory:gb"
+          "identifier": "country:pk/province:pb"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q200697"
+          "identifier": "Q4478"
         }
       ],
       "associated_wikidata_positions": [
-        "Q8135012"
+        "Q1837955"
       ],
       "type": {
-        "lang:en": "administrative territorial entity of Pakistan",
-        "lang:ur": "پاکستان کی انتظامی تقسیم"
+        "lang:en": "province of Pakistan"
       },
       "name": {
-        "lang:en": "Gilgit-Baltistan"
+        "lang:en": "Punjab"
       },
       "parent_id": "Q843"
     },
@@ -96,24 +94,51 @@
         "lang:en": "Islamic Republic of Pakistan"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q93230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/city:rawalpindi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q93230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28223520",
+        "Q58873770"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Rawalpindi",
+        "lang:ur": "راولپنڈی"
+      },
+      "parent_id": "Q4478"
     }
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q20724398-e984044e-4d75-db36-5803-4d57b7df84f7",
-      "person_id": "Q20724398",
+      "id": "http://www.wikidata.org/entity/statement/Q59955917-6856fd4e-407b-14dc-baa8-42c9d9781092",
+      "person_id": "Q59955917",
       "on_behalf_of_id": "Q799577",
-      "organization_id": "Q16910253",
-      "area_id": "Q200697",
-      "start_date": "2015-06-25",
-      "role_superclass_code": "Q16163440",
+      "organization_id": "Q55641548",
+      "area_id": "Q93230",
+      "start_date": "2016-12-10",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Chief Minister"
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
       },
-      "role_code": "Q8135012",
+      "role_code": "Q28223520",
       "role": {
-        "lang:en": "Chief Minister of Gilgit-Baltistan",
-        "lang:ur": "گلگت بلتستان کا وزیر اعلی"
+        "lang:en": "Mayor of Rawalpindi",
+        "lang:ur": "راولپنڈی کا میئر"
       }
     }
   ]

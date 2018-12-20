@@ -1,0 +1,316 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Yousaf Raza Gillani",
+        "lang:ur": "یوسف رضا گیلانی"
+      },
+      "id": "Q152052",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q152052"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imran Khan",
+        "lang:ur": "عمران احمد خان نیازی"
+      },
+      "id": "Q155164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q155164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Firoz Khan Nun",
+        "lang:ur": "ملک فیروز خان نون"
+      },
+      "id": "Q1561693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1561693"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ibrahim Ismail Chundrigar",
+        "lang:ur": "ابراہیم اسماعیل چندریگر"
+      },
+      "id": "Q2331419",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2331419"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muhammad Khan Junejo",
+        "lang:ur": "محمد خان جونیجو"
+      },
+      "id": "Q559952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q559952"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Federal Cabinet of Pakistan",
+        "lang:ur": "کابینہ پاکستان"
+      },
+      "id": "Q2607174",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2607174"
+        }
+      ],
+      "area_id": "Q843"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party",
+        "lang:ur": "پاکستان پیپلز پارٹی"
+      },
+      "id": "Q186591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q186591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All India Muslim League",
+        "lang:ur": "آل انڈیا مسلم لیگ"
+      },
+      "id": "Q223898",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q223898"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League",
+        "lang:ur": "پاکستان مسلم لیگ"
+      },
+      "id": "Q3322215",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3322215"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Muslim League",
+        "lang:ur": "مسلم لیگ"
+      },
+      "id": "Q6942926",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6942926"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Republican Party",
+        "lang:ur": "ریپبلکن پارٹی (پاکستان)"
+      },
+      "id": "Q7314629",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7314629"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q152052-A4053DB7-21C9-44AA-9F47-40D3A5D3E376",
+      "person_id": "Q152052",
+      "on_behalf_of_id": "Q186591",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q155164-1D2E5390-DD77-4268-9D99-2447FDD48721",
+      "person_id": "Q155164",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "start_date": "2018-08-18",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1561693-009C7A89-999E-4C51-A8A8-AC0DDEACD65A",
+      "person_id": "Q1561693",
+      "on_behalf_of_id": "Q7314629",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2331419-7996B568-6388-4601-BAC9-3BF46817A99C",
+      "person_id": "Q2331419",
+      "on_behalf_of_id": "Q223898",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2331419-7996B568-6388-4601-BAC9-3BF46817A99C",
+      "person_id": "Q2331419",
+      "on_behalf_of_id": "Q6942926",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q559952-E551845B-3742-497E-87FF-43C07E2DFF8E",
+      "person_id": "Q559952",
+      "on_behalf_of_id": "Q3322215",
+      "organization_id": "Q2607174",
+      "area_id": "Q843",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:ur": "وزیر اعظم"
+      },
+      "role_code": "Q735575",
+      "role": {
+        "lang:en": "Prime Minister of Pakistan",
+        "lang:ur": "وزیر اعظم پاکستان"
+      }
+    }
+  ]
+}

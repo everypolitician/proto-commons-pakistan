@@ -74,6 +74,139 @@
     }
   },
   {
+    "role_id": "Q28172635",
+    "role_name": {
+      "lang:en": "Mayor of Islamabad",
+      "lang:ur": "اسلام آباد کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q28172637",
+    "organization_name": {
+      "lang:en": "Islamabad Metropolitan Corporation",
+      "lang:ur": "اسلام آباد میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223493",
+    "role_name": {
+      "lang:en": "Mayor of Hyderabad",
+      "lang:ur": "حیدر آباد کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q28223529",
+    "organization_name": {
+      "lang:en": "Hyderabad Municipal Corporation",
+      "lang:ur": "حیدرآباد میونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223500",
+    "role_name": {
+      "lang:en": "Mayor of Lahore",
+      "lang:ur": "لاہور کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873610",
+    "organization_name": {
+      "lang:en": "Metropolitan Corporation Lahore",
+      "lang:ur": "میٹروپولیٹن کارپوریشن لاہور"
+    }
+  },
+  {
+    "role_id": "Q28223501",
+    "role_name": {
+      "lang:en": "Mayor of Quetta",
+      "lang:ur": "کوئٹہ کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873626",
+    "organization_name": {
+      "lang:en": "Quetta Metropolitan Corporation",
+      "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223514",
+    "role_name": {
+      "lang:en": "Mayor of Faisalabad",
+      "lang:ur": "فیصل آباد کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873612",
+    "organization_name": {
+      "lang:en": "Faisalabad Municipal Corporation",
+      "lang:ur": "فیصل آباد میونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223520",
+    "role_name": {
+      "lang:en": "Mayor of Rawalpindi",
+      "lang:ur": "راولپنڈی کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q55641548",
+    "organization_name": {
+      "lang:en": "Rawalpindi Municipal Corporation",
+      "lang:ur": "راولپنڈی مونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223521",
+    "role_name": {
+      "lang:en": "Mayor of Multan",
+      "lang:ur": "ملتان کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873622",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Multan",
+      "lang:ur": "میونسپل کارپوریشن ملتان"
+    }
+  },
+  {
     "role_id": "Q3297966",
     "role_name": {
       "lang:en": "Chairman of the Senate of Pakistan",
@@ -90,6 +223,24 @@
     "organization_name": {
       "lang:en": "Senate",
       "lang:ur": "سینیٹ"
+    }
+  },
+  {
+    "role_id": "Q3694864",
+    "role_name": {
+      "lang:en": "Chief Minister of Sindh",
+      "lang:ur": "وزیر اعلیٰ سندھ"
+    },
+    "generic_role_id": "Q16163440",
+    "generic_role_name": {
+      "lang:en": "Chief Minister"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q59137047",
+    "organization_name": {
+      "lang:en": "Provincial Cabinet of Sindh",
+      "lang:ur": "صوبائی کابینہ"
     }
   },
   {
@@ -215,7 +366,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q15982486",
     "organization_name": {
@@ -269,7 +420,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q58873610",
     "organization_name": {
@@ -287,7 +438,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q58873612",
     "organization_name": {
@@ -305,7 +456,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q55641548",
     "organization_name": {
@@ -323,7 +474,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q58873615",
     "organization_name": {
@@ -341,7 +492,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q58873622",
     "organization_name": {
@@ -359,7 +510,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q28223529",
     "organization_name": {
@@ -395,12 +546,145 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q58873626",
     "organization_name": {
       "lang:en": "Quetta Metropolitan Corporation",
       "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q59137051",
+    "role_name": {
+      "lang:en": "Mayor of Gujranwala",
+      "lang:ur": "گوجرانوالہ کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873615",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Gujranwala",
+      "lang:ur": "ميونسپل کارپوریشن گوجرانوالہ"
+    }
+  },
+  {
+    "role_id": "Q59240754",
+    "role_name": {
+      "lang:en": "Mayor of Sargodha",
+      "lang:ur": "میئر سرگودھا"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240671",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sargodha",
+      "lang:ur": "میونسپل کارپوریشن سرگودھا"
+    }
+  },
+  {
+    "role_id": "Q59240755",
+    "role_name": {
+      "lang:en": "Mayor of Sialkot",
+      "lang:ur": "میئر سیالکوٹ"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240672",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sialkot",
+      "lang:ur": "میونسپل کارپوریشن سیالکوٹ"
+    }
+  },
+  {
+    "role_id": "Q59240756",
+    "role_name": {
+      "lang:en": "Mayor of Sukkar",
+      "lang:ur": "میئر سکھر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240673",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Sukkar",
+      "lang:ur": "میونسپل کارپوریشن سکھر"
+    }
+  },
+  {
+    "role_id": "Q59240757",
+    "role_name": {
+      "lang:en": "Mayor of Larkana",
+      "lang:ur": "میئر لاڑکانہ"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240674",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Larkana",
+      "lang:ur": "میونسپل کارپوریشن لاڑکانہ"
+    }
+  },
+  {
+    "role_id": "Q59240761",
+    "role_name": {
+      "lang:en": "Mayor of Dera Ghazi Khan",
+      "lang:ur": "میئر ڈیرہ غازی خان"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240678",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Dera Ghazi Khan",
+      "lang:ur": "میونسپل کارپوریشن ڈیرہ غازی خان"
+    }
+  },
+  {
+    "role_id": "Q59240764",
+    "role_name": {
+      "lang:en": "Mayor of Gujrat",
+      "lang:ur": "میئر گجرات"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q59240679",
+    "organization_name": {
+      "lang:en": "Municipal Corporation of Gujrat",
+      "lang:ur": "میونسپل کارپوریشن گجرات"
     }
   },
   {
@@ -413,7 +697,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240671",
     "organization_name": {
@@ -431,7 +715,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240672",
     "organization_name": {
@@ -449,7 +733,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240673",
     "organization_name": {
@@ -467,7 +751,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240674",
     "organization_name": {
@@ -485,7 +769,7 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240678",
     "organization_name": {
@@ -503,12 +787,50 @@
       "lang:en": "councillor",
       "lang:ur": "کونسلر"
     },
-    "role_level": "Q515",
+    "role_level": "Q515 Q15284",
     "role_type": "Q4175034",
     "organization_id": "Q59240679",
     "organization_name": {
       "lang:en": "Municipal Corporation of Gujrat",
       "lang:ur": "میونسپل کارپوریشن گجرات"
+    }
+  },
+  {
+    "role_id": "Q6627562",
+    "role_name": {
+      "lang:en": "Mayor of Karachi",
+      "lang:ur": "کراچی کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q15982486",
+    "organization_name": {
+      "lang:en": "Karachi Metropolitan Corporation",
+      "lang:ur": "کراچی میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q735575",
+    "role_name": {
+      "lang:en": "Prime Minister of Pakistan",
+      "lang:ur": "وزیر اعظم پاکستان"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:ur": "وزیر اعظم"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q2607174",
+    "organization_name": {
+      "lang:en": "Federal Cabinet of Pakistan",
+      "lang:ur": "کابینہ پاکستان"
     }
   },
   {

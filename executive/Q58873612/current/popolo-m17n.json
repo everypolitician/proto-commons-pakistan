@@ -2,14 +2,13 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Hafiz Hafeez ur Rehman",
-        "lang:ur": "حافظ حفیظ الرحمان"
+        "lang:en": "Razzak Malik"
       },
-      "id": "Q20724398",
+      "id": "Q59956661",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q20724398"
+          "identifier": "Q59956661"
         }
       ],
       "links": [
@@ -20,18 +19,18 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Gilgit-Baltistan Council",
-        "lang:ur": "گلگت بلتستان کونسل"
+        "lang:en": "Faisalabad Municipal Corporation",
+        "lang:ur": "فیصل آباد میونسپل کارپوریشن"
       },
-      "id": "Q16910253",
+      "id": "Q58873612",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16910253"
+          "identifier": "Q58873612"
         }
       ],
-      "area_id": "Q200697"
+      "area_id": "Q173985"
     },
     {
       "name": {
@@ -50,26 +49,51 @@
   ],
   "areas": [
     {
-      "id": "Q200697",
+      "id": "Q173985",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:pk/administrative-territory:gb"
+          "identifier": "country:pk/province:pb/city:faisalabad"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q200697"
+          "identifier": "Q173985"
         }
       ],
       "associated_wikidata_positions": [
-        "Q8135012"
+        "Q28223514",
+        "Q58873769"
       ],
       "type": {
-        "lang:en": "administrative territorial entity of Pakistan",
-        "lang:ur": "پاکستان کی انتظامی تقسیم"
+        "lang:en": "city",
+        "lang:ur": "شہر"
       },
       "name": {
-        "lang:en": "Gilgit-Baltistan"
+        "lang:en": "Faisalabad",
+        "lang:ur": "فیصل آباد"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
       },
       "parent_id": "Q843"
     },
@@ -100,20 +124,21 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q20724398-e984044e-4d75-db36-5803-4d57b7df84f7",
-      "person_id": "Q20724398",
+      "id": "http://www.wikidata.org/entity/statement/Q59956661-f474ac68-4ade-be26-e797-2f1ea7ba58d8",
+      "person_id": "Q59956661",
       "on_behalf_of_id": "Q799577",
-      "organization_id": "Q16910253",
-      "area_id": "Q200697",
-      "start_date": "2015-06-25",
-      "role_superclass_code": "Q16163440",
+      "organization_id": "Q58873612",
+      "area_id": "Q173985",
+      "start_date": "2016-12-22",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Chief Minister"
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
       },
-      "role_code": "Q8135012",
+      "role_code": "Q28223514",
       "role": {
-        "lang:en": "Chief Minister of Gilgit-Baltistan",
-        "lang:ur": "گلگت بلتستان کا وزیر اعلی"
+        "lang:en": "Mayor of Faisalabad",
+        "lang:ur": "فیصل آباد کا میئر"
       }
     }
   ]

@@ -1,0 +1,100 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Municipal Corporation of Sialkot",
+        "lang:ur": "میونسپل کارپوریشن سیالکوٹ"
+      },
+      "id": "Q59240672",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59240672"
+        }
+      ],
+      "area_id": "Q643883"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q643883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb/city:sialkot"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q643883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59240755",
+        "Q59241661"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Sialkot",
+        "lang:ur": "سیالکوٹ"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tayyab Hussain"
+      },
+      "id": "Q26923271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26923271"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Hyderabad Municipal Corporation",
+        "lang:ur": "حیدرآباد میونسپل کارپوریشن"
+      },
+      "id": "Q28223529",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28223529"
+        }
+      ],
+      "area_id": "Q1640079"
+    },
+    {
+      "name": {
+        "lang:en": "Muttahida Qaumi Movement",
+        "lang:ur": "متحدہ قومی موومنٹ"
+      },
+      "id": "Q1265113",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265113"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1640079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd/city:hyderabad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1640079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28223493",
+        "Q58873780"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:ur": "شہر"
+      },
+      "name": {
+        "lang:en": "Hyderabad",
+        "lang:ur": "حیدرآباد"
+      },
+      "parent_id": "Q37211"
+    },
+    {
+      "id": "Q37211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:sd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3694864"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Sindh"
+      },
+      "parent_id": "Q843"
+    },
+    {
+      "id": "Q843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q735575"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:ur": "ملک"
+      },
+      "name": {
+        "lang:en": "Islamic Republic of Pakistan"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26923271-b86a2d9f-462f-8187-15f6-4ec684aa3476",
+      "person_id": "Q26923271",
+      "on_behalf_of_id": "Q1265113",
+      "organization_id": "Q28223529",
+      "area_id": "Q1640079",
+      "start_date": "2016-08-30",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
+      },
+      "role_code": "Q28223493",
+      "role": {
+        "lang:en": "Mayor of Hyderabad",
+        "lang:ur": "حیدر آباد کا میئر"
+      }
+    }
+  ]
+}

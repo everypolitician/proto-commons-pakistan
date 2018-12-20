@@ -1,6 +1,53 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Murad Ali Shah",
+        "lang:ur": "مراد علی شاہ"
+      },
+      "id": "Q26132883",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26132883"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Syed Abdullah Ali Shah",
+        "lang:ur": "سید عبداللہ شاہ"
+      },
+      "id": "Q27995800",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27995800"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pir Ilahi Bux",
+        "lang:ur": "پیر الہی بخش"
+      },
+      "id": "Q7197589",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7197589"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +64,20 @@
         }
       ],
       "area_id": "Q37211"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Peoples Party",
+        "lang:ur": "پاکستان پیپلز پارٹی"
+      },
+      "id": "Q186591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q186591"
+        }
+      ]
     }
   ],
   "areas": [
@@ -33,7 +94,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q28169441"
+        "Q3694864"
       ],
       "type": {
         "lang:en": "province of Pakistan"
@@ -69,6 +130,53 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26132883-5730368d-46a3-2134-65c0-09c9b813d161",
+      "person_id": "Q26132883",
+      "on_behalf_of_id": "Q186591",
+      "organization_id": "Q59137047",
+      "area_id": "Q37211",
+      "start_date": "2018-08-18",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q3694864",
+      "role": {
+        "lang:en": "Chief Minister of Sindh",
+        "lang:ur": "وزیر اعلیٰ سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27995800-a3e1c6f8-4939-1bca-89ae-548289cc9532",
+      "person_id": "Q27995800",
+      "on_behalf_of_id": "Q186591",
+      "organization_id": "Q59137047",
+      "area_id": "Q37211",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q3694864",
+      "role": {
+        "lang:en": "Chief Minister of Sindh",
+        "lang:ur": "وزیر اعلیٰ سندھ"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7197589-26B0FF20-1120-45A0-9170-11ED954B4C22",
+      "person_id": "Q7197589",
+      "organization_id": "Q59137047",
+      "area_id": "Q37211",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q3694864",
+      "role": {
+        "lang:en": "Chief Minister of Sindh",
+        "lang:ur": "وزیر اعلیٰ سندھ"
+      }
+    }
   ]
 }

@@ -14,6 +14,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Mahmood Khan",
+        "lang:ur": "محمود خان"
+      },
+      "id": "Q47376718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47376718"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -43,6 +59,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q186591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Tehreek-e-Insaf",
+        "lang:ur": "پاکستان تحریک انصاف"
+      },
+      "id": "Q284454",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q284454"
         }
       ]
     }
@@ -103,6 +133,23 @@
       "on_behalf_of_id": "Q186591",
       "organization_id": "Q59137045",
       "area_id": "Q183314",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q5096852",
+      "role": {
+        "lang:en": "Chief Minister of Khyber Pakhtunkhwa",
+        "lang:ur": "خیبر پختونخواہ کا وزیر اعلی"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47376718-62df62eb-4adf-6c2c-bf5a-3ae9414b9b89",
+      "person_id": "Q47376718",
+      "on_behalf_of_id": "Q284454",
+      "organization_id": "Q59137045",
+      "area_id": "Q183314",
+      "start_date": "2018-08-17",
       "role_superclass_code": "Q16163440",
       "role_superclass": {
         "lang:en": "Chief Minister"

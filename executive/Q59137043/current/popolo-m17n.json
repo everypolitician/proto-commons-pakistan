@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Jam Kamal Khan",
+        "lang:ur": "جام کمال خان"
+      },
+      "id": "Q18750287",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18750287"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q163239"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -69,6 +98,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18750287-5bc79547-4ee7-f9ef-b3fa-9875abf75dd7",
+      "person_id": "Q18750287",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q59137043",
+      "area_id": "Q163239",
+      "start_date": "2018-08-19",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q3695530",
+      "role": {
+        "lang:en": "Chief Minister of Balochistan",
+        "lang:ur": "بلوچستان کا وزیر اعلی"
+      }
+    }
   ]
 }

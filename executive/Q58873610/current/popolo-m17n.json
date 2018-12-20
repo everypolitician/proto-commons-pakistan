@@ -2,14 +2,13 @@
   "persons": [
     {
       "name": {
-        "lang:en": "Hafiz Hafeez ur Rehman",
-        "lang:ur": "حافظ حفیظ الرحمان"
+        "lang:en": "Mubashir Javed"
       },
-      "id": "Q20724398",
+      "id": "Q59956311",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q20724398"
+          "identifier": "Q59956311"
         }
       ],
       "links": [
@@ -20,18 +19,18 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Gilgit-Baltistan Council",
-        "lang:ur": "گلگت بلتستان کونسل"
+        "lang:en": "Metropolitan Corporation Lahore",
+        "lang:ur": "میٹروپولیٹن کارپوریشن لاہور"
       },
-      "id": "Q16910253",
+      "id": "Q58873610",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q16910253"
+          "identifier": "Q58873610"
         }
       ],
-      "area_id": "Q200697"
+      "area_id": "Q11739"
     },
     {
       "name": {
@@ -50,26 +49,51 @@
   ],
   "areas": [
     {
-      "id": "Q200697",
+      "id": "Q11739",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:pk/administrative-territory:gb"
+          "identifier": "country:pk/province:pb/city:lahore"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q200697"
+          "identifier": "Q11739"
         }
       ],
       "associated_wikidata_positions": [
-        "Q8135012"
+        "Q28223500",
+        "Q58873767"
       ],
       "type": {
-        "lang:en": "administrative territorial entity of Pakistan",
-        "lang:ur": "پاکستان کی انتظامی تقسیم"
+        "lang:en": "city",
+        "lang:ur": "شہر"
       },
       "name": {
-        "lang:en": "Gilgit-Baltistan"
+        "lang:en": "Lahore",
+        "lang:ur": "لاہور"
+      },
+      "parent_id": "Q4478"
+    },
+    {
+      "id": "Q4478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:pk/province:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1837955"
+      ],
+      "type": {
+        "lang:en": "province of Pakistan"
+      },
+      "name": {
+        "lang:en": "Punjab"
       },
       "parent_id": "Q843"
     },
@@ -100,20 +124,21 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q20724398-e984044e-4d75-db36-5803-4d57b7df84f7",
-      "person_id": "Q20724398",
+      "id": "http://www.wikidata.org/entity/statement/Q59956311-a2b1427a-4ad4-f557-8c35-cdcd714e2cdd",
+      "person_id": "Q59956311",
       "on_behalf_of_id": "Q799577",
-      "organization_id": "Q16910253",
-      "area_id": "Q200697",
-      "start_date": "2015-06-25",
-      "role_superclass_code": "Q16163440",
+      "organization_id": "Q58873610",
+      "area_id": "Q11739",
+      "start_date": "2016-12-31",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Chief Minister"
+        "lang:en": "mayor",
+        "lang:ur": "ناظم شہر"
       },
-      "role_code": "Q8135012",
+      "role_code": "Q28223500",
       "role": {
-        "lang:en": "Chief Minister of Gilgit-Baltistan",
-        "lang:ur": "گلگت بلتستان کا وزیر اعلی"
+        "lang:en": "Mayor of Lahore",
+        "lang:ur": "لاہور کا میئر"
       }
     }
   ]
