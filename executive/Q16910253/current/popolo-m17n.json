@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Hafiz Hafeez ur Rehman",
+        "lang:ur": "حافظ حفیظ الرحمان"
+      },
+      "id": "Q20724398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20724398"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q200697"
+    },
+    {
+      "name": {
+        "lang:en": "Pakistan Muslim League (N)",
+        "lang:ur": "پاکستان مسلم لیگ (ن)"
+      },
+      "id": "Q799577",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q799577"
+        }
+      ]
     }
   ],
   "areas": [
@@ -70,6 +99,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20724398-e984044e-4d75-db36-5803-4d57b7df84f7",
+      "person_id": "Q20724398",
+      "on_behalf_of_id": "Q799577",
+      "organization_id": "Q16910253",
+      "area_id": "Q200697",
+      "start_date": "2015-06-25",
+      "role_superclass_code": "Q16163440",
+      "role_superclass": {
+        "lang:en": "Chief Minister"
+      },
+      "role_code": "Q8135012",
+      "role": {
+        "lang:en": "Chief Minister of Gilgit-Baltistan",
+        "lang:ur": "گلگت بلتستان کا وزیر اعلی"
+      }
+    }
   ]
 }
