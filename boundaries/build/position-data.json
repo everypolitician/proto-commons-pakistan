@@ -111,6 +111,120 @@
     }
   },
   {
+    "role_id": "Q28223493",
+    "role_name": {
+      "lang:en": "Mayor of Hyderabad",
+      "lang:ur": "حیدر آباد کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q28223529",
+    "organization_name": {
+      "lang:en": "Hyderabad Municipal Corporation",
+      "lang:ur": "حیدرآباد میونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223500",
+    "role_name": {
+      "lang:en": "Mayor of Lahore",
+      "lang:ur": "لاہور کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873610",
+    "organization_name": {
+      "lang:en": "Metropolitan Corporation Lahore",
+      "lang:ur": "میٹروپولیٹن کارپوریشن لاہور"
+    }
+  },
+  {
+    "role_id": "Q28223501",
+    "role_name": {
+      "lang:en": "Mayor of Quetta",
+      "lang:ur": "کوئٹہ کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873626",
+    "organization_name": {
+      "lang:en": "Quetta Metropolitan Corporation",
+      "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223514",
+    "role_name": {
+      "lang:en": "Mayor of Faisalabad",
+      "lang:ur": "فیصل آباد کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873612",
+    "organization_name": {
+      "lang:en": "Faisalabad Municipal Corporation",
+      "lang:ur": "فیصل آباد میونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223520",
+    "role_name": {
+      "lang:en": "Mayor of Rawalpindi",
+      "lang:ur": "راولپنڈی کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q55641548",
+    "organization_name": {
+      "lang:en": "Rawalpindi Municipal Corporation",
+      "lang:ur": "راولپنڈی مونسپل کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q28223521",
+    "role_name": {
+      "lang:en": "Mayor of Multan",
+      "lang:ur": "ملتان کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873622",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Multan",
+      "lang:ur": "میونسپل کارپوریشن ملتان"
+    }
+  },
+  {
     "role_id": "Q3297966",
     "role_name": {
       "lang:en": "Chairman of the Senate of Pakistan",
@@ -438,6 +552,25 @@
     "organization_name": {
       "lang:en": "Quetta Metropolitan Corporation",
       "lang:ur": "کوئٹہ میٹروپولیٹن کارپوریشن"
+    }
+  },
+  {
+    "role_id": "Q59137051",
+    "role_name": {
+      "lang:en": "Mayor of Gujranwala",
+      "lang:ur": "گوجرانوالہ کا میئر"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:ur": "ناظم شہر"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": null,
+    "organization_id": "Q58873615",
+    "organization_name": {
+      "lang:en": "Municipal Corporation Gujranwala",
+      "lang:ur": "ميونسپل کارپوریشن گوجرانوالہ"
     }
   },
   {
