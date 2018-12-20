@@ -28,7 +28,100 @@
   },
   "results": {
     "bindings": [
-
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q18750287-5bc79547-4ee7-f9ef-b3fa-9875abf75dd7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18750287"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jam Kamal Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "جام کمال خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q799577"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Muslim League (N)"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان مسلم لیگ (ن)"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q163239"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Balochistan"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "بلوچستان"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3695530"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister of Balochistan"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "بلوچستان کا وزیر اعلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-19T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16163440"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59137043"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Cabinet of Balochistan"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "صوبائی کابینہ"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q163239"
+        }
+      }
     ]
   }
 }

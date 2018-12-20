@@ -111,6 +111,100 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q183314"
         }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47376718-62df62eb-4adf-6c2c-bf5a-3ae9414b9b89"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47376718"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mahmood Khan"
+        },
+        "name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "محمود خان"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284454"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pakistan Tehreek-e-Insaf"
+        },
+        "party_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "پاکستان تحریک انصاف"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183314"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Khyber Pakhtunkhwa"
+        },
+        "district_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "خیبر پختونخواہ"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5096852"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister of Khyber Pakhtunkhwa"
+        },
+        "role_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "خیبر پختونخواہ کا وزیر اعلی"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2018-08-17T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16163440"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59137045"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Provincial Cabinet of Khyber Pakhtunkhwa"
+        },
+        "org_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "صوبائی کابینہ"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183314"
+        }
       }
     ]
   }

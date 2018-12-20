@@ -268,63 +268,6 @@
       {
         "position": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q28169441"
-        },
-        "position_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Chief Minister of Sindh"
-        },
-        "position_name_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ کا وزیر اعلی"
-        },
-        "adminAreaTypes": {
-          "type": "literal",
-          "value": "Q10864048"
-        },
-        "adminArea": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q37211"
-        },
-        "admin_area_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Sindh"
-        },
-        "admin_area_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "سندھ"
-        },
-        "positionSuperclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16163440"
-        },
-        "position_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Chief Minister"
-        },
-        "body": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q59137047"
-        },
-        "body_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Provincial Cabinet of Sindh"
-        },
-        "body_ur": {
-          "xml:lang": "ur",
-          "type": "literal",
-          "value": "صوبائی کابینہ"
-        }
-      },
-      {
-        "position": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q28172635"
         },
         "position_name_en": {
