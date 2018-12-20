@@ -387,6 +387,378 @@
       {
         "position": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223493"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Hyderabad"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "حیدر آباد کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1640079"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hyderabad"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "حیدرآباد"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223529"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hyderabad Municipal Corporation"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "حیدرآباد میونسپل کارپوریشن"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223500"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Lahore"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "لاہور کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11739"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lahore"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "لاہور"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873610"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Metropolitan Corporation Lahore"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "میٹروپولیٹن کارپوریشن لاہور"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223501"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Quetta"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کوئٹہ کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185458"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quetta"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کوئٹہ"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873626"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quetta Metropolitan Corporation"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "کوئٹہ میٹروپولیٹن کارپوریشن"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223514"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Faisalabad"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "فیصل آباد کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q173985"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Faisalabad"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "فیصل آباد"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873612"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Faisalabad Municipal Corporation"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "فیصل آباد میونسپل کارپوریشن"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223520"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Rawalpindi"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "راولپنڈی کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93230"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rawalpindi"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "راولپنڈی"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55641548"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rawalpindi Municipal Corporation"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "راولپنڈی مونسپل کارپوریشن"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28223521"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Multan"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ملتان کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185453"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Multan"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ملتان"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873622"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal Corporation Multan"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "میونسپل کارپوریشن ملتان"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q3297966"
         },
         "position_name_en": {
@@ -1563,6 +1935,68 @@
           "xml:lang": "ur",
           "type": "literal",
           "value": "کوئٹہ میٹروپولیٹن کارپوریشن"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59137051"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Gujranwala"
+        },
+        "position_name_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "گوجرانوالہ کا میئر"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q243322"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gujranwala"
+        },
+        "admin_area_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "گوجرانوالہ"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ناظم شہر"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58873615"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal Corporation Gujranwala"
+        },
+        "body_ur": {
+          "xml:lang": "ur",
+          "type": "literal",
+          "value": "ميونسپل کارپوریشن گوجرانوالہ"
         }
       },
       {
