@@ -1,5 +1,6 @@
 WARNING: no executive for President of Pakistan (Q473984) in Pakistan (Q843)
 WARNING: no executive for governor (Q132050) in Federally Administered Tribal Areas (Q208270)
+WARNING: no executive for  (Q28169441) in Sindh (Q37211)
 WARNING: no head of government position for Sheikhupura (Q972756)
 WARNING: no head of government position for Kasur (Q989283)
 WARNING: no head of government position for Nawabshah (Q1017637)
